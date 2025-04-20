@@ -1,0 +1,3677 @@
+[
+    {
+        "sentence": "Luật này quy định về phòng, chống ma túy",
+        "reference": {
+            "type": "Article",
+            "id": "article_1",
+            "chapter_id": "chapter_I"
+        }
+    },
+    {
+        "sentence": "quản lý người sử dụng trái phép chất ma túy",
+        "reference": {
+            "type": "Article",
+            "id": "article_1",
+            "chapter_id": "chapter_I"
+        }
+    },
+    {
+        "sentence": "cai nghiện ma túy",
+        "reference": {
+            "type": "Article",
+            "id": "article_1",
+            "chapter_id": "chapter_I"
+        }
+    },
+    {
+        "sentence": "trách nhiệm của cá nhân, gia đình, cơ quan, tổ chức trong phòng, chống ma túy",
+        "reference": {
+            "type": "Article",
+            "id": "article_1",
+            "chapter_id": "chapter_I"
+        }
+    },
+    {
+        "sentence": "quản lý nhà nước và hợp tác quốc tế về phòng, chống ma túy.",
+        "reference": {
+            "type": "Article",
+            "id": "article_1",
+            "chapter_id": "chapter_I"
+        }
+    },
+    {
+        "sentence": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+        "reference": {
+            "type": "Article",
+            "id": "article_2",
+            "chapter_id": "chapter_I"
+        }
+    },
+    {
+        "sentence": "Chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh mục chất ma túy do Chính phủ ban hành.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_1",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Chất gây nghiện là chất kích thích hoặc ức chế thần kinh, dễ gây tình trạng nghiện đối với người sử dụng.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_2",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Chất hướng thần là chất kích thích hoặc ức chế thần kinh hoặc gây ảo giác, nếu sử dụng nhiều lần có thể dẫn tới tình trạng nghiện đối với người sử dụng.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_3",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Tiền chất là hóa chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma túy được quy định trong danh mục tiền chất do Chính phủ ban hành.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_4",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Thuốc thú y có chứa chất ma túy, tiền chất là thuốc thú y có chứa các chất được quy định tại các khoản 2, 3 và 4 của Điều này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_5",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Cây có chứa chất ma túy là cây thuốc phiện, cây côca, cây cần sa và các loại cây khác có chứa chất ma túy do Chính phủ quy định.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_6",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Phòng, chống ma túy là phòng ngừa, ngăn chặn, đấu tranh chống tội phạm và tệ nạn ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_7",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "kiểm soát các hoạt động hợp pháp liên quan đến ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_7",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Tệ nạn ma túy là việc sử dụng trái phép chất ma túy, nghiện ma túy và các hành vi vi phạm pháp luật về ma túy mà chưa đến mức hoặc không bị truy cứu trách nhiệm hình sự.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_8",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Kiểm soát các hoạt động hợp pháp liên quan đến ma túy là việc cho phép, theo dõi, kiểm tra, giám sát các hoạt động hợp pháp liên quan đến ma túy và phòng ngừa, ngăn chặn việc lợi dụng các hoạt động đó vào mục đích khác.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_9",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Người sử dụng trái phép chất ma túy là người có hành vi sử dụng chất ma túy mà không được sự cho phép của người hoặc cơ quan chuyên môn có thẩm quyền và xét nghiệm chất ma túy trong cơ thể có kết quả dương tính.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_10",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Xét nghiệm chất ma túy trong cơ thể là việc thực hiện các kỹ thuật chuyên môn nhằm xác định chất ma túy trong cơ thể thông qua mẫu nước tiểu, mẫu máu hoặc các mẫu vật khác của cơ thể người.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_11",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Người nghiện ma túy là người sử dụng chất ma túy, thuốc gây nghiện, thuốc hướng thần và bị lệ thuộc vào các chất này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_12",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Cai nghiện ma túy là quá trình thực hiện các hoạt động hỗ trợ về y tế, tâm lý, xã hội, giúp người nghiện ma túy dừng sử dụng chất ma túy, thuốc gây nghiện, thuốc hướng thần, phục hồi thể chất, tinh thần, nâng cao nhận thức, thay đổi hành vi để chấm dứt việc sử dụng trái phép các chất này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_13",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Cơ sở cai nghiện ma túy là cơ sở được thành lập để thực hiện đầy đủ quy trình cai nghiện theo quy định của Luật này, bao gồm cơ sở cai nghiện ma túy công lập và cơ sở cai nghiện ma túy tự nguyện.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_2_14",
+            "chapter_id": "chapter_I",
+            "article_id": "article_2"
+        }
+    },
+    {
+        "sentence": "Thực hiện đồng bộ các biện pháp phòng, chống ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_1",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "kết hợp với phòng, chống HIV/AIDS và các tệ nạn xã hội khác.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_1",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "Tăng cường hoạt động tuyên truyền, giáo dục về công tác phòng, chống ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_2",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "khuyến khích tổ chức, cá nhân tham gia tuyên truyền, giáo dục phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_2",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "Ưu tiên nguồn lực phòng, chống ma túy cho vùng đồng bào dân tộc thiểu số và miền núi, vùng sâu, vùng xa, hải đảo, khu vực biên giới và địa bàn phức tạp về ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_3",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "Cán bộ, chiến sĩ thuộc cơ quan chuyên trách phòng, chống tội phạm về ma túy, người làm công tác cai nghiện ma túy trong các cơ sở cai nghiện ma túy công lập được hưởng chế độ, chính sách ưu đãi phù hợp với tính chất nhiệm vụ, địa bàn hoạt động theo quy định của Chính phủ.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_4",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "Bảo vệ, hỗ trợ cá nhân, gia đình, cơ quan, tổ chức tham gia phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_5",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "Quản lý chặt chẽ người sử dụng trái phép chất ma túy, người nghiện ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_6",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "khuyến khích người nghiện ma túy tự nguyện cai nghiện ma túy, điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_6",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "khuyến khích cá nhân, gia đình, cơ quan, tổ chức tham gia, hỗ trợ hoạt động cai nghiện ma túy, quản lý sau cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_6",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "Bảo đảm kinh phí cai nghiện ma túy bắt buộc",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_7",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "hỗ trợ kinh phí cai nghiện ma túy tự nguyện, kinh phí quản lý sau cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_7",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "Tổ chức, cá nhân trong nước và ngoài nước đầu tư vào hoạt động cai nghiện ma túy, hỗ trợ quản lý sau cai nghiện ma túy, phòng, chống tái nghiện ma túy được miễn, giảm tiền thuê đất, thuế thu nhập doanh nghiệp theo quy định của pháp luật.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_8",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "Khuyến khích nghiên cứu khoa học, phát triển công nghệ và ứng dụng công nghệ cao trong phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_9",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "Khen thưởng cá nhân, tổ chức, cơ quan có thành tích trong phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_3_10",
+            "chapter_id": "chapter_I",
+            "article_id": "article_3"
+        }
+    },
+    {
+        "sentence": "Ngân sách nhà nước.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_4_1",
+            "chapter_id": "chapter_I",
+            "article_id": "article_4"
+        }
+    },
+    {
+        "sentence": "Nguồn tài trợ, viện trợ, đầu tư, tặng cho của tổ chức, cá nhân trong nước và ngoài nước.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_4_2",
+            "chapter_id": "chapter_I",
+            "article_id": "article_4"
+        }
+    },
+    {
+        "sentence": "Chi trả của gia đình, người nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_4_3",
+            "chapter_id": "chapter_I",
+            "article_id": "article_4"
+        }
+    },
+    {
+        "sentence": "Các nguồn tài chính hợp pháp khác.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_4_4",
+            "chapter_id": "chapter_I",
+            "article_id": "article_4"
+        }
+    },
+    {
+        "sentence": "Trồng cây có chứa chất ma túy, hướng dẫn trồng cây có chứa chất ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_1",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "Nghiên cứu, giám định, kiểm nghiệm, kiểm định, sản xuất, tàng trữ, vận chuyển, bảo quản, tồn trữ, mua bán, phân phối, xử lý, trao đổi, xuất khẩu, nhập khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh trái phép chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_2",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "Chiếm đoạt chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_3",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "Giao nhận, quản lý, kiểm soát, lưu giữ, cấp phát, bảo quản chất ma túy, tiền chất trái quy định của pháp luật",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_4",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "cho phép người sử dụng chất ma túy, thuốc gây nghiện hoặc thuốc hướng thần trái quy định của pháp luật.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_4",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "Sử dụng, tổ chức sử dụng trái phép chất ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_5",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "cưỡng bức, lôi kéo người khác sử dụng trái phép chất ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_5",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "chứa chấp, hỗ trợ việc sử dụng trái phép chất ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_5",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "Sản xuất, tàng trữ, vận chuyển, mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_6",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "Chống lại hoặc cản trở việc xét nghiệm chất ma túy trong cơ thể, xác định tình trạng nghiện ma túy, quản lý người sử dụng trái phép chất ma túy, cai nghiện ma túy, quản lý sau cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_7",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "Trả thù hoặc cản trở người thực thi nhiệm vụ phòng, chống ma túy, người tham gia phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_8",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "Lợi dụng chức vụ, quyền hạn, nghề nghiệp để vi phạm pháp luật về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_9",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "Hướng dẫn sản xuất, hướng dẫn sử dụng trái phép chất ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_10",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "quảng cáo, tiếp thị chất ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_10",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "Kỳ thị người sử dụng trái phép chất ma túy, người cai nghiện ma túy, người sau cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_11",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "Các hành vi bị nghiêm cấm khác do luật định liên quan đến ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_5_12",
+            "chapter_id": "chapter_I",
+            "article_id": "article_5"
+        }
+    },
+    {
+        "sentence": "Tuyên truyền, giáo dục thành viên trong gia đình, người thân về tác hại của ma túy và thực hiện quy định của pháp luật về phòng, chống ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_6_1",
+            "chapter_id": "chapter_II",
+            "article_id": "article_6"
+        }
+    },
+    {
+        "sentence": "quản lý, ngăn chặn thành viên trong gia đình vi phạm pháp luật về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_6_1",
+            "chapter_id": "chapter_II",
+            "article_id": "article_6"
+        }
+    },
+    {
+        "sentence": "Thực hiện đúng chỉ định của người có thẩm quyền về sử dụng thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc thú y có chứa chất ma túy, tiền chất.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_6_2",
+            "chapter_id": "chapter_II",
+            "article_id": "article_6"
+        }
+    },
+    {
+        "sentence": "Hợp tác với cơ quan chức năng trong đấu tranh với tội phạm và tệ nạn ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_6_3",
+            "chapter_id": "chapter_II",
+            "article_id": "article_6"
+        }
+    },
+    {
+        "sentence": "tham gia hỗ trợ hoạt động cai nghiện ma túy tự nguyện tại gia đình, cộng đồng, cai nghiện ma túy tại cơ sở cai nghiện ma túy và điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_6_3",
+            "chapter_id": "chapter_II",
+            "article_id": "article_6"
+        }
+    },
+    {
+        "sentence": "theo dõi, giúp đỡ người sau cai nghiện ma túy hòa nhập cộng đồng",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_6_3",
+            "chapter_id": "chapter_II",
+            "article_id": "article_6"
+        }
+    },
+    {
+        "sentence": "phòng, chống tái nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_6_3",
+            "chapter_id": "chapter_II",
+            "article_id": "article_6"
+        }
+    },
+    {
+        "sentence": "Cung cấp kịp thời thông tin về tội phạm, tệ nạn ma túy và việc trồng cây có chứa chất ma túy cho cơ quan công an hoặc cơ quan nhà nước có thẩm quyền",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_6_4",
+            "chapter_id": "chapter_II",
+            "article_id": "article_6"
+        }
+    },
+    {
+        "sentence": "tham gia xóa bỏ cây có chứa chất ma túy do chính quyền địa phương tổ chức.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_6_4",
+            "chapter_id": "chapter_II",
+            "article_id": "article_6"
+        }
+    },
+    {
+        "sentence": "Tổ chức phòng, chống ma túy trong cơ quan, đơn vị",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_7_1",
+            "chapter_id": "chapter_II",
+            "article_id": "article_7"
+        }
+    },
+    {
+        "sentence": "phòng ngừa, ngăn chặn cán bộ, công chức, viên chức, người lao động thuộc quyền quản lý và cán bộ, chiến sĩ thuộc lực lượng vũ trang nhân dân vi phạm pháp luật về phòng, chống ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_7_1",
+            "chapter_id": "chapter_II",
+            "article_id": "article_7"
+        }
+    },
+    {
+        "sentence": "tuyên truyền, vận động Nhân dân phát hiện, tố giác, đấu tranh với tội phạm và tệ nạn ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_7_1",
+            "chapter_id": "chapter_II",
+            "article_id": "article_7"
+        }
+    },
+    {
+        "sentence": "Tổ chức thực hiện chủ trương, chính sách của Nhà nước về quy hoạch, phát triển kinh tế - xã hội để thay thế việc trồng cây có chứa chất ma túy tại các vùng xóa bỏ cây có chứa chất ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_7_2",
+            "chapter_id": "chapter_II",
+            "article_id": "article_7"
+        }
+    },
+    {
+        "sentence": "Tổ chức thực hiện chương trình giáo dục về phòng, chống ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_8_1",
+            "chapter_id": "chapter_II",
+            "article_id": "article_8"
+        }
+    },
+    {
+        "sentence": "phổ biến, giáo dục pháp luật về phòng, chống ma túy cho học sinh, sinh viên, học viên",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_8_1",
+            "chapter_id": "chapter_II",
+            "article_id": "article_8"
+        }
+    },
+    {
+        "sentence": "quản lý chặt chẽ, ngăn chặn học sinh, sinh viên, học viên vi phạm pháp luật về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_8_1",
+            "chapter_id": "chapter_II",
+            "article_id": "article_8"
+        }
+    },
+    {
+        "sentence": "Phối hợp với gia đình, cơ quan, tổ chức và chính quyền địa phương để quản lý, giáo dục học sinh, sinh viên, học viên về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_8_2",
+            "chapter_id": "chapter_II",
+            "article_id": "article_8"
+        }
+    },
+    {
+        "sentence": "Phối hợp với cơ quan, tổ chức, cá nhân có thẩm quyền tổ chức xét nghiệm chất ma túy trong cơ thể khi cần thiết để phát hiện học sinh, sinh viên, học viên sử dụng trái phép chất ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_8_3",
+            "chapter_id": "chapter_II",
+            "article_id": "article_8"
+        }
+    },
+    {
+        "sentence": "Cơ quan báo chí có trách nhiệm phối hợp với cơ quan, tổ chức có liên quan tuyên truyền chủ trương, chính sách, pháp luật về phòng, chống ma túy.",
+        "reference": {
+            "type": "Article",
+            "id": "article_9",
+            "chapter_id": "chapter_II"
+        }
+    },
+    {
+        "sentence": "Tổ chức và phối hợp với cơ quan có thẩm quyền tuyên truyền, phổ biến kiến thức, pháp luật về phòng, chống ma túy trong Nhân dân",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_10_1",
+            "chapter_id": "chapter_II",
+            "article_id": "article_10"
+        }
+    },
+    {
+        "sentence": "vận động Nhân dân tham gia phòng, chống ma túy và thực hiện các phong trào phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_10_1",
+            "chapter_id": "chapter_II",
+            "article_id": "article_10"
+        }
+    },
+    {
+        "sentence": "Phòng ngừa, ngăn chặn người của tổ chức mình và mọi công dân vi phạm pháp luật về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_10_2",
+            "chapter_id": "chapter_II",
+            "article_id": "article_10"
+        }
+    },
+    {
+        "sentence": "Phối hợp với chính quyền địa phương các cấp, cơ quan có thẩm quyền vận động người nghiện ma túy thực hiện biện pháp cai nghiện ma túy, điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_10_3",
+            "chapter_id": "chapter_II",
+            "article_id": "article_10"
+        }
+    },
+    {
+        "sentence": "tham gia cảm hóa, giáo dục, dạy nghề, tìm việc làm và giúp đỡ người sau cai nghiện ma túy hòa nhập cộng đồng",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_10_3",
+            "chapter_id": "chapter_II",
+            "article_id": "article_10"
+        }
+    },
+    {
+        "sentence": "phòng, chống tái nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_10_3",
+            "chapter_id": "chapter_II",
+            "article_id": "article_10"
+        }
+    },
+    {
+        "sentence": "Cơ quan chuyên trách phòng, chống tội phạm về ma túy bao gồm:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_11_1",
+            "chapter_id": "chapter_II",
+            "article_id": "article_11"
+        }
+    },
+    {
+        "sentence": "Cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Công an nhân dân;",
+        "reference": {
+            "type": "Point",
+            "id": "point_11_1_a",
+            "chapter_id": "chapter_II",
+            "article_id": "article_11",
+            "clause_id": "clause_11_1"
+        }
+    },
+    {
+        "sentence": "Cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Bộ đội Biên phòng, Cảnh sát biển Việt Nam và Hải quan.",
+        "reference": {
+            "type": "Point",
+            "id": "point_11_1_b",
+            "chapter_id": "chapter_II",
+            "article_id": "article_11",
+            "clause_id": "clause_11_1"
+        }
+    },
+    {
+        "sentence": "Cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Công an nhân dân, trong phạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với cơ quan, tổ chức có liên quan thực hiện các hoạt động phòng ngừa, ngăn chặn và đấu tranh chống tội phạm về ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_11_2",
+            "chapter_id": "chapter_II",
+            "article_id": "article_11"
+        }
+    },
+    {
+        "sentence": "Cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Bộ đội Biên phòng, Cảnh sát biển Việt Nam, Hải quan, trong phạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với cơ quan công an, cơ quan, tổ chức khác có liên quan thực hiện các hoạt động phòng ngừa, ngăn chặn và đấu tranh chống tội phạm về ma túy tại khu vực hoặc địa bàn quản lý, kiểm soát.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_11_3",
+            "chapter_id": "chapter_II",
+            "article_id": "article_11"
+        }
+    },
+    {
+        "sentence": "Trên cùng một địa bàn khi phát hiện hành vi vi phạm pháp luật liên quan đến nhiệm vụ, quyền hạn của nhiều cơ quan thì cơ quan phát hiện trước có trách nhiệm xử lý theo thẩm quyền do pháp luật quy định",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_11_4",
+            "chapter_id": "chapter_II",
+            "article_id": "article_11"
+        }
+    },
+    {
+        "sentence": "trường hợp vụ việc không thuộc thẩm quyền của mình thì chuyển giao hồ sơ, người, tang vật vi phạm pháp luật cho cơ quan có thẩm quyền chủ trì giải quyết.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_11_4",
+            "chapter_id": "chapter_II",
+            "article_id": "article_11"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định việc phối hợp của các cơ quan chuyên trách phòng, chống tội phạm về ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_11_5",
+            "chapter_id": "chapter_II",
+            "article_id": "article_11"
+        }
+    },
+    {
+        "sentence": "Hoạt động hợp pháp liên quan đến ma túy là hoạt động được cơ quan quản lý nhà nước có thẩm quyền cho phép, bao gồm:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_12_1",
+            "chapter_id": "chapter_III",
+            "article_id": "article_12"
+        }
+    },
+    {
+        "sentence": "Nghiên cứu, giám định, kiểm nghiệm, kiểm định, sản xuất chất ma túy (không bao gồm trồng cây có chứa chất ma túy), tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc và thuốc thú y có chứa chất ma túy, tiền chất;",
+        "reference": {
+            "type": "Point",
+            "id": "point_12_1_a",
+            "chapter_id": "chapter_III",
+            "article_id": "article_12",
+            "clause_id": "clause_12_1"
+        }
+    },
+    {
+        "sentence": "Vận chuyển, bảo quản, tồn trữ, mua bán, phân phối, sử dụng, xử lý, trao đổi chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc và thuốc thú y có chứa chất ma túy, tiền chất;",
+        "reference": {
+            "type": "Point",
+            "id": "point_12_1_b",
+            "chapter_id": "chapter_III",
+            "article_id": "article_12",
+            "clause_id": "clause_12_1"
+        }
+    },
+    {
+        "sentence": "Nhập khẩu, xuất khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc và thuốc thú y có chứa chất ma túy, tiền chất.",
+        "reference": {
+            "type": "Point",
+            "id": "point_12_1_c",
+            "chapter_id": "chapter_III",
+            "article_id": "article_12",
+            "clause_id": "clause_12_1"
+        }
+    },
+    {
+        "sentence": "Hoạt động hợp pháp liên quan đến ma túy quy định tại khoản 1 Điều này được kiểm soát chặt chẽ theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_12_2",
+            "chapter_id": "chapter_III",
+            "article_id": "article_12"
+        }
+    },
+    {
+        "sentence": "Hoạt động nghiên cứu, giám định, sản xuất chất ma túy (không bao gồm trồng cây có chứa chất ma túy), tiền chất phải được cơ quan nhà nước có thẩm quyền theo dõi, kiểm tra, giám sát.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_13_1",
+            "chapter_id": "chapter_III",
+            "article_id": "article_13"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định cơ quan có thẩm quyền cho phép, trình tự, thủ tục cho phép, việc theo dõi, kiểm tra, giám sát quy định tại khoản 1 Điều này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_13_2",
+            "chapter_id": "chapter_III",
+            "article_id": "article_13"
+        }
+    },
+    {
+        "sentence": "Cơ quan, tổ chức, cá nhân đã được cơ quan nhà nước có thẩm quyền cho phép thì được vận chuyển chất ma túy, tiền chất",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_14_1",
+            "chapter_id": "chapter_III",
+            "article_id": "article_14"
+        }
+    },
+    {
+        "sentence": "khi thực hiện việc vận chuyển phải đóng gói, niêm phong theo quy định của cơ quan có thẩm quyền",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_14_1",
+            "chapter_id": "chapter_III",
+            "article_id": "article_14"
+        }
+    },
+    {
+        "sentence": "chịu trách nhiệm về số lượng, chất lượng, có biện pháp bảo vệ an toàn, không để bị thất thoát trong quá trình vận chuyển và chịu sự theo dõi, kiểm tra, giám sát của cơ quan nhà nước có thẩm quyền.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_14_1",
+            "chapter_id": "chapter_III",
+            "article_id": "article_14"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định chi tiết Điều này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_14_2",
+            "chapter_id": "chapter_III",
+            "article_id": "article_14"
+        }
+    },
+    {
+        "sentence": "Việc kiểm soát hoạt động liên quan đến thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc thực hiện theo quy định của pháp luật về dược, trừ hoạt động quy định tại điểm b khoản 1 và khoản 2 Điều 17 của Luật này.",
+        "reference": {
+            "type": "Article",
+            "id": "article_15",
+            "chapter_id": "chapter_III"
+        }
+    },
+    {
+        "sentence": "Việc kiểm soát hoạt động liên quan đến thuốc thú y có chứa chất ma túy, tiền chất thực hiện theo quy định của Chính phủ.",
+        "reference": {
+            "type": "Article",
+            "id": "article_16",
+            "chapter_id": "chapter_III"
+        }
+    },
+    {
+        "sentence": "Các hoạt động sau đây phải được cơ quan có thẩm quyền cho phép:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_17_1",
+            "chapter_id": "chapter_III",
+            "article_id": "article_17"
+        }
+    },
+    {
+        "sentence": "Nhập khẩu, xuất khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập chất ma túy, tiền chất;",
+        "reference": {
+            "type": "Point",
+            "id": "point_17_1_a",
+            "chapter_id": "chapter_III",
+            "article_id": "article_17",
+            "clause_id": "clause_17_1"
+        }
+    },
+    {
+        "sentence": "Tạm nhập, tái xuất, tạm xuất, tái nhập thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc.",
+        "reference": {
+            "type": "Point",
+            "id": "point_17_1_b",
+            "chapter_id": "chapter_III",
+            "article_id": "article_17",
+            "clause_id": "clause_17_1"
+        }
+    },
+    {
+        "sentence": "Hoạt động quá cảnh lãnh thổ Việt Nam chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc phải theo đúng hành trình đã ghi trong giấy phép quá cảnh",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_17_2",
+            "chapter_id": "chapter_III",
+            "article_id": "article_17"
+        }
+    },
+    {
+        "sentence": "Cơ quan, tổ chức thực hiện việc quá cảnh phải làm thủ tục, chịu sự kiểm soát của cơ quan Hải quan và cơ quan có thẩm quyền của Việt Nam.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_17_2",
+            "chapter_id": "chapter_III",
+            "article_id": "article_17"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định chi tiết Điều này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_17_3",
+            "chapter_id": "chapter_III",
+            "article_id": "article_17"
+        }
+    },
+    {
+        "sentence": "Cơ quan, tổ chức, cá nhân khi tiến hành hoạt động quy định tại khoản 1 Điều 12 của Luật này có trách nhiệm lập hồ sơ và báo cáo theo quy định của Chính phủ.",
+        "reference": {
+            "type": "Article",
+            "id": "article_18",
+            "chapter_id": "chapter_III"
+        }
+    },
+    {
+        "sentence": "Hoạt động nghiên cứu, giám định, sản xuất, vận chuyển, tồn trữ, bảo quản, sử dụng, nhập khẩu, xuất khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất vì mục đích quốc phòng, an ninh thực hiện theo quy định của Chính phủ.",
+        "reference": {
+            "type": "Article",
+            "id": "article_19",
+            "chapter_id": "chapter_III"
+        }
+    },
+    {
+        "sentence": "Việc mang theo thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất dự phòng cho việc sơ cứu, cấp cứu trên tàu thủy, tàu bay, tàu hỏa, ô tô hoặc các phương tiện vận tải khác trong cuộc hành trình, du lịch quốc tế không bị coi là mang hàng xuất khẩu, nhập khẩu, quá cảnh lãnh thổ Việt Nam",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_20_1",
+            "chapter_id": "chapter_III",
+            "article_id": "article_20"
+        }
+    },
+    {
+        "sentence": "Người chỉ huy, người điều khiển phương tiện vận tải có trách nhiệm khai báo với cơ quan Hải quan của Việt Nam, giải trình về số lượng thuốc đã sử dụng, áp dụng các biện pháp an toàn thích hợp để ngăn chặn việc sử dụng không đúng mục đích hoặc vận chuyển trái phép các thuốc đó và chịu sự kiểm soát của cơ quan có thẩm quyền của Việt Nam.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_20_1",
+            "chapter_id": "chapter_III",
+            "article_id": "article_20"
+        }
+    },
+    {
+        "sentence": "Việc mang theo thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất để điều trị bệnh cho bản thân người nhập cảnh, xuất cảnh hoặc quá cảnh lãnh thổ Việt Nam thực hiện theo quy định của Chính phủ và chịu sự kiểm soát của cơ quan có thẩm quyền của Việt Nam.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_20_2",
+            "chapter_id": "chapter_III",
+            "article_id": "article_20"
+        }
+    },
+    {
+        "sentence": "Chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất bị thu giữ trong các vụ án hình sự, vụ việc vi phạm hành chính được xử lý theo quy định của pháp luật về tố tụng hình sự, pháp luật về xử lý vi phạm hành chính.",
+        "reference": {
+            "type": "Article",
+            "id": "article_21",
+            "chapter_id": "chapter_III"
+        }
+    },
+    {
+        "sentence": "Xét nghiệm chất ma túy trong cơ thể được thực hiện đối với người thuộc trường hợp sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_22_1",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_22"
+        }
+    },
+    {
+        "sentence": "Người bị phát hiện sử dụng trái phép chất ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_22_1_a",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_22",
+            "clause_id": "clause_22_1"
+        }
+    },
+    {
+        "sentence": "Người mà cơ quan, người có thẩm quyền có căn cứ cho rằng có hành vi sử dụng trái phép chất ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_22_1_b",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_22",
+            "clause_id": "clause_22_1"
+        }
+    },
+    {
+        "sentence": "Người sử dụng trái phép chất ma túy đang trong thời hạn quản lý;",
+        "reference": {
+            "type": "Point",
+            "id": "point_22_1_c",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_22",
+            "clause_id": "clause_22_1"
+        }
+    },
+    {
+        "sentence": "Người đang trong thời gian bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn do có hành vi sử dụng trái phép chất ma túy",
+        "reference": {
+            "type": "Point",
+            "id": "point_22_1_d",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_22",
+            "clause_id": "clause_22_1"
+        }
+    },
+    {
+        "sentence": "đang cai nghiện ma túy",
+        "reference": {
+            "type": "Point",
+            "id": "point_22_1_d",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_22",
+            "clause_id": "clause_22_1"
+        }
+    },
+    {
+        "sentence": "đang điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế",
+        "reference": {
+            "type": "Point",
+            "id": "point_22_1_d",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_22",
+            "clause_id": "clause_22_1"
+        }
+    },
+    {
+        "sentence": "đang trong thời hạn quản lý sau cai nghiện ma túy.",
+        "reference": {
+            "type": "Point",
+            "id": "point_22_1_d",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_22",
+            "clause_id": "clause_22_1"
+        }
+    },
+    {
+        "sentence": "Người đứng đầu cơ sở cai nghiện ma túy, cơ sở điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_22_2",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_22"
+        }
+    },
+    {
+        "sentence": "người có thẩm quyền xử phạt vi phạm hành chính đối với hành vi sử dụng trái phép chất ma túy tiến hành xét nghiệm chất ma túy theo thẩm quyền hoặc đề nghị cơ quan, người có chuyên môn xét nghiệm chất ma túy trong cơ thể đối với các trường hợp quy định tại khoản 1 Điều này",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_22_2",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_22"
+        }
+    },
+    {
+        "sentence": "Trường hợp có kết quả xét nghiệm dương tính thì gửi ngay kết quả đến Chủ tịch Ủy ban nhân dân cấp xã nơi người có kết quả xét nghiệm dương tính cư trú, trừ trường hợp người đó đang cai nghiện ma túy bắt buộc.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_22_2",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_22"
+        }
+    },
+    {
+        "sentence": "Nhà nước bảo đảm kinh phí xét nghiệm chất ma túy trong cơ thể đối với các trường hợp quy định tại khoản 1 Điều này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_22_3",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_22"
+        }
+    },
+    {
+        "sentence": "Quản lý người sử dụng trái phép chất ma túy là biện pháp phòng ngừa nhằm giúp người sử dụng trái phép chất ma túy không tiếp tục sử dụng trái phép chất ma túy, phòng ngừa các hành vi vi phạm pháp luật của họ",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_23_1",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23"
+        }
+    },
+    {
+        "sentence": "Quản lý người sử dụng trái phép chất ma túy không phải là biện pháp xử lý hành chính.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_23_1",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23"
+        }
+    },
+    {
+        "sentence": "Thời hạn quản lý người sử dụng trái phép chất ma túy là 01 năm kể từ ngày Chủ tịch Ủy ban nhân dân cấp xã ra quyết định quản lý.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_23_2",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23"
+        }
+    },
+    {
+        "sentence": "Nội dung quản lý người sử dụng trái phép chất ma túy bao gồm:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_23_3",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23"
+        }
+    },
+    {
+        "sentence": "Tư vấn, động viên, giáo dục, giúp đỡ người sử dụng trái phép chất ma túy để họ không tiếp tục sử dụng trái phép chất ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_23_3_a",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23",
+            "clause_id": "clause_23_3"
+        }
+    },
+    {
+        "sentence": "Xét nghiệm chất ma túy trong cơ thể;",
+        "reference": {
+            "type": "Point",
+            "id": "point_23_3_b",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23",
+            "clause_id": "clause_23_3"
+        }
+    },
+    {
+        "sentence": "Ngăn chặn người sử dụng trái phép chất ma túy có hành vi gây mất trật tự, an toàn xã hội.",
+        "reference": {
+            "type": "Point",
+            "id": "point_23_3_c",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23",
+            "clause_id": "clause_23_3"
+        }
+    },
+    {
+        "sentence": "Trong thời hạn 03 ngày làm việc kể từ ngày nhận được kết quả xét nghiệm dương tính của người cư trú tại địa phương, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm ra quyết định và tổ chức quản lý người sử dụng trái phép chất ma túy cư trú tại địa phương.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_23_4",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23"
+        }
+    },
+    {
+        "sentence": "Trong thời hạn quản lý, Chủ tịch Ủy ban nhân dân cấp xã ra quyết định dừng quản lý người sử dụng trái phép chất ma túy trong các trường hợp sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_23_5",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23"
+        }
+    },
+    {
+        "sentence": "Người sử dụng trái phép chất ma túy được xác định là người nghiện ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_23_5_a",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23",
+            "clause_id": "clause_23_5"
+        }
+    },
+    {
+        "sentence": "Người sử dụng trái phép chất ma túy bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn do có hành vi sử dụng trái phép chất ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_23_5_b",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23",
+            "clause_id": "clause_23_5"
+        }
+    },
+    {
+        "sentence": "Người sử dụng trái phép chất ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở giáo dục bắt buộc, đưa vào trường giáo dưỡng;",
+        "reference": {
+            "type": "Point",
+            "id": "point_23_5_c",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23",
+            "clause_id": "clause_23_5"
+        }
+    },
+    {
+        "sentence": "Người sử dụng trái phép chất ma túy phải thi hành án phạt tù",
+        "reference": {
+            "type": "Point",
+            "id": "point_23_5_d",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23",
+            "clause_id": "clause_23_5"
+        }
+    },
+    {
+        "sentence": "đ) Người sử dụng trái phép chất ma túy trong danh sách quản lý chết, bị Tòa án tuyên bố là mất tích.",
+        "reference": {
+            "type": "Point",
+            "id": "point_23_5_d",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23",
+            "clause_id": "clause_23_5"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định chi tiết Điều này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_23_6",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_23"
+        }
+    },
+    {
+        "sentence": "Cung cấp đầy đủ, chính xác thông tin về hành vi sử dụng trái phép chất ma túy của mình cho công an cấp xã nơi cư trú.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_24_1",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_24"
+        }
+    },
+    {
+        "sentence": "Chấp hành việc quản lý của Ủy ban nhân dân cấp xã.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_24_2",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_24"
+        }
+    },
+    {
+        "sentence": "Gia đình người sử dụng trái phép chất ma túy có trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_25_1",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_25"
+        }
+    },
+    {
+        "sentence": "Quản lý, giáo dục người sử dụng trái phép chất ma túy",
+        "reference": {
+            "type": "Point",
+            "id": "point_25_1_a",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_25",
+            "clause_id": "clause_25_1"
+        }
+    },
+    {
+        "sentence": "ngăn chặn hành vi sử dụng trái phép chất ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_25_1_a",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_25",
+            "clause_id": "clause_25_1"
+        }
+    },
+    {
+        "sentence": "Cung cấp thông tin về hành vi sử dụng trái phép chất ma túy của người sử dụng trái phép chất ma túy cho công an cấp xã nơi người đó cư trú;",
+        "reference": {
+            "type": "Point",
+            "id": "point_25_1_b",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_25",
+            "clause_id": "clause_25_1"
+        }
+    },
+    {
+        "sentence": "Ngăn chặn người sử dụng trái phép chất ma túy có hành vi gây mất trật tự, an toàn xã hội;",
+        "reference": {
+            "type": "Point",
+            "id": "point_25_1_c",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_25",
+            "clause_id": "clause_25_1"
+        }
+    },
+    {
+        "sentence": "Phối hợp với cơ quan có thẩm quyền đưa người sử dụng trái phép chất ma túy đi xét nghiệm chất ma túy trong cơ thể.",
+        "reference": {
+            "type": "Point",
+            "id": "point_25_1_d",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_25",
+            "clause_id": "clause_25_1"
+        }
+    },
+    {
+        "sentence": "Cơ quan, tổ chức nơi người sử dụng trái phép chất ma túy làm việc, cộng đồng nơi người sử dụng trái phép chất ma túy sinh sống có trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_25_2",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_25"
+        }
+    },
+    {
+        "sentence": "Động viên, giúp đỡ, giáo dục người sử dụng trái phép chất ma túy",
+        "reference": {
+            "type": "Point",
+            "id": "point_25_2_a",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_25",
+            "clause_id": "clause_25_2"
+        }
+    },
+    {
+        "sentence": "ngăn chặn hành vi sử dụng trái phép chất ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_25_2_a",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_25",
+            "clause_id": "clause_25_2"
+        }
+    },
+    {
+        "sentence": "Phối hợp với gia đình, cơ quan có thẩm quyền đưa người sử dụng trái phép chất ma túy đi xét nghiệm chất ma túy trong cơ thể.",
+        "reference": {
+            "type": "Point",
+            "id": "point_25_2_b",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_25",
+            "clause_id": "clause_25_2"
+        }
+    },
+    {
+        "sentence": "Công an cấp xã giúp Ủy ban nhân dân cùng cấp lập danh sách người sử dụng trái phép chất ma túy cư trú tại địa phương.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_26_1",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_26"
+        }
+    },
+    {
+        "sentence": "Khi người sử dụng trái phép chất ma túy thay đổi nơi cư trú thì công an cấp xã nơi chuyển đi có trách nhiệm thông báo cho công an cấp xã nơi chuyển đến trong thời hạn 05 ngày làm việc kể từ ngày người đó chuyển khỏi địa phương để đưa vào danh sách và tiếp tục quản lý.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_26_2",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_26"
+        }
+    },
+    {
+        "sentence": "Công an cấp xã giúp Ủy ban nhân dân cùng cấp đưa ra khỏi danh sách người sử dụng trái phép chất ma túy trong các trường hợp sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_26_3",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_26"
+        }
+    },
+    {
+        "sentence": "Người sử dụng trái phép chất ma túy không có hành vi sử dụng trái phép chất ma túy trong thời gian quản lý quy định tại khoản 2 Điều 23 của Luật này;",
+        "reference": {
+            "type": "Point",
+            "id": "point_26_3_a",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_26",
+            "clause_id": "clause_26_3"
+        }
+    },
+    {
+        "sentence": "Người sử dụng trái phép chất ma túy thuộc trường hợp dừng quản lý quy định tại khoản 5 Điều 23 của Luật này;",
+        "reference": {
+            "type": "Point",
+            "id": "point_26_3_b",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_26",
+            "clause_id": "clause_26_3"
+        }
+    },
+    {
+        "sentence": "Người sử dụng trái phép chất ma túy chuyển đến cư trú ở địa phương khác.",
+        "reference": {
+            "type": "Point",
+            "id": "point_26_3_c",
+            "chapter_id": "chapter_IV",
+            "article_id": "article_26",
+            "clause_id": "clause_26_3"
+        }
+    },
+    {
+        "sentence": "Xác định tình trạng nghiện ma túy được thực hiện đối với người thuộc trường hợp sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_27_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27"
+        }
+    },
+    {
+        "sentence": "Người sử dụng trái phép chất ma túy đang trong thời gian quản lý bị phát hiện sử dụng trái phép chất ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_27_1_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27",
+            "clause_id": "clause_27_1"
+        }
+    },
+    {
+        "sentence": "Người sử dụng trái phép chất ma túy không có nơi cư trú ổn định;",
+        "reference": {
+            "type": "Point",
+            "id": "point_27_1_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27",
+            "clause_id": "clause_27_1"
+        }
+    },
+    {
+        "sentence": "Người đang trong thời gian bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn do có hành vi sử dụng trái phép chất ma túy hoặc trong thời hạn 01 năm kể từ ngày chấp hành xong biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn do có hành vi sử dụng trái phép chất ma túy mà bị phát hiện sử dụng trái phép chất ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_27_1_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27",
+            "clause_id": "clause_27_1"
+        }
+    },
+    {
+        "sentence": "Người đang trong thời gian quản lý sau cai nghiện ma túy bị phát hiện sử dụng trái phép chất ma túy",
+        "reference": {
+            "type": "Point",
+            "id": "point_27_1_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27",
+            "clause_id": "clause_27_1"
+        }
+    },
+    {
+        "sentence": "đ) Người tự nguyện xác định tình trạng nghiện ma túy.",
+        "reference": {
+            "type": "Point",
+            "id": "point_27_1_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27",
+            "clause_id": "clause_27_1"
+        }
+    },
+    {
+        "sentence": "Công an cấp xã nơi phát hiện người thuộc trường hợp quy định tại các điểm a, b, c và d khoản 1 Điều này lập hồ sơ đề nghị cơ sở y tế có thẩm quyền xác định tình trạng nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_27_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27"
+        }
+    },
+    {
+        "sentence": "Trường hợp công an cấp huyện, công an cấp tỉnh trực tiếp phát hiện hoặc trong quá trình điều tra, thụ lý các vụ việc vi phạm pháp luật mà phát hiện trường hợp quy định tại các điểm a, b, c và d khoản 1 Điều này thì cơ quan công an đang thụ lý lập hồ sơ đề nghị cơ sở y tế có thẩm quyền xác định tình trạng nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_27_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27"
+        }
+    },
+    {
+        "sentence": "Khi có kết quả xác định tình trạng nghiện ma túy, cơ sở y tế có trách nhiệm gửi ngay kết quả đến cơ quan đề nghị, người được xác định tình trạng nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_27_4",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27"
+        }
+    },
+    {
+        "sentence": "Người được đề nghị xác định tình trạng nghiện ma túy có quyền và trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_27_5",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27"
+        }
+    },
+    {
+        "sentence": "Được bảo đảm danh dự, nhân phẩm",
+        "reference": {
+            "type": "Point",
+            "id": "point_27_5_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27",
+            "clause_id": "clause_27_5"
+        }
+    },
+    {
+        "sentence": "hỗ trợ đi lại, ăn ở, điều trị hội chứng cai và các bệnh kèm theo trong thời gian xác định tình trạng nghiện ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_27_5_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27",
+            "clause_id": "clause_27_5"
+        }
+    },
+    {
+        "sentence": "Chấp hành nội quy, quy chế của cơ sở xác định tình trạng nghiện ma túy",
+        "reference": {
+            "type": "Point",
+            "id": "point_27_5_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27",
+            "clause_id": "clause_27_5"
+        }
+    },
+    {
+        "sentence": "khai báo trung thực với nhân viên y tế về tiền sử sử dụng ma túy, các biểu hiện của việc sử dụng ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_27_5_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27",
+            "clause_id": "clause_27_5"
+        }
+    },
+    {
+        "sentence": "Người từ đủ 18 tuổi trở lên hoặc cha, mẹ, người giám hộ hoặc người đại diện hợp pháp của người từ đủ 12 tuổi đến dưới 18 tuổi quy định tại các điểm a, b, c và đ khoản 1 Điều này khi nhận được kết quả xác định là nghiện ma túy có trách nhiệm đăng ký cai nghiện ma túy tự nguyện theo quy định tại Điều 28 của Luật này hoặc đăng ký điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế trong trường hợp nghiện các chất dạng thuốc phiện với Ủy ban nhân dân cấp xã nơi cư trú.",
+        "reference": {
+            "type": "Point",
+            "id": "point_27_5_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27",
+            "clause_id": "clause_27_5"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định cơ sở y tế đủ điều kiện xác định tình trạng nghiện ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_27_6",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27"
+        }
+    },
+    {
+        "sentence": "hồ sơ, trình tự, thủ tục xác định tình trạng nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_27_6",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27"
+        }
+    },
+    {
+        "sentence": "Bộ trưởng Bộ Y tế quy định tiêu chuẩn chẩn đoán và quy trình chuyên môn để xác định tình trạng nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_27_7",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27"
+        }
+    },
+    {
+        "sentence": "Nhà nước bảo đảm kinh phí xác định tình trạng nghiện ma túy đối với trường hợp quy định tại các điểm a, b, c và d khoản 1 Điều này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_27_8",
+            "chapter_id": "chapter_V",
+            "article_id": "article_27"
+        }
+    },
+    {
+        "sentence": "Biện pháp cai nghiện ma túy bao gồm:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_28_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_28"
+        }
+    },
+    {
+        "sentence": "Cai nghiện ma túy tự nguyện;",
+        "reference": {
+            "type": "Point",
+            "id": "point_28_1_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_28",
+            "clause_id": "clause_28_1"
+        }
+    },
+    {
+        "sentence": "Cai nghiện ma túy bắt buộc.",
+        "reference": {
+            "type": "Point",
+            "id": "point_28_1_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_28",
+            "clause_id": "clause_28_1"
+        }
+    },
+    {
+        "sentence": "Biện pháp cai nghiện ma túy tự nguyện được thực hiện tại gia đình, cộng đồng hoặc tại cơ sở cai nghiện ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_28_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_28"
+        }
+    },
+    {
+        "sentence": "biện pháp cai nghiện ma túy bắt buộc được thực hiện tại cơ sở cai nghiện ma túy công lập.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_28_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_28"
+        }
+    },
+    {
+        "sentence": "Quy trình cai nghiện ma túy bao gồm các giai đoạn sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_29_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_29"
+        }
+    },
+    {
+        "sentence": "Tiếp nhận, phân loại;",
+        "reference": {
+            "type": "Point",
+            "id": "point_29_1_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_29",
+            "clause_id": "clause_29_1"
+        }
+    },
+    {
+        "sentence": "Điều trị cắt cơn, giải độc, điều trị các rối loạn tâm thần, điều trị các bệnh lý khác;",
+        "reference": {
+            "type": "Point",
+            "id": "point_29_1_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_29",
+            "clause_id": "clause_29_1"
+        }
+    },
+    {
+        "sentence": "Giáo dục, tư vấn, phục hồi hành vi, nhân cách;",
+        "reference": {
+            "type": "Point",
+            "id": "point_29_1_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_29",
+            "clause_id": "clause_29_1"
+        }
+    },
+    {
+        "sentence": "Lao động trị liệu, học nghề",
+        "reference": {
+            "type": "Point",
+            "id": "point_29_1_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_29",
+            "clause_id": "clause_29_1"
+        }
+    },
+    {
+        "sentence": "đ) Chuẩn bị tái hòa nhập cộng đồng.",
+        "reference": {
+            "type": "Point",
+            "id": "point_29_1_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_29",
+            "clause_id": "clause_29_1"
+        }
+    },
+    {
+        "sentence": "Việc cai nghiện ma túy bắt buộc phải bảo đảm đầy đủ các giai đoạn quy định tại khoản 1 Điều này",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_29_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_29"
+        }
+    },
+    {
+        "sentence": "việc cai nghiện ma túy tự nguyện phải bảo đảm hoàn thành đủ 03 giai đoạn quy định tại các điểm a, b và c khoản 1 Điều này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_29_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_29"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định chi tiết Điều này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_29_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_29"
+        }
+    },
+    {
+        "sentence": "Cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là việc người nghiện ma túy thực hiện cai nghiện tự nguyện tại gia đình, cộng đồng với sự hỗ trợ chuyên môn của tổ chức, cá nhân cung cấp dịch vụ cai nghiện ma túy, sự phối hợp, trợ giúp của gia đình, cộng đồng và chịu sự quản lý của Ủy ban nhân dân cấp xã.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_30_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30"
+        }
+    },
+    {
+        "sentence": "Thời hạn cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là từ đủ 06 tháng đến 12 tháng.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_30_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30"
+        }
+    },
+    {
+        "sentence": "Người cai nghiện ma túy tự nguyện tại gia đình, cộng đồng khi hoàn thành ít nhất 03 giai đoạn quy định tại các điểm a, b và c khoản 1 Điều 29 của Luật này được hỗ trợ kinh phí.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_30_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30"
+        }
+    },
+    {
+        "sentence": "Người cai nghiện ma túy tự nguyện tại gia đình, cộng đồng có trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_30_4",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30"
+        }
+    },
+    {
+        "sentence": "Thực hiện đúng, đầy đủ các quy định về cai nghiện ma túy tự nguyện và tuân thủ hướng dẫn của cơ quan chuyên môn;",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_4_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_4"
+        }
+    },
+    {
+        "sentence": "Nộp chi phí liên quan đến cai nghiện ma túy theo quy định.",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_4_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_4"
+        }
+    },
+    {
+        "sentence": "Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_30_5",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30"
+        }
+    },
+    {
+        "sentence": "Tiếp nhận đăng ký cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_5_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_5"
+        }
+    },
+    {
+        "sentence": "Hướng dẫn, quản lý người cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_5_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_5"
+        }
+    },
+    {
+        "sentence": "Cấp giấy xác nhận hoàn thành cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_5_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_5"
+        }
+    },
+    {
+        "sentence": "Chủ tịch Ủy ban nhân dân cấp huyện có trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_30_6",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30"
+        }
+    },
+    {
+        "sentence": "Giao nhiệm vụ cho các đơn vị sự nghiệp công lập thuộc thẩm quyền trên địa bàn cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_6_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_6"
+        }
+    },
+    {
+        "sentence": "Tiếp nhận đăng ký và công bố danh sách tổ chức, cá nhân đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_6_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_6"
+        }
+    },
+    {
+        "sentence": "Thông báo cho Ủy ban nhân dân cấp xã danh sách tổ chức, cá nhân cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_6_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_6"
+        }
+    },
+    {
+        "sentence": "Bố trí kinh phí hỗ trợ công tác cai nghiện ma túy tự nguyện tại gia đình, cộng đồng",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_6_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_6"
+        }
+    },
+    {
+        "sentence": "đ) Chỉ đạo, hướng dẫn, kiểm tra công tác cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_6_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_6"
+        }
+    },
+    {
+        "sentence": "Cơ sở cai nghiện ma túy, tổ chức, cá nhân đủ điều kiện cung cấp một hoặc nhiều hoạt động cai nghiện theo quy trình cai nghiện ma túy quy định tại khoản 1 Điều 29 của Luật này được cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng và có trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_30_7",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30"
+        }
+    },
+    {
+        "sentence": "Tiếp nhận và tổ chức thực hiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_7_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_7"
+        }
+    },
+    {
+        "sentence": "Thực hiện đúng quy trình chuyên môn nghiệp vụ theo quy định của cơ quan có thẩm quyền;",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_7_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_7"
+        }
+    },
+    {
+        "sentence": "Trong thời hạn 05 ngày làm việc kể từ ngày người cai nghiện ma túy sử dụng dịch vụ hoặc tự ý chấm dứt việc sử dụng dịch vụ hoặc hoàn thành dịch vụ phải thông báo cho Ủy ban nhân dân cấp xã nơi người đó đăng ký cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.",
+        "reference": {
+            "type": "Point",
+            "id": "point_30_7_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30",
+            "clause_id": "clause_30_7"
+        }
+    },
+    {
+        "sentence": "Tổ chức, cá nhân có đủ điều kiện thì được đăng ký cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng với Chủ tịch Ủy ban nhân dân cấp huyện.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_30_8",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định chi tiết Điều này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_30_9",
+            "chapter_id": "chapter_V",
+            "article_id": "article_30"
+        }
+    },
+    {
+        "sentence": "Thời hạn cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy là từ đủ 06 tháng đến 12 tháng.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_31_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_31"
+        }
+    },
+    {
+        "sentence": "Người cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy khi hoàn thành ít nhất 03 giai đoạn quy định tại các điểm a, b và c khoản 1 Điều 29 của Luật này được hỗ trợ kinh phí.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_31_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_31"
+        }
+    },
+    {
+        "sentence": "Người cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy có trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_31_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_31"
+        }
+    },
+    {
+        "sentence": "Thực hiện đúng, đầy đủ các quy định về cai nghiện ma túy tự nguyện và tuân thủ hướng dẫn của cơ quan chuyên môn;",
+        "reference": {
+            "type": "Point",
+            "id": "point_31_3_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_31",
+            "clause_id": "clause_31_3"
+        }
+    },
+    {
+        "sentence": "Nộp chi phí liên quan đến cai nghiện ma túy theo quy định",
+        "reference": {
+            "type": "Point",
+            "id": "point_31_3_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_31",
+            "clause_id": "clause_31_3"
+        }
+    },
+    {
+        "sentence": "Trường hợp người cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy công lập mà có hoàn cảnh khó khăn được xét giảm hoặc miễn chi phí phải nộp.",
+        "reference": {
+            "type": "Point",
+            "id": "point_31_3_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_31",
+            "clause_id": "clause_31_3"
+        }
+    },
+    {
+        "sentence": "Cơ sở cai nghiện ma túy có trách nhiệm cấp giấy xác nhận hoàn thành cai nghiện ma túy tự nguyện cho người cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_31_4",
+            "chapter_id": "chapter_V",
+            "article_id": "article_31"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định chi tiết Điều này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_31_5",
+            "chapter_id": "chapter_V",
+            "article_id": "article_31"
+        }
+    },
+    {
+        "sentence": "Người nghiện ma túy từ đủ 18 tuổi trở lên bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc theo quy định của Luật Xử lý vi phạm hành chính khi thuộc một trong các trường hợp sau đây:",
+        "reference": {
+            "type": "Article",
+            "id": "article_32",
+            "chapter_id": "chapter_V"
+        }
+    },
+    {
+        "sentence": "Không đăng ký, không thực hiện hoặc tự ý chấm dứt cai nghiện ma túy tự nguyện;",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_32_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_32"
+        }
+    },
+    {
+        "sentence": "Trong thời gian cai nghiện ma túy tự nguyện bị phát hiện sử dụng trái phép chất ma túy;",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_32_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_32"
+        }
+    },
+    {
+        "sentence": "Người nghiện ma túy các chất dạng thuốc phiện không đăng ký, không thực hiện hoặc tự ý chấm dứt điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế hoặc bị chấm dứt điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế do vi phạm quy định về điều trị nghiện;",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_32_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_32"
+        }
+    },
+    {
+        "sentence": "Trong thời gian quản lý sau cai nghiện ma túy mà tái nghiện.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_32_4",
+            "chapter_id": "chapter_V",
+            "article_id": "article_32"
+        }
+    },
+    {
+        "sentence": "Người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi bị đưa vào cơ sở cai nghiện bắt buộc khi thuộc một trong các trường hợp sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_33_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_33"
+        }
+    },
+    {
+        "sentence": "Không đăng ký, không thực hiện hoặc tự ý chấm dứt cai nghiện ma túy tự nguyện;",
+        "reference": {
+            "type": "Point",
+            "id": "point_33_1_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_33",
+            "clause_id": "clause_33_1"
+        }
+    },
+    {
+        "sentence": "Trong thời gian cai nghiện ma túy tự nguyện bị phát hiện sử dụng trái phép chất ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_33_1_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_33",
+            "clause_id": "clause_33_1"
+        }
+    },
+    {
+        "sentence": "Người nghiện ma túy các chất dạng thuốc phiện không đăng ký, không thực hiện hoặc tự ý chấm dứt điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế hoặc bị chấm dứt điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế do vi phạm quy định về điều trị nghiện.",
+        "reference": {
+            "type": "Point",
+            "id": "point_33_1_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_33",
+            "clause_id": "clause_33_1"
+        }
+    },
+    {
+        "sentence": "Người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi bị đưa vào cơ sở cai nghiện bắt buộc có trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_33_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_33"
+        }
+    },
+    {
+        "sentence": "Tuân thủ các quy định về cai nghiện ma túy bắt buộc, nội quy, quy chế và chịu sự quản lý, giáo dục, điều trị của cơ sở cai nghiện bắt buộc;",
+        "reference": {
+            "type": "Point",
+            "id": "point_33_2_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_33",
+            "clause_id": "clause_33_2"
+        }
+    },
+    {
+        "sentence": "Tham gia các hoạt động điều trị, chữa bệnh, giáo dục, tư vấn, học văn hóa, học nghề, lao động trị liệu và các hoạt động phục hồi hành vi, nhân cách.",
+        "reference": {
+            "type": "Point",
+            "id": "point_33_2_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_33",
+            "clause_id": "clause_33_2"
+        }
+    },
+    {
+        "sentence": "Thời hạn cai nghiện ma túy bắt buộc đối với người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi là từ đủ 06 tháng đến 12 tháng.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_33_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_33"
+        }
+    },
+    {
+        "sentence": "Việc đưa người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi vào cơ sở cai nghiện bắt buộc do Tòa án nhân dân cấp huyện quyết định và không phải là biện pháp xử lý hành chính.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_33_4",
+            "chapter_id": "chapter_V",
+            "article_id": "article_33"
+        }
+    },
+    {
+        "sentence": "Ủy ban Thường vụ Quốc hội quy định trình tự, thủ tục Tòa án nhân dân xem xét, quyết định việc đưa người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi vào cơ sở cai nghiện bắt buộc.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_33_5",
+            "chapter_id": "chapter_V",
+            "article_id": "article_33"
+        }
+    },
+    {
+        "sentence": "Việc lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc đối với người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi được thực hiện như sau:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_34_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34"
+        }
+    },
+    {
+        "sentence": "Chủ tịch Ủy ban nhân dân cấp xã nơi người đó cư trú hoặc có hành vi vi phạm trong trường hợp không xác định được nơi cư trú lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc;",
+        "reference": {
+            "type": "Point",
+            "id": "point_34_1_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34",
+            "clause_id": "clause_34_1"
+        }
+    },
+    {
+        "sentence": "Trường hợp người nghiện ma túy do công an cấp huyện hoặc công an cấp tỉnh phát hiện hoặc trong quá trình điều tra, thụ lý các vụ việc vi phạm pháp luật mà đối tượng là người từ đủ 12 tuổi đến dưới 18 tuổi thuộc diện đưa vào cơ sở cai nghiện bắt buộc thì cơ quan công an đang thụ lý vụ việc tiến hành xác minh, thu thập tài liệu và lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc đối với người đó;",
+        "reference": {
+            "type": "Point",
+            "id": "point_34_1_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34",
+            "clause_id": "clause_34_1"
+        }
+    },
+    {
+        "sentence": "Hồ sơ đề nghị bao gồm biên bản vi phạm, bản tóm tắt lý lịch, tài liệu chứng minh tình trạng nghiện ma túy hiện tại của người đó, bản tường trình của người nghiện ma túy hoặc của người đại diện hợp pháp của họ, ý kiến của cha, mẹ, người giám hộ hoặc người đại diện hợp pháp;",
+        "reference": {
+            "type": "Point",
+            "id": "point_34_1_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34",
+            "clause_id": "clause_34_1"
+        }
+    },
+    {
+        "sentence": "Công an cấp xã có trách nhiệm giúp Chủ tịch Ủy ban nhân dân cùng cấp thu thập các tài liệu và lập hồ sơ đề nghị quy định tại điểm a khoản 1 Điều này.",
+        "reference": {
+            "type": "Point",
+            "id": "point_34_1_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34",
+            "clause_id": "clause_34_1"
+        }
+    },
+    {
+        "sentence": "Cơ quan, người lập hồ sơ đề nghị quy định tại khoản 1 Điều này phải chịu trách nhiệm về tính pháp lý của hồ sơ đề nghị",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_34_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34"
+        }
+    },
+    {
+        "sentence": "Sau khi hoàn thành việc lập hồ sơ đề nghị, cơ quan, người lập hồ sơ phải thông báo bằng văn bản cho người bị đề nghị áp dụng biện pháp đưa vào cơ sở cai nghiện bắt buộc, cha, mẹ, người giám hộ hoặc người đại diện hợp pháp của họ về việc lập hồ sơ",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_34_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34"
+        }
+    },
+    {
+        "sentence": "Những người này có quyền đọc hồ sơ và ghi ý kiến về việc lập hồ sơ trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông báo.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_34_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34"
+        }
+    },
+    {
+        "sentence": "Trong thời hạn 01 ngày làm việc kể từ ngày hết thời hạn đọc hồ sơ, cơ quan, người đã lập hồ sơ gửi hồ sơ cho Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp huyện nơi người bị đề nghị cư trú hoặc có hành vi vi phạm trong trường hợp không xác định được nơi cư trú",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_34_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34"
+        }
+    },
+    {
+        "sentence": "Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ, Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp huyện quyết định chuyển hồ sơ đề nghị Tòa án nhân dân cấp huyện quyết định đưa vào cơ sở cai nghiện bắt buộc",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_34_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34"
+        }
+    },
+    {
+        "sentence": "Trường hợp hồ sơ chưa đầy đủ thì Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp huyện chuyển lại cơ quan, người đã lập hồ sơ để bổ sung hồ sơ, thời hạn bổ sung là 02 ngày làm việc kể từ ngày nhận lại hồ sơ",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_34_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34"
+        }
+    },
+    {
+        "sentence": "Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ bổ sung, Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp huyện quyết định việc chuyển hồ sơ đề nghị Tòa án nhân dân cấp huyện quyết định đưa vào cơ sở cai nghiện bắt buộc.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_34_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34"
+        }
+    },
+    {
+        "sentence": "Hồ sơ đề nghị Tòa án nhân dân cấp huyện xem xét, quyết định đưa vào cơ sở cai nghiện bắt buộc bao gồm:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_34_4",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34"
+        }
+    },
+    {
+        "sentence": "Hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc quy định tại điểm c khoản 1 Điều này;",
+        "reference": {
+            "type": "Point",
+            "id": "point_34_4_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34",
+            "clause_id": "clause_34_4"
+        }
+    },
+    {
+        "sentence": "Văn bản của Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp huyện về việc đề nghị xem xét đưa vào cơ sở cai nghiện bắt buộc",
+        "reference": {
+            "type": "Point",
+            "id": "point_34_4_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34",
+            "clause_id": "clause_34_4"
+        }
+    },
+    {
+        "sentence": "Trong nội dung văn bản của Trưởng phòng Phòng Lao động - Thương binh và Xã hội phải nêu ý kiến về bảo vệ quyền trẻ em.",
+        "reference": {
+            "type": "Point",
+            "id": "point_34_4_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34",
+            "clause_id": "clause_34_4"
+        }
+    },
+    {
+        "sentence": "Hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc đối với người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi phải được đánh bút lục và được lưu trữ theo quy định của pháp luật về lưu trữ.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_34_5",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định chi tiết việc lập hồ sơ đề nghị đưa người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi vào cơ sở cai nghiện bắt buộc",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_34_6",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34"
+        }
+    },
+    {
+        "sentence": "chế độ cai nghiện ma túy áp dụng đối với người từ đủ 12 tuổi đến dưới 18 tuổi.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_34_6",
+            "chapter_id": "chapter_V",
+            "article_id": "article_34"
+        }
+    },
+    {
+        "sentence": "Cơ sở cai nghiện ma túy công lập do Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định thành lập.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_35_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35"
+        }
+    },
+    {
+        "sentence": "Cơ sở cai nghiện ma túy công lập phải bố trí các khu sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_35_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35"
+        }
+    },
+    {
+        "sentence": "Khu lưu trú tạm thời đối với người được đề nghị xác định tình trạng nghiện ma túy và người trong thời gian lập hồ sơ đề nghị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc;",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_2_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_2"
+        }
+    },
+    {
+        "sentence": "Khu cai nghiện ma túy bắt buộc;",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_2_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_2"
+        }
+    },
+    {
+        "sentence": "Khu cai nghiện ma túy tự nguyện;",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_2_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_2"
+        }
+    },
+    {
+        "sentence": "Khu cai nghiện cho người từ đủ 12 tuổi đến dưới 18 tuổi",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_2_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_2"
+        }
+    },
+    {
+        "sentence": "đ) Khu cai nghiện cho người mắc bệnh truyền nhiễm nhóm A, nhóm B theo quy định của Luật Phòng, chống bệnh truyền nhiễm;",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_2_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_2"
+        }
+    },
+    {
+        "sentence": "Khu cai nghiện cho người có hành vi gây rối trật tự, vi phạm nội quy, quy chế của cơ sở cai nghiện ma túy.",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_2_e",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_2"
+        }
+    },
+    {
+        "sentence": "Trong các khu quy định tại khoản 2 Điều này phải bố trí khu riêng cho nam giới và khu riêng cho nữ giới",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_35_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35"
+        }
+    },
+    {
+        "sentence": "Người có sự khác nhau giữa thực thể và giới tính ghi trong hồ sơ, lý lịch được quản lý tại phòng riêng trong khu vực theo giới tính biểu hiện trên thực thể học viên.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_35_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35"
+        }
+    },
+    {
+        "sentence": "Hoạt động của cơ sở cai nghiện ma túy công lập bao gồm:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_35_4",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35"
+        }
+    },
+    {
+        "sentence": "Tiếp nhận và tổ chức thực hiện cai nghiện ma túy cho người nghiện ma túy bị đưa vào cơ sở cai nghiện bắt buộc và người nghiện ma túy tự nguyện cai nghiện;",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_4_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_4"
+        }
+    },
+    {
+        "sentence": "Thực hiện việc xác định tình trạng nghiện ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_4_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_4"
+        }
+    },
+    {
+        "sentence": "Tiếp nhận, quản lý, giáo dục, tư vấn, điều trị hội chứng cai, điều trị rối loạn tâm thần và các bệnh khác đối với người đang trong thời gian lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc.",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_4_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_4"
+        }
+    },
+    {
+        "sentence": "Cơ sở cai nghiện ma túy công lập có quyền sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_35_5",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35"
+        }
+    },
+    {
+        "sentence": "Tiếp nhận người nghiện ma túy vào cai nghiện ma túy tự nguyện phù hợp với khả năng tiếp nhận của cơ sở cai nghiện;",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_5_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_5"
+        }
+    },
+    {
+        "sentence": "Người đứng đầu cơ sở cai nghiện ma túy công lập được quyết định áp dụng các biện pháp phù hợp để quản lý, giáo dục, chữa trị cho người cai nghiện ma túy.",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_5_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_5"
+        }
+    },
+    {
+        "sentence": "Cơ sở cai nghiện ma túy công lập có trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_35_6",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35"
+        }
+    },
+    {
+        "sentence": "Tuân thủ các quy định về xác định tình trạng nghiện ma túy, quy trình cai nghiện ma túy, quản lý người đang trong thời gian lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc;",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_6_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_6"
+        }
+    },
+    {
+        "sentence": "Tôn trọng tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản của người cai nghiện ma túy, người được đề nghị xác định tình trạng nghiện ma túy và người đang trong thời gian lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc;",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_6_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_6"
+        }
+    },
+    {
+        "sentence": "Bảo đảm quyền của người nghiện ma túy trong thời gian cai nghiện và cấp giấy xác nhận hoàn thành cai nghiện ma túy bắt buộc cho người từ đủ 12 tuổi đến dưới 18 tuổi;",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_6_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_6"
+        }
+    },
+    {
+        "sentence": "Người đứng đầu cơ sở cai nghiện ma túy công lập có trách nhiệm bảo đảm điều kiện hoạt động của cơ sở cai nghiện ma túy",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_6_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_6"
+        }
+    },
+    {
+        "sentence": "niêm yết công khai chi phí cai nghiện ma túy tại cơ sở theo quy định của pháp luật",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_6_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_6"
+        }
+    },
+    {
+        "sentence": "đ) Phòng, chống thẩm lậu ma túy vào cơ sở;",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_6_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_6"
+        }
+    },
+    {
+        "sentence": "Trong thời hạn 05 ngày làm việc kể từ ngày người cai nghiện ma túy tự nguyện được tiếp nhận hoặc tự ý chấm dứt việc sử dụng dịch vụ hoặc hoàn thành quy trình cai nghiện ma túy phải thông báo cho Ủy ban nhân dân cấp xã nơi người đó đăng ký cai nghiện ma túy tự nguyện.",
+        "reference": {
+            "type": "Point",
+            "id": "point_35_6_e",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35",
+            "clause_id": "clause_35_6"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định điều kiện về cơ sở vật chất, trang thiết bị, nhân sự của cơ sở cai nghiện ma túy công lập và chế độ quản lý tại cơ sở cai nghiện ma túy công lập.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_35_7",
+            "chapter_id": "chapter_V",
+            "article_id": "article_35"
+        }
+    },
+    {
+        "sentence": "Cơ sở cai nghiện ma túy tự nguyện do cá nhân, tổ chức kinh doanh dịch vụ cai nghiện ma túy thành lập",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_36_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định điều kiện và thẩm quyền, trình tự, thủ tục cấp, thu hồi giấy phép hoạt động của cơ sở cai nghiện ma túy tự nguyện.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_36_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36"
+        }
+    },
+    {
+        "sentence": "Cơ sở cai nghiện ma túy tự nguyện có quyền sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_36_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36"
+        }
+    },
+    {
+        "sentence": "Tiếp nhận người nghiện ma túy vào cai nghiện ma túy tự nguyện phù hợp với khả năng tiếp nhận của cơ sở cai nghiện;",
+        "reference": {
+            "type": "Point",
+            "id": "point_36_2_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36",
+            "clause_id": "clause_36_2"
+        }
+    },
+    {
+        "sentence": "Được thu các khoản chi phí liên quan đến cai nghiện ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_36_2_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36",
+            "clause_id": "clause_36_2"
+        }
+    },
+    {
+        "sentence": "Được hưởng chế độ ưu đãi theo quy định của pháp luật.",
+        "reference": {
+            "type": "Point",
+            "id": "point_36_2_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36",
+            "clause_id": "clause_36_2"
+        }
+    },
+    {
+        "sentence": "Cơ sở cai nghiện ma túy tự nguyện có trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_36_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36"
+        }
+    },
+    {
+        "sentence": "Tuân thủ quy trình cai nghiện ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_36_3_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36",
+            "clause_id": "clause_36_3"
+        }
+    },
+    {
+        "sentence": "Tôn trọng tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản của người cai nghiện ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_36_3_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36",
+            "clause_id": "clause_36_3"
+        }
+    },
+    {
+        "sentence": "Bảo đảm quyền của người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi trong thời gian cai nghiện ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_36_3_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36",
+            "clause_id": "clause_36_3"
+        }
+    },
+    {
+        "sentence": "Người đứng đầu cơ sở cai nghiện ma túy có trách nhiệm bảo đảm điều kiện hoạt động của cơ sở cai nghiện ma túy",
+        "reference": {
+            "type": "Point",
+            "id": "point_36_3_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36",
+            "clause_id": "clause_36_3"
+        }
+    },
+    {
+        "sentence": "niêm yết công khai chi phí liên quan đến cai nghiện ma túy tại cơ sở theo quy định của pháp luật",
+        "reference": {
+            "type": "Point",
+            "id": "point_36_3_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36",
+            "clause_id": "clause_36_3"
+        }
+    },
+    {
+        "sentence": "đ) Phòng, chống thẩm lậu ma túy vào cơ sở;",
+        "reference": {
+            "type": "Point",
+            "id": "point_36_3_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36",
+            "clause_id": "clause_36_3"
+        }
+    },
+    {
+        "sentence": "Bố trí các khu hoặc phòng riêng khi tiếp nhận các đối tượng là người từ đủ 12 tuổi đến dưới 18 tuổi, người mắc bệnh truyền nhiễm nhóm A, nhóm B theo quy định của Luật Phòng, chống bệnh truyền nhiễm, nữ giới",
+        "reference": {
+            "type": "Point",
+            "id": "point_36_3_e",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36",
+            "clause_id": "clause_36_3"
+        }
+    },
+    {
+        "sentence": "người có sự khác nhau giữa thực thể và giới tính ghi trong hồ sơ, lý lịch được quản lý tại phòng riêng trong khu vực theo giới tính biểu hiện trên thực thể học viên;",
+        "reference": {
+            "type": "Point",
+            "id": "point_36_3_e",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36",
+            "clause_id": "clause_36_3"
+        }
+    },
+    {
+        "sentence": "Trong thời hạn 05 ngày làm việc kể từ ngày người cai nghiện ma túy được tiếp nhận hoặc tự ý chấm dứt việc sử dụng dịch vụ hoặc hoàn thành quy trình cai nghiện ma túy phải thông báo cho Ủy ban nhân dân cấp xã nơi người đó đăng ký cai nghiện ma túy tự nguyện.",
+        "reference": {
+            "type": "Point",
+            "id": "point_36_3_g",
+            "chapter_id": "chapter_V",
+            "article_id": "article_36",
+            "clause_id": "clause_36_3"
+        }
+    },
+    {
+        "sentence": "Người Việt Nam bị nước ngoài trục xuất về Việt Nam do có hành vi sử dụng trái phép chất ma túy, nghiện ma túy khi về nước phải tiến hành xác định tình trạng nghiện ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_37_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_37"
+        }
+    },
+    {
+        "sentence": "Trường hợp được xác định là nghiện ma túy thì người đó phải thực hiện các biện pháp cai nghiện ma túy theo quy định của Luật này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_37_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_37"
+        }
+    },
+    {
+        "sentence": "Người nước ngoài nghiện ma túy sinh sống tại Việt Nam có trách nhiệm đăng ký thực hiện cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy theo quy định của Luật này và phải chi trả toàn bộ các khoản chi phí liên quan đến cai nghiện",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_37_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_37"
+        }
+    },
+    {
+        "sentence": "Trường hợp không thực hiện cai nghiện ma túy tự nguyện thì người đó bị xử lý theo quy định của pháp luật.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_37_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_37"
+        }
+    },
+    {
+        "sentence": "Nhà nước áp dụng biện pháp cai nghiện thích hợp đối với người nghiện ma túy là người bị tạm giam, phạm nhân, trại viên cơ sở giáo dục bắt buộc, học sinh trường giáo dưỡng.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_38_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_38"
+        }
+    },
+    {
+        "sentence": "Giám thị trại giam, giám thị trại tạm giam, trưởng nhà tạm giữ, giám đốc cơ sở giáo dục bắt buộc, hiệu trưởng trường giáo dưỡng phối hợp chặt chẽ với cơ sở y tế tại địa phương để thực hiện quy định tại khoản 1 Điều này.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_38_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_38"
+        }
+    },
+    {
+        "sentence": "Người từ đủ 14 tuổi đến dưới 18 tuổi đang cai nghiện ma túy bắt buộc mà bị phát hiện thực hiện hành vi phạm tội trước hoặc trong thời gian chấp hành quyết định cai nghiện ma túy bắt buộc và bị Tòa án xử phạt tù nhưng không được hưởng án treo thì được miễn chấp hành thời gian còn lại trong quyết định đưa vào cơ sở cai nghiện bắt buộc.",
+        "reference": {
+            "type": "Article",
+            "id": "article_39",
+            "chapter_id": "chapter_V"
+        }
+    },
+    {
+        "sentence": "Người đã hoàn thành cai nghiện ma túy tự nguyện, người đã hoàn thành điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế, người từ đủ 12 tuổi đến dưới 18 tuổi đã chấp hành xong quyết định đưa vào cơ sở cai nghiện bắt buộc chịu sự quản lý sau cai nghiện ma túy trong thời hạn 01 năm kể từ ngày hoàn thành việc cai nghiện hoặc chấp hành xong quyết định.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_40_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_40"
+        }
+    },
+    {
+        "sentence": "Người đã chấp hành xong quyết định áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc chịu sự quản lý sau cai nghiện ma túy trong thời hạn 02 năm kể từ ngày chấp hành xong quyết định.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_40_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_40"
+        }
+    },
+    {
+        "sentence": "Nội dung quản lý sau cai nghiện ma túy bao gồm:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_40_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_40"
+        }
+    },
+    {
+        "sentence": "Lập danh sách người bị quản lý sau cai nghiện ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_40_3_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_40",
+            "clause_id": "clause_40_3"
+        }
+    },
+    {
+        "sentence": "Tư vấn, giúp đỡ, phòng, chống tái nghiện ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_40_3_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_40",
+            "clause_id": "clause_40_3"
+        }
+    },
+    {
+        "sentence": "Theo dõi, phát hiện, ngăn chặn hành vi sử dụng trái phép chất ma túy.",
+        "reference": {
+            "type": "Point",
+            "id": "point_40_3_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_40",
+            "clause_id": "clause_40_3"
+        }
+    },
+    {
+        "sentence": "Hỗ trợ xã hội trong thời gian quản lý sau cai nghiện ma túy bao gồm:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_40_4",
+            "chapter_id": "chapter_V",
+            "article_id": "article_40"
+        }
+    },
+    {
+        "sentence": "Hỗ trợ học văn hóa đối với người từ đủ 12 tuổi đến dưới 18 tuổi;",
+        "reference": {
+            "type": "Point",
+            "id": "point_40_4_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_40",
+            "clause_id": "clause_40_4"
+        }
+    },
+    {
+        "sentence": "Hỗ trợ học nghề, vay vốn, tìm việc làm và tham gia các hoạt động xã hội để hòa nhập cộng đồng.",
+        "reference": {
+            "type": "Point",
+            "id": "point_40_4_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_40",
+            "clause_id": "clause_40_4"
+        }
+    },
+    {
+        "sentence": "Chủ tịch Ủy ban nhân dân cấp xã ra quyết định và tổ chức quản lý, hỗ trợ xã hội sau cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_40_5",
+            "chapter_id": "chapter_V",
+            "article_id": "article_40"
+        }
+    },
+    {
+        "sentence": "Chính phủ quy định hồ sơ, trình tự, thủ tục, chế độ quản lý và chính sách hỗ trợ cho người bị quản lý sau cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_40_6",
+            "chapter_id": "chapter_V",
+            "article_id": "article_40"
+        }
+    },
+    {
+        "sentence": "Biện pháp can thiệp giảm tác hại đối với người sử dụng trái phép chất ma túy và người nghiện ma túy là biện pháp làm giảm tác hại liên quan đến hành vi sử dụng trái phép chất ma túy gây ra cho bản thân, gia đình và cộng đồng.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_41_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_41"
+        }
+    },
+    {
+        "sentence": "Biện pháp can thiệp giảm tác hại đối với người sử dụng trái phép chất ma túy và người nghiện ma túy bao gồm:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_41_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_41"
+        }
+    },
+    {
+        "sentence": "Điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế;",
+        "reference": {
+            "type": "Point",
+            "id": "point_41_2_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_41",
+            "clause_id": "clause_41_2"
+        }
+    },
+    {
+        "sentence": "Các biện pháp khác theo quy định của Chính phủ.",
+        "reference": {
+            "type": "Point",
+            "id": "point_41_2_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_41",
+            "clause_id": "clause_41_2"
+        }
+    },
+    {
+        "sentence": "Gia đình người nghiện ma túy có trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_42_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_42"
+        }
+    },
+    {
+        "sentence": "Hỗ trợ người nghiện ma túy trong quá trình cai nghiện ma túy, sau cai nghiện ma túy và hòa nhập cộng đồng;",
+        "reference": {
+            "type": "Point",
+            "id": "point_42_1_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_42",
+            "clause_id": "clause_42_1"
+        }
+    },
+    {
+        "sentence": "Phối hợp với cơ quan, người có thẩm quyền trong việc lập hồ sơ áp dụng biện pháp cai nghiện ma túy bắt buộc",
+        "reference": {
+            "type": "Point",
+            "id": "point_42_1_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_42",
+            "clause_id": "clause_42_1"
+        }
+    },
+    {
+        "sentence": "phối hợp với cơ quan, tổ chức, đơn vị có liên quan hỗ trợ người nghiện ma túy trong quá trình cai nghiện ma túy, quản lý sau cai nghiện ma túy và hòa nhập cộng đồng.",
+        "reference": {
+            "type": "Point",
+            "id": "point_42_1_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_42",
+            "clause_id": "clause_42_1"
+        }
+    },
+    {
+        "sentence": "Cộng đồng nơi người nghiện ma túy cư trú có trách nhiệm sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_42_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_42"
+        }
+    },
+    {
+        "sentence": "Động viên, giúp đỡ người nghiện ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_42_2_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_42",
+            "clause_id": "clause_42_2"
+        }
+    },
+    {
+        "sentence": "Phối hợp với cơ quan, tổ chức, đơn vị có liên quan hỗ trợ người nghiện ma túy trong quá trình cai nghiện ma túy, quản lý sau cai nghiện ma túy và hòa nhập cộng đồng.",
+        "reference": {
+            "type": "Point",
+            "id": "point_42_2_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_42",
+            "clause_id": "clause_42_2"
+        }
+    },
+    {
+        "sentence": "Công an cấp xã giúp Ủy ban nhân dân cùng cấp lập danh sách người nghiện ma túy và người bị quản lý sau cai nghiện ma túy cư trú tại địa phương.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_43_1",
+            "chapter_id": "chapter_V",
+            "article_id": "article_43"
+        }
+    },
+    {
+        "sentence": "Khi người nghiện ma túy, người bị quản lý sau cai nghiện ma túy thay đổi nơi cư trú thì công an cấp xã nơi chuyển đi có trách nhiệm thông báo cho công an cấp xã nơi chuyển đến trong thời hạn 05 ngày làm việc kể từ ngày người đó chuyển khỏi địa phương để đưa vào danh sách và phối hợp quản lý.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_43_2",
+            "chapter_id": "chapter_V",
+            "article_id": "article_43"
+        }
+    },
+    {
+        "sentence": "Công an cấp xã giúp Ủy ban nhân dân cùng cấp đưa ra khỏi danh sách người nghiện ma túy, người bị quản lý sau cai nghiện ma túy đối với các trường hợp sau đây:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_43_3",
+            "chapter_id": "chapter_V",
+            "article_id": "article_43"
+        }
+    },
+    {
+        "sentence": "Trong thời hạn quản lý sau cai nghiện ma túy quy định tại khoản 1 và khoản 2 Điều 40 của Luật này mà không phát hiện người đó sử dụng trái phép chất ma túy;",
+        "reference": {
+            "type": "Point",
+            "id": "point_43_3_a",
+            "chapter_id": "chapter_V",
+            "article_id": "article_43",
+            "clause_id": "clause_43_3"
+        }
+    },
+    {
+        "sentence": "Người nghiện ma túy, người bị quản lý sau cai nghiện ma túy phải thi hành án phạt tù;",
+        "reference": {
+            "type": "Point",
+            "id": "point_43_3_b",
+            "chapter_id": "chapter_V",
+            "article_id": "article_43",
+            "clause_id": "clause_43_3"
+        }
+    },
+    {
+        "sentence": "Người nghiện ma túy, người bị quản lý sau cai nghiện ma túy chuyển đến cư trú ở địa phương khác;",
+        "reference": {
+            "type": "Point",
+            "id": "point_43_3_c",
+            "chapter_id": "chapter_V",
+            "article_id": "article_43",
+            "clause_id": "clause_43_3"
+        }
+    },
+    {
+        "sentence": "Người nghiện ma túy, người bị quản lý sau cai nghiện ma túy chết, bị Tòa án tuyên bố mất tích.",
+        "reference": {
+            "type": "Point",
+            "id": "point_43_3_d",
+            "chapter_id": "chapter_V",
+            "article_id": "article_43",
+            "clause_id": "clause_43_3"
+        }
+    },
+    {
+        "sentence": "Xây dựng và tổ chức thực hiện chiến lược, chủ trương, chính sách, kế hoạch về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_44_1",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_44"
+        }
+    },
+    {
+        "sentence": "Ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_44_2",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_44"
+        }
+    },
+    {
+        "sentence": "Tổ chức bộ máy, đào tạo, bồi dưỡng người làm công tác phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_44_3",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_44"
+        }
+    },
+    {
+        "sentence": "Kiểm soát các hoạt động hợp pháp liên quan đến ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_44_4",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_44"
+        }
+    },
+    {
+        "sentence": "Thực hiện công tác cai nghiện ma túy và quản lý sau cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_44_5",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_44"
+        }
+    },
+    {
+        "sentence": "Tổ chức đấu tranh phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_44_6",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_44"
+        }
+    },
+    {
+        "sentence": "Thực hiện thống kê nhà nước về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_44_7",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_44"
+        }
+    },
+    {
+        "sentence": "Tổ chức nghiên cứu, ứng dụng tiến bộ khoa học và công nghệ về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_44_8",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_44"
+        }
+    },
+    {
+        "sentence": "Tổ chức tuyên truyền, giáo dục về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_44_9",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_44"
+        }
+    },
+    {
+        "sentence": "Hợp tác quốc tế về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_44_10",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_44"
+        }
+    },
+    {
+        "sentence": "Khen thưởng, kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_44_11",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_44"
+        }
+    },
+    {
+        "sentence": "Chính phủ thống nhất quản lý nhà nước về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_45_1",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_45"
+        }
+    },
+    {
+        "sentence": "Bộ Công an là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_45_2",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_45"
+        }
+    },
+    {
+        "sentence": "Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm thực hiện và phối hợp với cơ quan, tổ chức có liên quan trong phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_45_3",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_45"
+        }
+    },
+    {
+        "sentence": "Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về phòng, chống ma túy tại địa phương.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_45_4",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_45"
+        }
+    },
+    {
+        "sentence": "Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban hành văn bản quy phạm pháp luật về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_46_1",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_46"
+        }
+    },
+    {
+        "sentence": "Chủ trì, phối hợp với cơ quan, tổ chức có liên quan trong phòng, chống ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_46_2",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_46"
+        }
+    },
+    {
+        "sentence": "tổ chức tiếp nhận và xử lý thông tin tội phạm về ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_46_2",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_46"
+        }
+    },
+    {
+        "sentence": "kiểm soát các hoạt động hợp pháp liên quan đến ma túy theo thẩm quyền.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_46_2",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_46"
+        }
+    },
+    {
+        "sentence": "Tổ chức công tác giám định chất ma túy và tiền chất.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_46_3",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_46"
+        }
+    },
+    {
+        "sentence": "Đào tạo, bồi dưỡng người làm công tác điều tra, đấu tranh phòng, chống tội phạm về ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_46_4",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_46"
+        }
+    },
+    {
+        "sentence": "Hướng dẫn việc lập danh sách người sử dụng trái phép chất ma túy, người nghiện ma túy, người bị quản lý sau cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_46_5",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_46"
+        }
+    },
+    {
+        "sentence": "Chủ trì thực hiện thống kê nhà nước về phòng, chống ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_46_6",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_46"
+        }
+    },
+    {
+        "sentence": "quản lý thông tin tội phạm về ma túy, người sử dụng trái phép chất ma túy, người nghiện ma túy, người bị quản lý sau cai nghiện ma túy và kết quả kiểm soát các hoạt động hợp pháp liên quan đến ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_46_6",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_46"
+        }
+    },
+    {
+        "sentence": "Thực hiện hợp tác quốc tế về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_46_7",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_46"
+        }
+    },
+    {
+        "sentence": "Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban hành văn bản quy phạm pháp luật về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_47_1",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_47"
+        }
+    },
+    {
+        "sentence": "Chủ trì, phối hợp với cơ quan, tổ chức có liên quan và chính quyền địa phương hướng dẫn việc tổ chức cai nghiện ma túy tự nguyện tại gia đình, cộng đồng, cai nghiện ma túy tại cơ sở cai nghiện ma túy và quản lý sau cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_47_2",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_47"
+        }
+    },
+    {
+        "sentence": "Hướng dẫn việc thành lập, giải thể và tổ chức hoạt động của cơ sở cai nghiện ma túy công lập.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_47_3",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_47"
+        }
+    },
+    {
+        "sentence": "Đào tạo, bồi dưỡng người làm công tác cai nghiện ma túy, quản lý sau cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_47_4",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_47"
+        }
+    },
+    {
+        "sentence": "Hướng dẫn, chỉ đạo tổ chức thực hiện việc tuyên truyền, giáo dục về phòng, chống ma túy trong hệ thống cơ sở giáo dục nghề nghiệp.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_47_5",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_47"
+        }
+    },
+    {
+        "sentence": "Thực hiện hợp tác quốc tế về cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_47_6",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_47"
+        }
+    },
+    {
+        "sentence": "Thống kê người nghiện ma túy đang cai nghiện ma túy tự nguyện tại gia đình, cộng đồng, cai nghiện ma túy tại cơ sở cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_47_7",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_47"
+        }
+    },
+    {
+        "sentence": "Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban hành văn bản quy phạm pháp luật về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_48_1",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_48"
+        }
+    },
+    {
+        "sentence": "Tổ chức thực hiện kế hoạch phòng, chống ma túy ở khu vực biên giới trên đất liền, trên biển, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_48_2",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_48"
+        }
+    },
+    {
+        "sentence": "Chỉ đạo lực lượng Bộ đội Biên phòng, Cảnh sát biển Việt Nam chủ trì, phối hợp với cơ quan, tổ chức có liên quan, lực lượng chức năng để tiếp nhận, xử lý thông tin tội phạm về ma túy, phát hiện, ngăn chặn, đấu tranh với các hành vi vi phạm pháp luật về ma túy, kiểm soát các hoạt động hợp pháp liên quan đến ma túy tại khu vực, địa bàn quy định tại khoản 2 Điều này theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_48_3",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_48"
+        }
+    },
+    {
+        "sentence": "Đào tạo, bồi dưỡng người làm công tác chuyên trách phòng, chống tội phạm về ma túy của Bộ đội Biên phòng và Cảnh sát biển Việt Nam.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_48_4",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_48"
+        }
+    },
+    {
+        "sentence": "Thống kê người nghiện ma túy trong trại giam, trại tạm giam, nhà tạm giữ do Bộ Quốc phòng quản lý.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_48_5",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_48"
+        }
+    },
+    {
+        "sentence": "Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban hành văn bản quy phạm pháp luật về phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_49_1",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_49"
+        }
+    },
+    {
+        "sentence": "Thực hiện việc nghiên cứu thuốc và phương pháp cai nghiện ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_49_2",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_49"
+        }
+    },
+    {
+        "sentence": "cấp, thu hồi giấy phép lưu hành thuốc, phương pháp cai nghiện ma túy",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_49_2",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_49"
+        }
+    },
+    {
+        "sentence": "hỗ trợ về người, chuyên môn kỹ thuật y tế để cai nghiện ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_49_2",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_49"
+        }
+    },
+    {
+        "sentence": "Thống kê người đang tham gia điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_49_3",
+            "chapter_id": "chapter_VI",
+            "article_id": "article_49"
+        }
+    },
+    {
+        "sentence": "Chỉ đạo cơ quan Hải quan thực hiện hoạt động phòng, chống ma túy theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+        "reference": {
+            "type": "Article",
+            "id": "article_50",
+            "chapter_id": "chapter_VI"
+        }
+    },
+    {
+        "sentence": "Nhà nước Việt Nam thực hiện điều ước quốc tế về phòng, chống ma túy và điều ước quốc tế khác có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên trên nguyên tắc tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ và các bên cùng có lợi",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_51_1",
+            "chapter_id": "chapter_VII",
+            "article_id": "article_51"
+        }
+    },
+    {
+        "sentence": "hợp tác với các nước, tổ chức quốc tế, tổ chức, cá nhân nước ngoài trong hoạt động phòng, chống ma túy.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_51_1",
+            "chapter_id": "chapter_VII",
+            "article_id": "article_51"
+        }
+    },
+    {
+        "sentence": "Trên cơ sở điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, quy định của Luật này và quy định khác của pháp luật có liên quan, thỏa thuận quốc tế đã ký kết, cơ quan có thẩm quyền của Việt Nam thực hiện chương trình hợp tác về phòng, chống ma túy với cơ quan có liên quan của các nước, tổ chức quốc tế, tổ chức, cá nhân nước ngoài.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_51_2",
+            "chapter_id": "chapter_VII",
+            "article_id": "article_51"
+        }
+    },
+    {
+        "sentence": "Nhà nước Việt Nam thực hiện chính sách hợp tác quốc tế đa phương và song phương trong lĩnh vực phòng, chống ma túy trên nguyên tắc tôn trọng độc lập, chủ quyền quốc gia với các nước",
+        "reference": {
+            "type": "Article",
+            "id": "article_52",
+            "chapter_id": "chapter_VII"
+        }
+    },
+    {
+        "sentence": "khuyến khích tổ chức quốc tế, tổ chức, cá nhân nước ngoài hợp tác với cơ quan, tổ chức của Việt Nam hỗ trợ lẫn nhau về cơ sở vật chất, tăng cường năng lực pháp luật, thông tin, công nghệ đào tạo và y tế cho hoạt động phòng, chống ma túy.",
+        "reference": {
+            "type": "Article",
+            "id": "article_52",
+            "chapter_id": "chapter_VII"
+        }
+    },
+    {
+        "sentence": "Nhà nước Việt Nam thực hiện yêu cầu chuyển giao hàng hóa có kiểm soát trên cơ sở điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên để phát hiện và truy cứu trách nhiệm hình sự đối với người phạm tội về ma túy",
+        "reference": {
+            "type": "Article",
+            "id": "article_53",
+            "chapter_id": "chapter_VII"
+        }
+    },
+    {
+        "sentence": "Việc quyết định áp dụng và tiến hành biện pháp này thực hiện theo thỏa thuận giữa cơ quan có thẩm quyền của Việt Nam và của nước có liên quan.",
+        "reference": {
+            "type": "Article",
+            "id": "article_53",
+            "chapter_id": "chapter_VII"
+        }
+    },
+    {
+        "sentence": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2022.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_54_1",
+            "chapter_id": "chapter_VIII",
+            "article_id": "article_54"
+        }
+    },
+    {
+        "sentence": "Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_54_2",
+            "chapter_id": "chapter_VIII",
+            "article_id": "article_54"
+        }
+    },
+    {
+        "sentence": "Kể từ ngày Luật này có hiệu lực thi hành:",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_55_1",
+            "chapter_id": "chapter_VIII",
+            "article_id": "article_55"
+        }
+    },
+    {
+        "sentence": "Người đang thực hiện cai nghiện ma túy tự nguyện tại gia đình, cộng đồng hoặc tại cơ sở cai nghiện thì tiếp tục thực hiện cai nghiện ma túy tự nguyện đến hết thời hạn đã đăng ký theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 và bị quản lý sau cai nghiện ma túy theo quy định của Luật này;",
+        "reference": {
+            "type": "Point",
+            "id": "point_55_1_a",
+            "chapter_id": "chapter_VIII",
+            "article_id": "article_55",
+            "clause_id": "clause_55_1"
+        }
+    },
+    {
+        "sentence": "Người đang bị quản lý sau cai nghiện ma túy thì tiếp tục chấp hành quyết định quản lý sau cai nghiện ma túy đến hết thời hạn quản lý sau cai nghiện theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12. Trường hợp người đang trong thời gian quản lý sau cai nghiện ma túy đủ 18 tuổi kể từ ngày Luật này có hiệu lực thi hành mà tái nghiện thì áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc;",
+        "reference": {
+            "type": "Point",
+            "id": "point_55_1_b",
+            "chapter_id": "chapter_VIII",
+            "article_id": "article_55",
+            "clause_id": "clause_55_1"
+        }
+    },
+    {
+        "sentence": "Người đang chấp hành quyết định cai nghiện ma túy bắt buộc tại cộng đồng theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 thì được đăng ký cai nghiện tự nguyện theo quy định của Luật này",
+        "reference": {
+            "type": "Point",
+            "id": "point_55_1_c",
+            "chapter_id": "chapter_VIII",
+            "article_id": "article_55",
+            "clause_id": "clause_55_1"
+        }
+    },
+    {
+        "sentence": "Thời gian đã chấp hành quyết định cai nghiện ma túy bắt buộc tại cộng đồng được tính vào thời hạn cai nghiện ma túy tự nguyện;",
+        "reference": {
+            "type": "Point",
+            "id": "point_55_1_c",
+            "chapter_id": "chapter_VIII",
+            "article_id": "article_55",
+            "clause_id": "clause_55_1"
+        }
+    },
+    {
+        "sentence": "Người thuộc trường hợp phải đưa vào cơ sở cai nghiện bắt buộc theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 đang trong quá trình lập hồ sơ đưa vào cơ sở cai nghiện bắt buộc thì thực hiện việc cai nghiện ma túy theo quy định của Luật này",
+        "reference": {
+            "type": "Point",
+            "id": "point_55_1_d",
+            "chapter_id": "chapter_VIII",
+            "article_id": "article_55",
+            "clause_id": "clause_55_1"
+        }
+    },
+    {
+        "sentence": "đ) Giấy phép liên quan đến hoạt động hợp pháp liên quan đến ma túy đã được cấp tiếp tục được sử dụng đến hết thời hạn ghi trên giấy phép.",
+        "reference": {
+            "type": "Point",
+            "id": "point_55_1_d",
+            "chapter_id": "chapter_VIII",
+            "article_id": "article_55",
+            "clause_id": "clause_55_1"
+        }
+    },
+    {
+        "sentence": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành, cơ sở cai nghiện ma túy bắt buộc được thành lập theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 phải đáp ứng đủ điều kiện của cơ sở cai nghiện ma túy công lập theo quy định của Luật này",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_55_2",
+            "chapter_id": "chapter_VIII",
+            "article_id": "article_55"
+        }
+    },
+    {
+        "sentence": "Các cơ sở khác về cai nghiện ma túy theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 đã được cấp giấy phép hoạt động trước ngày Luật này có hiệu lực thi hành được tiếp tục hoạt động cho đến khi hết thời hạn của giấy phép",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_55_2",
+            "chapter_id": "chapter_VIII",
+            "article_id": "article_55"
+        }
+    },
+    {
+        "sentence": "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 11 thông qua ngày 30 tháng 3 năm 2021. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
+        "reference": {
+            "type": "Clause",
+            "id": "clause_55_2",
+            "chapter_id": "chapter_VIII",
+            "article_id": "article_55"
+        }
+    }
+]
