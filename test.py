@@ -4,7 +4,6 @@ import os
 load_dotenv()
 vncorenlp_dir = os.getenv("VNCORENLP_DIR")
 
-
 rdrsegmenter = VnCoreNLP(
     save_dir=vncorenlp_dir,
     annotators=["wseg", "pos", "ner", "parse"],

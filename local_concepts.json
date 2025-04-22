@@ -15,7 +15,7 @@
     },
     {
       "name": "Quản lý người sử dụng trái phép chất ma túy",
-      "meaning": "Các biện pháp hành chính và xã hội nhằm kiểm soát, giáo dục và giúp đỡ người sử dụng trái phép chất ma túy.",
+      "meaning": "Các biện pháp hành chính và pháp lý nhằm theo dõi, kiểm soát và hỗ trợ người sử dụng trái phép chất ma túy.",
       "attrs": [],
       "keyphrases": [
         "quản lý người sử dụng trái phép chất ma túy"
@@ -24,7 +24,7 @@
     },
     {
       "name": "Cai nghiện ma túy",
-      "meaning": "Quá trình điều trị, phục hồi sức khỏe và tâm lý cho người nghiện ma túy.",
+      "meaning": "Quá trình điều trị, phục hồi và tái hòa nhập cộng đồng cho người nghiện ma túy.",
       "attrs": [],
       "keyphrases": [
         "cai nghiện ma túy"
@@ -33,7 +33,7 @@
     },
     {
       "name": "Trách nhiệm phòng, chống ma túy",
-      "meaning": "Nghĩa vụ và vai trò của các chủ thể khác nhau trong việc tham gia vào công tác phòng, chống ma túy.",
+      "meaning": "Nghĩa vụ và vai trò của các chủ thể (cá nhân, gia đình, cơ quan, tổ chức) trong việc tham gia vào công tác phòng, chống ma túy.",
       "attrs": [
         "cá nhân",
         "gia đình",
@@ -88,7 +88,7 @@
     },
     {
       "name": "Chất gây nghiện",
-      "meaning": "Chất kích thích hoặc ức chế thần kinh, dễ gây tình trạng nghiện đối với người sử dụng.",
+      "meaning": "Chất kích thích hoặc ức chế thần kinh, dễ gây nghiện cho người sử dụng.",
       "attrs": [
         "kích thích thần kinh",
         "ức chế thần kinh",
@@ -98,13 +98,13 @@
         "chất gây nghiện",
         "kích thích thần kinh",
         "ức chế thần kinh",
-        "tình trạng nghiện"
+        "gây tình trạng nghiện"
       ],
       "similar": []
     },
     {
       "name": "Chất hướng thần",
-      "meaning": "Chất kích thích hoặc ức chế thần kinh hoặc gây ảo giác, nếu sử dụng nhiều lần có thể dẫn tới tình trạng nghiện.",
+      "meaning": "Chất kích thích hoặc ức chế thần kinh hoặc gây ảo giác, sử dụng nhiều lần có thể gây nghiện.",
       "attrs": [
         "kích thích thần kinh",
         "ức chế thần kinh",
@@ -125,7 +125,7 @@
       "meaning": "Hóa chất không thể thiếu trong quá trình điều chế, sản xuất chất ma túy, được quy định trong danh mục do Chính phủ ban hành.",
       "attrs": [
         "hóa chất",
-        "không thể thiếu trong điều chế/sản xuất chất ma túy",
+        "không thể thiếu trong điều chế, sản xuất chất ma túy",
         "được quy định trong danh mục của Chính phủ"
       ],
       "keyphrases": [
@@ -139,7 +139,7 @@
     },
     {
       "name": "Thuốc thú y có chứa chất ma túy, tiền chất",
-      "meaning": "Thuốc thú y có chứa các chất gây nghiện, chất hướng thần hoặc tiền chất.",
+      "meaning": "Thuốc thú y có chứa các chất ma túy hoặc tiền chất theo quy định.",
       "attrs": [
         "thuốc thú y",
         "chứa chất ma túy",
@@ -159,7 +159,8 @@
         "cây thuốc phiện",
         "cây côca",
         "cây cần sa",
-        "các loại cây khác có chứa chất ma túy"
+        "các loại cây khác có chứa chất ma túy",
+        "do Chính phủ quy định"
       ],
       "keyphrases": [
         "cây có chứa chất ma túy",
@@ -226,10 +227,9 @@
         "theo dõi",
         "kiểm tra",
         "giám sát",
-        "hoạt động hợp pháp",
+        "hoạt động hợp pháp liên quan đến ma túy",
         "phòng ngừa",
-        "ngăn chặn",
-        "lợi dụng"
+        "ngăn chặn"
       ],
       "similar": []
     },
@@ -239,7 +239,7 @@
       "attrs": [
         "sử dụng chất ma túy",
         "không được sự cho phép",
-        "người/cơ quan chuyên môn có thẩm quyền",
+        "người hoặc cơ quan chuyên môn có thẩm quyền",
         "xét nghiệm dương tính"
       ],
       "keyphrases": [
@@ -283,7 +283,7 @@
       ],
       "keyphrases": [
         "người nghiện ma túy",
-        "chất ma túy",
+        "sử dụng chất ma túy",
         "thuốc gây nghiện",
         "thuốc hướng thần",
         "lệ thuộc"
@@ -306,10 +306,10 @@
       ],
       "keyphrases": [
         "cai nghiện ma túy",
-        "hỗ trợ y tế",
-        "hỗ trợ tâm lý",
-        "hỗ trợ xã hội",
-        "dừng sử dụng",
+        "hỗ trợ về y tế",
+        "hỗ trợ về tâm lý",
+        "hỗ trợ về xã hội",
+        "dừng sử dụng chất ma túy",
         "phục hồi thể chất",
         "phục hồi tinh thần",
         "nâng cao nhận thức",
@@ -532,28 +532,40 @@
   "text": "Điều 5. Các hành vi bị nghiêm cấm\n1. Trồng cây có chứa chất ma túy, hướng dẫn trồng cây có chứa chất ma túy.\n2. Nghiên cứu, giám định, kiểm nghiệm, kiểm định, sản xuất, tàng trữ, vận chuyển, bảo quản, tồn trữ, mua bán, phân phối, xử lý, trao đổi, xuất khẩu, nhập khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh trái phép chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất.\n3. Chiếm đoạt chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất.\n4. Giao nhận, quản lý, kiểm soát, lưu giữ, cấp phát, bảo quản chất ma túy, tiền chất trái quy định của pháp luật; cho phép người sử dụng chất ma túy, thuốc gây nghiện hoặc thuốc hướng thần trái quy định của pháp luật.\n5. Sử dụng, tổ chức sử dụng trái phép chất ma túy; cưỡng bức, lôi kéo người khác sử dụng trái phép chất ma túy; chứa chấp, hỗ trợ việc sử dụng trái phép chất ma túy.\n6. Sản xuất, tàng trữ, vận chuyển, mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy.\n7. Chống lại hoặc cản trở việc xét nghiệm chất ma túy trong cơ thể, xác định tình trạng nghiện ma túy, quản lý người sử dụng trái phép chất ma túy, cai nghiện ma túy, quản lý sau cai nghiện ma túy.\n8. Trả thù hoặc cản trở người thực thi nhiệm vụ phòng, chống ma túy, người tham gia phòng, chống ma túy.\n9. Lợi dụng chức vụ, quyền hạn, nghề nghiệp để vi phạm pháp luật về phòng, chống ma túy.\n10. Hướng dẫn sản xuất, hướng dẫn sử dụng trái phép chất ma túy; quảng cáo, tiếp thị chất ma túy.\n11. Kỳ thị người sử dụng trái phép chất ma túy, người cai nghiện ma túy, người sau cai nghiện ma túy.\n12. Các hành vi bị nghiêm cấm khác do luật định liên quan đến ma túy.\nChương II\nTRÁCH NHIỆM PHÒNG, CHỐNG MA TÚY",
   "concepts": [
     {
-      "name": "Hành vi bị nghiêm cấm",
-      "meaning": "Những hành động, hoạt động mà pháp luật cấm thực hiện, đặc biệt trong lĩnh vực phòng, chống ma túy.",
+      "name": "Hành vi bị nghiêm cấm liên quan đến ma túy",
+      "meaning": "Các hành động, hoạt động mà pháp luật cấm thực hiện liên quan đến ma túy, tiền chất và các chất gây nghiện, hướng thần khác.",
       "attrs": [
-        "Tính trái pháp luật",
-        "Hậu quả pháp lý (ví dụ: xử phạt hành chính, truy cứu trách nhiệm hình sự)"
+        "Tính trái phép",
+        "Tính nguy hiểm cho xã hội",
+        "Tính xâm phạm trật tự quản lý nhà nước"
       ],
       "keyphrases": [
-        "hành vi bị nghiêm cấm"
+        "hành vi bị nghiêm cấm",
+        "trồng cây có chứa chất ma túy",
+        "nghiên cứu, giám định...",
+        "chiếm đoạt chất ma túy...",
+        "giao nhận, quản lý...",
+        "sử dụng, tổ chức sử dụng trái phép chất ma túy",
+        "sản xuất, tàng trữ...",
+        "chống lại hoặc cản trở việc xét nghiệm...",
+        "trả thù hoặc cản trở người thực thi nhiệm vụ...",
+        "lợi dụng chức vụ, quyền hạn...",
+        "hướng dẫn sản xuất, hướng dẫn sử dụng trái phép chất ma túy",
+        "kỳ thị người sử dụng trái phép chất ma túy",
+        "các hành vi bị nghiêm cấm khác do luật định liên quan đến ma túy"
       ],
       "similar": [
-        "hành vi vi phạm pháp luật",
-        "hành vi trái pháp luật"
+        "hành vi vi phạm pháp luật về ma túy",
+        "hành vi trái pháp luật liên quan đến ma túy"
       ]
     },
     {
       "name": "Chất ma túy",
       "meaning": "Các chất gây nghiện, chất hướng thần được quy định trong danh mục do cơ quan nhà nước có thẩm quyền ban hành.",
       "attrs": [
-        "Gây nghiện",
-        "Gây ảo giác",
-        "Ảnh hưởng đến thần kinh",
-        "Bị kiểm soát chặt chẽ bởi pháp luật"
+        "Tính gây nghiện",
+        "Tính hướng thần",
+        "Được kiểm soát bởi pháp luật"
       ],
       "keyphrases": [
         "chất ma túy"
@@ -567,7 +579,7 @@
       "meaning": "Các hóa chất được sử dụng trong quá trình sản xuất chất ma túy.",
       "attrs": [
         "Sử dụng để sản xuất ma túy",
-        "Bị kiểm soát chặt chẽ bởi pháp luật"
+        "Được kiểm soát bởi pháp luật"
       ],
       "keyphrases": [
         "tiền chất"
@@ -576,11 +588,11 @@
     },
     {
       "name": "Thuốc gây nghiện",
-      "meaning": "Các loại thuốc có chứa chất gây nghiện, được sử dụng trong y tế nhưng cần kiểm soát chặt chẽ.",
+      "meaning": "Các loại thuốc có chứa chất gây nghiện, được sử dụng trong y tế nhưng phải tuân thủ quy định của pháp luật.",
       "attrs": [
         "Chứa chất gây nghiện",
         "Sử dụng trong y tế",
-        "Bị kiểm soát chặt chẽ bởi pháp luật"
+        "Được kiểm soát bởi pháp luật"
       ],
       "keyphrases": [
         "thuốc gây nghiện"
@@ -589,11 +601,11 @@
     },
     {
       "name": "Thuốc hướng thần",
-      "meaning": "Các loại thuốc tác động lên hệ thần kinh, có thể gây ảo giác hoặc thay đổi tâm trạng, cần kiểm soát chặt chẽ.",
+      "meaning": "Các loại thuốc có tác động lên hệ thần kinh, gây ra thay đổi về tâm trạng, nhận thức, hành vi.",
       "attrs": [
         "Tác động lên hệ thần kinh",
-        "Có thể gây ảo giác",
-        "Bị kiểm soát chặt chẽ bởi pháp luật"
+        "Thay đổi tâm trạng, nhận thức, hành vi",
+        "Được kiểm soát bởi pháp luật"
       ],
       "keyphrases": [
         "thuốc hướng thần"
@@ -602,11 +614,11 @@
     },
     {
       "name": "Thuốc tiền chất",
-      "meaning": "Các loại thuốc có chứa tiền chất, được sử dụng trong y tế nhưng cần kiểm soát chặt chẽ.",
+      "meaning": "Các loại thuốc có chứa tiền chất, được sử dụng trong y tế nhưng phải tuân thủ quy định của pháp luật.",
       "attrs": [
         "Chứa tiền chất",
         "Sử dụng trong y tế",
-        "Bị kiểm soát chặt chẽ bởi pháp luật"
+        "Được kiểm soát bởi pháp luật"
       ],
       "keyphrases": [
         "thuốc tiền chất"
@@ -622,24 +634,20 @@
         "Tiền chất dùng làm thuốc"
       ],
       "keyphrases": [
-        "nguyên liệu làm thuốc là dược chất gây nghiện",
-        "dược chất hướng thần",
-        "tiền chất dùng làm thuốc"
+        "nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc"
       ],
       "similar": []
     },
     {
       "name": "Thuốc thú y có chứa chất ma túy, tiền chất",
-      "meaning": "Các loại thuốc dùng cho động vật có chứa chất ma túy hoặc tiền chất, cần kiểm soát chặt chẽ.",
+      "meaning": "Các loại thuốc dùng cho động vật có chứa chất ma túy hoặc tiền chất.",
       "attrs": [
         "Dùng cho động vật",
         "Chứa chất ma túy",
-        "Chứa tiền chất",
-        "Bị kiểm soát chặt chẽ bởi pháp luật"
+        "Chứa tiền chất"
       ],
       "keyphrases": [
-        "thuốc thú y có chứa chất ma túy",
-        "tiền chất"
+        "thuốc thú y có chứa chất ma túy, tiền chất"
       ],
       "similar": []
     },
@@ -648,7 +656,7 @@
       "meaning": "Việc sử dụng chất ma túy mà không được phép của pháp luật.",
       "attrs": [
         "Không được phép",
-        "Vi phạm pháp luật"
+        "Sử dụng chất ma túy"
       ],
       "keyphrases": [
         "sử dụng trái phép chất ma túy"
@@ -656,38 +664,12 @@
       "similar": []
     },
     {
-      "name": "Phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy",
-      "meaning": "Các công cụ, thiết bị được sử dụng để sản xuất hoặc sử dụng chất ma túy một cách bất hợp pháp.",
-      "attrs": [
-        "Sử dụng để sản xuất ma túy",
-        "Sử dụng để sử dụng ma túy",
-        "Trái phép"
-      ],
-      "keyphrases": [
-        "phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy"
-      ],
-      "similar": []
-    },
-    {
-      "name": "Tình trạng nghiện ma túy",
-      "meaning": "Trạng thái lệ thuộc vào chất ma túy về mặt thể chất và tinh thần.",
-      "attrs": [
-        "Lệ thuộc thể chất",
-        "Lệ thuộc tinh thần"
-      ],
-      "keyphrases": [
-        "tình trạng nghiện ma túy"
-      ],
-      "similar": []
-    },
-    {
       "name": "Quản lý người sử dụng trái phép chất ma túy",
-      "meaning": "Các biện pháp hành chính và pháp lý nhằm kiểm soát và giúp đỡ người sử dụng trái phép chất ma túy.",
+      "meaning": "Các biện pháp quản lý, giám sát đối với người sử dụng trái phép chất ma túy.",
       "attrs": [
-        "Biện pháp hành chính",
-        "Biện pháp pháp lý",
-        "Kiểm soát",
-        "Hỗ trợ"
+        "Quản lý",
+        "Giám sát",
+        "Người sử dụng trái phép chất ma túy"
       ],
       "keyphrases": [
         "quản lý người sử dụng trái phép chất ma túy"
@@ -696,10 +678,11 @@
     },
     {
       "name": "Cai nghiện ma túy",
-      "meaning": "Quá trình giúp người nghiện ma túy từ bỏ việc sử dụng chất ma túy.",
+      "meaning": "Quá trình điều trị, phục hồi cho người nghiện ma túy.",
       "attrs": [
-        "Từ bỏ ma túy",
-        "Phục hồi sức khỏe"
+        "Điều trị",
+        "Phục hồi",
+        "Người nghiện ma túy"
       ],
       "keyphrases": [
         "cai nghiện ma túy"
@@ -708,11 +691,11 @@
     },
     {
       "name": "Quản lý sau cai nghiện ma túy",
-      "meaning": "Các biện pháp hỗ trợ và giám sát người đã cai nghiện ma túy để ngăn ngừa tái nghiện.",
+      "meaning": "Các biện pháp hỗ trợ, giám sát sau khi người nghiện ma túy đã cai nghiện thành công.",
       "attrs": [
         "Hỗ trợ",
         "Giám sát",
-        "Ngăn ngừa tái nghiện"
+        "Người sau cai nghiện ma túy"
       ],
       "keyphrases": [
         "quản lý sau cai nghiện ma túy"
@@ -720,27 +703,62 @@
       "similar": []
     },
     {
-      "name": "Phòng, chống ma túy",
-      "meaning": "Các hoạt động nhằm ngăn chặn và đẩy lùi tệ nạn ma túy.",
+      "name": "Người thực thi nhiệm vụ phòng, chống ma túy",
+      "meaning": "Cá nhân hoặc tổ chức được giao trách nhiệm thực hiện các hoạt động phòng ngừa, ngăn chặn và đấu tranh chống lại tệ nạn ma túy.",
       "attrs": [
-        "Ngăn chặn",
-        "Đẩy lùi",
-        "Tệ nạn ma túy"
+        "Thực hiện nhiệm vụ",
+        "Phòng, chống ma túy"
       ],
       "keyphrases": [
-        "phòng, chống ma túy"
+        "người thực thi nhiệm vụ phòng, chống ma túy"
       ],
       "similar": []
     },
     {
-      "name": "Kỳ thị",
-      "meaning": "Thái độ phân biệt đối xử, xa lánh đối với một nhóm người cụ thể.",
+      "name": "Người tham gia phòng, chống ma túy",
+      "meaning": "Cá nhân hoặc tổ chức tham gia vào các hoạt động phòng ngừa, ngăn chặn và đấu tranh chống lại tệ nạn ma túy.",
       "attrs": [
-        "Phân biệt đối xử",
-        "Xa lánh"
+        "Tham gia",
+        "Phòng, chống ma túy"
       ],
       "keyphrases": [
-        "kỳ thị"
+        "người tham gia phòng, chống ma túy"
+      ],
+      "similar": []
+    },
+    {
+      "name": "Người sử dụng trái phép chất ma túy",
+      "meaning": "Người sử dụng chất ma túy mà không được phép của pháp luật.",
+      "attrs": [
+        "Sử dụng trái phép",
+        "Chất ma túy"
+      ],
+      "keyphrases": [
+        "người sử dụng trái phép chất ma túy"
+      ],
+      "similar": []
+    },
+    {
+      "name": "Người cai nghiện ma túy",
+      "meaning": "Người đang trong quá trình điều trị, phục hồi để từ bỏ việc sử dụng ma túy.",
+      "attrs": [
+        "Đang cai nghiện",
+        "Ma túy"
+      ],
+      "keyphrases": [
+        "người cai nghiện ma túy"
+      ],
+      "similar": []
+    },
+    {
+      "name": "Người sau cai nghiện ma túy",
+      "meaning": "Người đã hoàn thành quá trình cai nghiện ma túy và đang trong giai đoạn tái hòa nhập cộng đồng.",
+      "attrs": [
+        "Sau cai nghiện",
+        "Ma túy"
+      ],
+      "keyphrases": [
+        "người sau cai nghiện ma túy"
       ],
       "similar": []
     }
@@ -889,12 +907,12 @@
   "concepts": [
     {
       "name": "Trách nhiệm của cơ quan nhà nước",
-      "meaning": "Nghĩa vụ pháp lý của các cơ quan nhà nước trong việc phòng, chống ma túy, bao gồm tổ chức phòng chống ma túy nội bộ, phòng ngừa vi phạm pháp luật về ma túy, tuyên truyền vận động nhân dân và thực hiện chính sách thay thế cây có chứa chất ma túy.",
+      "meaning": "Nghĩa vụ và bổn phận của các cơ quan nhà nước trong công tác phòng, chống ma túy.",
       "attrs": [
         "Phòng, chống ma túy trong cơ quan, đơn vị",
-        "Phòng ngừa, ngăn chặn vi phạm pháp luật về ma túy",
-        "Tuyên truyền, vận động Nhân dân",
-        "Thực hiện chủ trương, chính sách về thay thế cây có chứa chất ma túy"
+        "Phòng ngừa, ngăn chặn vi phạm pháp luật về ma túy của cán bộ, công chức, viên chức, người lao động và cán bộ, chiến sĩ lực lượng vũ trang",
+        "Tuyên truyền, vận động Nhân dân phát hiện, tố giác, đấu tranh với tội phạm và tệ nạn ma túy",
+        "Tổ chức thực hiện chủ trương, chính sách về quy hoạch, phát triển kinh tế - xã hội để thay thế việc trồng cây có chứa chất ma túy"
       ],
       "keyphrases": [
         "Trách nhiệm của cơ quan nhà nước",
@@ -902,89 +920,83 @@
         "Phòng ngừa, ngăn chặn",
         "Vi phạm pháp luật về phòng, chống ma túy",
         "Tuyên truyền, vận động Nhân dân",
-        "Tố giác, đấu tranh với tội phạm và tệ nạn ma túy",
-        "Chủ trương, chính sách của Nhà nước",
-        "Thay thế việc trồng cây có chứa chất ma túy",
-        "Vùng xóa bỏ cây có chứa chất ma túy"
+        "Phát hiện, tố giác, đấu tranh",
+        "Tội phạm và tệ nạn ma túy",
+        "Quy hoạch, phát triển kinh tế - xã hội",
+        "Thay thế việc trồng cây có chứa chất ma túy"
       ],
       "similar": [
         "Nghĩa vụ của cơ quan nhà nước",
-        "Vai trò của cơ quan nhà nước trong phòng chống ma túy"
+        "Bổn phận của cơ quan nhà nước"
       ]
     },
     {
       "name": "Phòng, chống ma túy trong cơ quan, đơn vị",
-      "meaning": "Hoạt động tổ chức và thực hiện các biện pháp phòng ngừa, ngăn chặn và đấu tranh với các hành vi liên quan đến ma túy trong phạm vi cơ quan, đơn vị nhà nước.",
+      "meaning": "Hoạt động nhằm ngăn chặn và loại bỏ ma túy trong phạm vi quản lý của cơ quan, đơn vị nhà nước.",
       "attrs": [
-        "Tổ chức",
-        "Phòng ngừa",
-        "Ngăn chặn",
-        "Đấu tranh"
+        "Tổ chức thực hiện",
+        "Trong cơ quan, đơn vị"
       ],
       "keyphrases": [
-        "Phòng, chống ma túy trong cơ quan, đơn vị"
+        "Phòng, chống ma túy trong cơ quan, đơn vị",
+        "Tổ chức phòng, chống ma túy"
       ],
       "similar": [
-        "Công tác phòng chống ma túy nội bộ",
-        "Biện pháp phòng ngừa ma túy tại cơ quan"
+        "Ngăn chặn ma túy trong cơ quan",
+        "Loại bỏ ma túy trong đơn vị"
       ]
     },
     {
-      "name": "Phòng ngừa, ngăn chặn vi phạm pháp luật về phòng, chống ma túy",
-      "meaning": "Các biện pháp chủ động để ngăn chặn cán bộ, công chức, viên chức, người lao động và lực lượng vũ trang nhân dân thực hiện các hành vi vi phạm pháp luật liên quan đến ma túy.",
+      "name": "Phòng ngừa, ngăn chặn vi phạm pháp luật về ma túy",
+      "meaning": "Các biện pháp để ngăn chặn cán bộ, công chức, viên chức, người lao động và cán bộ, chiến sĩ lực lượng vũ trang thực hiện hành vi vi phạm pháp luật liên quan đến ma túy.",
       "attrs": [
-        "Chủ động",
-        "Ngăn chặn",
-        "Cán bộ, công chức, viên chức",
-        "Người lao động",
-        "Lực lượng vũ trang nhân dân"
+        "Đối tượng: cán bộ, công chức, viên chức, người lao động, cán bộ, chiến sĩ lực lượng vũ trang",
+        "Hành vi: vi phạm pháp luật về ma túy"
       ],
       "keyphrases": [
         "Phòng ngừa, ngăn chặn",
-        "Vi phạm pháp luật về phòng, chống ma túy"
+        "Vi phạm pháp luật về phòng, chống ma túy",
+        "Cán bộ, công chức, viên chức, người lao động",
+        "Cán bộ, chiến sĩ thuộc lực lượng vũ trang nhân dân"
       ],
       "similar": [
-        "Ngăn chặn hành vi phạm tội về ma túy",
-        "Phòng ngừa các hành vi liên quan đến ma túy"
+        "Ngăn chặn hành vi phạm tội liên quan đến ma túy",
+        "Phòng tránh vi phạm pháp luật về ma túy"
       ]
     },
     {
       "name": "Tuyên truyền, vận động Nhân dân",
-      "meaning": "Hoạt động thông tin, giáo dục và thuyết phục người dân tham gia vào công tác phòng, chống ma túy, bao gồm phát hiện, tố giác và đấu tranh với tội phạm và tệ nạn ma túy.",
+      "meaning": "Hoạt động thông tin, giáo dục và khuyến khích người dân tham gia vào công tác phòng, chống ma túy.",
       "attrs": [
-        "Thông tin",
-        "Giáo dục",
-        "Thuyết phục",
-        "Phát hiện",
-        "Tố giác",
-        "Đấu tranh"
+        "Mục đích: phát hiện, tố giác, đấu tranh với tội phạm và tệ nạn ma túy",
+        "Đối tượng: Nhân dân"
       ],
       "keyphrases": [
         "Tuyên truyền, vận động Nhân dân",
-        "Tố giác, đấu tranh với tội phạm và tệ nạn ma túy"
+        "Phát hiện, tố giác, đấu tranh",
+        "Tội phạm và tệ nạn ma túy"
       ],
       "similar": [
-        "Vận động quần chúng tham gia phòng chống ma túy",
-        "Nâng cao nhận thức về phòng chống ma túy"
+        "Giáo dục cộng đồng về phòng, chống ma túy",
+        "Khuyến khích người dân tham gia phòng, chống ma túy"
       ]
     },
     {
-      "name": "Chủ trương, chính sách về thay thế cây có chứa chất ma túy",
-      "meaning": "Các quy định và biện pháp của Nhà nước nhằm chuyển đổi sản xuất từ cây trồng có chứa chất ma túy sang các loại cây trồng khác, góp phần xóa bỏ nguồn cung ma túy.",
+      "name": "Thay thế việc trồng cây có chứa chất ma túy",
+      "meaning": "Chủ trương, chính sách của Nhà nước nhằm chuyển đổi mục đích sử dụng đất từ trồng cây có chứa chất ma túy sang các loại cây trồng khác, kết hợp với phát triển kinh tế - xã hội.",
       "attrs": [
-        "Quy hoạch",
-        "Phát triển kinh tế - xã hội",
-        "Thay thế cây trồng",
-        "Xóa bỏ cây có chứa chất ma túy"
+        "Địa điểm: các vùng xóa bỏ cây có chứa chất ma túy",
+        "Biện pháp: quy hoạch, phát triển kinh tế - xã hội"
       ],
       "keyphrases": [
-        "Chủ trương, chính sách của Nhà nước",
         "Thay thế việc trồng cây có chứa chất ma túy",
+        "Cây có chứa chất ma túy",
+        "Quy hoạch, phát triển kinh tế - xã hội",
         "Vùng xóa bỏ cây có chứa chất ma túy"
       ],
       "similar": [
-        "Chính sách chuyển đổi cây trồng",
-        "Biện pháp xóa bỏ cây có chứa chất ma túy"
+        "Chuyển đổi cây trồng",
+        "Xóa bỏ cây có chứa chất ma túy"
       ]
     }
   ]
@@ -1000,9 +1012,9 @@
       "attrs": [
         "Tổ chức thực hiện chương trình giáo dục về phòng, chống ma túy",
         "Phổ biến, giáo dục pháp luật về phòng, chống ma túy",
-        "Quản lý chặt chẽ, ngăn chặn học sinh, sinh viên, học viên vi phạm pháp luật về phòng, chống ma túy",
+        "Quản lý chặt chẽ, ngăn chặn học sinh, sinh viên, học viên vi phạm pháp luật",
         "Phối hợp với gia đình, cơ quan, tổ chức và chính quyền địa phương",
-        "Phối hợp tổ chức xét nghiệm chất ma túy"
+        "Phối hợp với cơ quan, tổ chức, cá nhân có thẩm quyền tổ chức xét nghiệm chất ma túy"
       ],
       "keyphrases": [
         "cơ sở giáo dục"
@@ -1010,85 +1022,97 @@
       "similar": []
     },
     {
-      "name": "Phòng, chống ma túy",
-      "meaning": "Các hoạt động nhằm ngăn chặn, phát hiện, xử lý các hành vi liên quan đến ma túy, bảo vệ cộng đồng và cá nhân khỏi tác hại của ma túy.",
+      "name": "Chương trình giáo dục về phòng, chống ma túy",
+      "meaning": "Nội dung và phương pháp giáo dục được thiết kế để nâng cao nhận thức và kỹ năng phòng, chống ma túy cho học sinh, sinh viên, học viên.",
       "attrs": [
-        "Chương trình giáo dục",
-        "Phổ biến, giáo dục pháp luật",
-        "Quản lý, ngăn chặn vi phạm",
-        "Phối hợp với các bên liên quan",
-        "Xét nghiệm chất ma túy"
+        "Nội dung giáo dục",
+        "Phương pháp giáo dục",
+        "Mục tiêu phòng, chống ma túy"
       ],
       "keyphrases": [
-        "phòng, chống ma túy"
+        "chương trình giáo dục về phòng, chống ma túy"
       ],
-      "similar": [
-        "chống tệ nạn ma túy",
-        "kiểm soát ma túy"
-      ]
+      "similar": []
+    },
+    {
+      "name": "Phổ biến, giáo dục pháp luật về phòng, chống ma túy",
+      "meaning": "Hoạt động truyền đạt và giải thích các quy định pháp luật liên quan đến phòng, chống ma túy nhằm nâng cao hiểu biết và ý thức tuân thủ pháp luật.",
+      "attrs": [
+        "Nội dung pháp luật",
+        "Hình thức phổ biến",
+        "Đối tượng tiếp nhận"
+      ],
+      "keyphrases": [
+        "phổ biến, giáo dục pháp luật về phòng, chống ma túy"
+      ],
+      "similar": []
     },
     {
       "name": "Học sinh, sinh viên, học viên",
-      "meaning": "Đối tượng được giáo dục và quản lý bởi cơ sở giáo dục, có trách nhiệm tuân thủ pháp luật về phòng, chống ma túy.",
+      "meaning": "Đối tượng được quản lý, giáo dục và có trách nhiệm tuân thủ pháp luật về phòng, chống ma túy trong môi trường giáo dục.",
       "attrs": [
-        "Đối tượng quản lý của cơ sở giáo dục",
-        "Đối tượng được giáo dục về phòng, chống ma túy",
-        "Đối tượng có thể bị xét nghiệm chất ma túy"
+        "Đối tượng quản lý",
+        "Đối tượng giáo dục",
+        "Trách nhiệm tuân thủ pháp luật"
       ],
       "keyphrases": [
         "học sinh",
         "sinh viên",
         "học viên"
       ],
-      "similar": [
-        "người học"
-      ]
+      "similar": []
     },
     {
       "name": "Vi phạm pháp luật về phòng, chống ma túy",
       "meaning": "Hành vi trái pháp luật liên quan đến ma túy, bao gồm sử dụng, tàng trữ, vận chuyển, mua bán, sản xuất trái phép chất ma túy.",
       "attrs": [
         "Hành vi trái pháp luật",
-        "Liên quan đến ma túy"
+        "Liên quan đến ma túy",
+        "Các hình thức vi phạm"
       ],
       "keyphrases": [
         "vi phạm pháp luật về phòng, chống ma túy"
       ],
-      "similar": [
-        "hành vi phạm tội về ma túy",
-        "tội phạm ma túy"
-      ]
+      "similar": []
     },
     {
-      "name": "Xét nghiệm chất ma túy",
-      "meaning": "Thủ tục kiểm tra sự hiện diện của chất ma túy trong cơ thể người, được thực hiện khi có căn cứ để nghi ngờ sử dụng trái phép chất ma túy.",
+      "name": "Quản lý, giáo dục học sinh, sinh viên, học viên về phòng, chống ma túy",
+      "meaning": "Các biện pháp và hoạt động nhằm kiểm soát, hướng dẫn và nâng cao nhận thức của học sinh, sinh viên, học viên về phòng, chống ma túy.",
       "attrs": [
-        "Kiểm tra sự hiện diện của chất ma túy",
-        "Thực hiện khi cần thiết",
-        "Phát hiện sử dụng trái phép chất ma túy"
+        "Biện pháp quản lý",
+        "Hoạt động giáo dục",
+        "Mục tiêu phòng, chống ma túy"
       ],
       "keyphrases": [
-        "xét nghiệm chất ma túy"
+        "quản lý, giáo dục học sinh, sinh viên, học viên về phòng, chống ma túy"
       ],
-      "similar": [
-        "kiểm tra ma túy",
-        "test ma túy"
-      ]
+      "similar": []
+    },
+    {
+      "name": "Xét nghiệm chất ma túy trong cơ thể",
+      "meaning": "Thủ tục kiểm tra sự hiện diện của chất ma túy trong cơ thể học sinh, sinh viên, học viên để phát hiện hành vi sử dụng trái phép chất ma túy.",
+      "attrs": [
+        "Thủ tục kiểm tra",
+        "Phát hiện chất ma túy",
+        "Mục đích phát hiện sử dụng trái phép"
+      ],
+      "keyphrases": [
+        "xét nghiệm chất ma túy trong cơ thể"
+      ],
+      "similar": []
     },
     {
       "name": "Sử dụng trái phép chất ma túy",
-      "meaning": "Hành vi sử dụng chất ma túy không được pháp luật cho phép, gây ảnh hưởng đến sức khỏe và trật tự xã hội.",
+      "meaning": "Hành vi sử dụng chất ma túy không được pháp luật cho phép.",
       "attrs": [
-        "Hành vi sử dụng chất ma túy",
-        "Không được pháp luật cho phép"
+        "Hành vi sử dụng",
+        "Chất ma túy",
+        "Tính trái phép"
       ],
       "keyphrases": [
         "sử dụng trái phép chất ma túy"
       ],
-      "similar": [
-        "nghiện ma túy",
-        "lạm dụng ma túy"
-      ]
+      "similar": []
     }
   ]
 },
@@ -1099,99 +1123,95 @@
   "concepts": [
     {
       "name": "Cơ quan báo chí",
-      "meaning": "Tổ chức được nhà nước cho phép hoạt động trong lĩnh vực báo chí, có trách nhiệm thực hiện các hoạt động thông tin, tuyên truyền.",
-      "attrs": [
-        "Được nhà nước cho phép",
-        "Hoạt động trong lĩnh vực báo chí"
-      ],
+      "meaning": "Tổ chức hoạt động trong lĩnh vực báo chí, có trách nhiệm nhất định theo quy định của pháp luật.",
+      "attrs": [],
       "keyphrases": [
         "cơ quan báo chí"
       ],
-      "similar": [
-        "tổ chức báo chí",
-        "đơn vị báo chí"
-      ]
+      "similar": []
     },
     {
       "name": "Trách nhiệm của cơ quan báo chí",
-      "meaning": "Nghĩa vụ pháp lý mà cơ quan báo chí phải thực hiện, cụ thể là phối hợp tuyên truyền về phòng, chống ma túy.",
+      "meaning": "Nghĩa vụ pháp lý mà cơ quan báo chí phải thực hiện liên quan đến công tác phòng, chống ma túy.",
       "attrs": [
-        "Nghĩa vụ pháp lý",
-        "Phối hợp tuyên truyền"
+        "phối hợp",
+        "tuyên truyền"
       ],
       "keyphrases": [
         "trách nhiệm của cơ quan báo chí",
-        "phối hợp với cơ quan, tổ chức có liên quan tuyên truyền"
+        "phối hợp",
+        "tuyên truyền"
       ],
       "similar": [
-        "nghĩa vụ của báo chí",
-        "vai trò của báo chí"
+        "nghĩa vụ của cơ quan báo chí"
       ]
     },
     {
-      "name": "Cơ quan, tổ chức có liên quan",
-      "meaning": "Các cơ quan nhà nước hoặc tổ chức xã hội có chức năng, nhiệm vụ liên quan đến công tác phòng, chống ma túy.",
+      "name": "Phối hợp",
+      "meaning": "Hành động cùng làm việc, hợp tác giữa cơ quan báo chí và các cơ quan, tổ chức khác để thực hiện mục tiêu chung.",
       "attrs": [
-        "Liên quan đến phòng, chống ma túy",
-        "Cơ quan nhà nước hoặc tổ chức xã hội"
+        "với cơ quan, tổ chức có liên quan"
       ],
       "keyphrases": [
+        "phối hợp",
         "cơ quan, tổ chức có liên quan"
       ],
       "similar": [
-        "đơn vị liên quan",
-        "tổ chức hữu quan"
+        "hợp tác",
+        "cộng tác"
       ]
     },
     {
       "name": "Tuyên truyền",
-      "meaning": "Hoạt động truyền bá, phổ biến thông tin, kiến thức nhằm nâng cao nhận thức và thay đổi hành vi của công chúng.",
+      "meaning": "Hoạt động truyền bá, phổ biến thông tin, kiến thức về một vấn đề nào đó, trong trường hợp này là về phòng, chống ma túy.",
       "attrs": [
-        "Truyền bá thông tin",
-        "Nâng cao nhận thức",
-        "Thay đổi hành vi"
+        "chủ trương, chính sách, pháp luật"
       ],
       "keyphrases": [
-        "tuyên truyền"
+        "tuyên truyền",
+        "chủ trương",
+        "chính sách",
+        "pháp luật"
       ],
       "similar": [
         "phổ biến",
-        "giáo dục",
-        "vận động"
-      ]
-    },
-    {
-      "name": "Chủ trương, chính sách, pháp luật về phòng, chống ma túy",
-      "meaning": "Hệ thống các quy định, biện pháp của nhà nước nhằm ngăn chặn, kiểm soát và giảm thiểu tác hại của ma túy.",
-      "attrs": [
-        "Quy định của nhà nước",
-        "Ngăn chặn ma túy",
-        "Kiểm soát ma túy",
-        "Giảm thiểu tác hại"
-      ],
-      "keyphrases": [
-        "chủ trương, chính sách, pháp luật về phòng, chống ma túy"
-      ],
-      "similar": [
-        "quy định về phòng chống ma túy",
-        "văn bản pháp luật về ma túy"
+        "truyền bá",
+        "giáo dục"
       ]
     },
     {
       "name": "Phòng, chống ma túy",
-      "meaning": "Các hoạt động nhằm ngăn ngừa, phát hiện, ngăn chặn và xử lý các hành vi liên quan đến ma túy.",
-      "attrs": [
-        "Ngăn ngừa",
-        "Phát hiện",
-        "Ngăn chặn",
-        "Xử lý"
-      ],
+      "meaning": "Các biện pháp nhằm ngăn chặn và đấu tranh chống lại tệ nạn ma túy.",
+      "attrs": [],
       "keyphrases": [
         "phòng, chống ma túy"
       ],
       "similar": [
-        "chống ma túy",
-        "đấu tranh phòng chống ma túy"
+        "đấu tranh chống ma túy",
+        "ngăn ngừa ma túy"
+      ]
+    },
+    {
+      "name": "Cơ quan, tổ chức có liên quan",
+      "meaning": "Các cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội và các tổ chức khác có chức năng, nhiệm vụ liên quan đến công tác phòng, chống ma túy.",
+      "attrs": [],
+      "keyphrases": [
+        "cơ quan, tổ chức có liên quan"
+      ],
+      "similar": []
+    },
+    {
+      "name": "Chủ trương, chính sách, pháp luật",
+      "meaning": "Các định hướng, quy định, và văn bản pháp lý của Nhà nước về một lĩnh vực cụ thể, trong trường hợp này là phòng, chống ma túy.",
+      "attrs": [],
+      "keyphrases": [
+        "chủ trương",
+        "chính sách",
+        "pháp luật"
+      ],
+      "similar": [
+        "quy định pháp luật",
+        "văn bản pháp quy"
       ]
     }
   ]
@@ -1357,7 +1377,6 @@
         "Thuộc Cảnh sát biển Việt Nam",
         "Thuộc Hải quan",
         "Có nhiệm vụ phòng ngừa, ngăn chặn, đấu tranh chống tội phạm về ma túy",
-        "Có quyền hạn trong phạm vi nhiệm vụ được giao",
         "Phối hợp với các cơ quan, tổ chức liên quan"
       ],
       "keyphrases": [
@@ -1370,82 +1389,71 @@
     },
     {
       "name": "Phạm vi nhiệm vụ, quyền hạn",
-      "meaning": "Giới hạn về công việc và quyền lực mà một cơ quan chuyên trách phòng, chống tội phạm về ma túy được phép thực hiện.",
+      "meaning": "Giới hạn về trách nhiệm và quyền lực mà cơ quan chuyên trách phòng, chống tội phạm về ma túy được phép thực hiện.",
       "attrs": [
-        "Được quy định cụ thể cho từng cơ quan",
-        "Liên quan đến địa bàn quản lý, kiểm soát",
-        "Liên quan đến loại tội phạm ma túy"
+        "Được xác định bởi pháp luật",
+        "Khác nhau giữa các cơ quan (Công an, Biên phòng, Cảnh sát biển, Hải quan)",
+        "Liên quan đến địa bàn quản lý, kiểm soát"
       ],
       "keyphrases": [
         "phạm vi nhiệm vụ, quyền hạn"
       ],
       "similar": [
         "thẩm quyền",
-        "giới hạn trách nhiệm"
+        "trách nhiệm và quyền hạn"
       ]
     },
     {
       "name": "Hoạt động phòng ngừa, ngăn chặn và đấu tranh",
-      "meaning": "Các biện pháp được thực hiện để ngăn chặn sự phát sinh và phát triển của tội phạm ma túy, cũng như các hành động để triệt phá các hoạt động phạm tội.",
+      "meaning": "Các biện pháp được thực hiện để ngăn chặn tội phạm ma túy xảy ra, phát hiện và xử lý các hành vi phạm tội.",
       "attrs": [
-        "Phòng ngừa tội phạm",
-        "Ngăn chặn tội phạm",
-        "Đấu tranh chống tội phạm"
+        "Phòng ngừa",
+        "Ngăn chặn",
+        "Đấu tranh",
+        "Liên quan đến tội phạm về ma túy"
       ],
       "keyphrases": [
         "phòng ngừa, ngăn chặn và đấu tranh"
       ],
       "similar": [
-        "biện pháp nghiệp vụ",
-        "hoạt động nghiệp vụ"
+        "chống tội phạm ma túy",
+        "các biện pháp nghiệp vụ"
       ]
     },
     {
-      "name": "Xử lý theo thẩm quyền",
-      "meaning": "Việc giải quyết vụ việc vi phạm pháp luật theo đúng quyền hạn và trách nhiệm được pháp luật quy định cho cơ quan có thẩm quyền.",
+      "name": "Phối hợp",
+      "meaning": "Sự hợp tác giữa các cơ quan chuyên trách phòng, chống tội phạm về ma túy và các cơ quan, tổ chức khác để thực hiện nhiệm vụ chung.",
       "attrs": [
-        "Tuân thủ quy định pháp luật",
-        "Đúng quyền hạn",
-        "Đúng trách nhiệm"
+        "Giữa các cơ quan chuyên trách",
+        "Với cơ quan công an",
+        "Với cơ quan, tổ chức khác",
+        "Để phòng ngừa, ngăn chặn và đấu tranh chống tội phạm về ma túy"
       ],
       "keyphrases": [
-        "xử lý theo thẩm quyền"
+        "phối hợp",
+        "cơ quan, tổ chức có liên quan"
       ],
       "similar": [
-        "giải quyết theo quy định",
-        "xử lý đúng pháp luật"
+        "hợp tác",
+        "liên kết"
       ]
     },
     {
-      "name": "Chuyển giao hồ sơ, người, tang vật",
-      "meaning": "Hành động chuyển giao toàn bộ thông tin, đối tượng và vật chứng liên quan đến vụ việc vi phạm pháp luật cho cơ quan có thẩm quyền giải quyết.",
+      "name": "Thẩm quyền xử lý ban đầu",
+      "meaning": "Quyền hạn của cơ quan phát hiện đầu tiên trong việc xử lý vụ việc vi phạm pháp luật liên quan đến ma túy.",
       "attrs": [
-        "Hồ sơ vụ việc",
-        "Người vi phạm",
-        "Tang vật vi phạm"
+        "Cơ quan phát hiện trước có trách nhiệm xử lý",
+        "Theo thẩm quyền do pháp luật quy định",
+        "Chuyển giao hồ sơ nếu không thuộc thẩm quyền"
       ],
       "keyphrases": [
-        "chuyển giao hồ sơ, người, tang vật"
+        "xử lý theo thẩm quyền",
+        "chuyển giao hồ sơ, người, tang vật vi phạm pháp luật",
+        "cơ quan có thẩm quyền chủ trì giải quyết"
       ],
       "similar": [
-        "bàn giao vụ việc",
-        "chuyển giao thẩm quyền"
-      ]
-    },
-    {
-      "name": "Phối hợp giữa các cơ quan chuyên trách",
-      "meaning": "Sự hợp tác và chia sẻ thông tin, nguồn lực giữa các cơ quan chuyên trách phòng, chống tội phạm về ma túy để đạt hiệu quả cao nhất trong công tác.",
-      "attrs": [
-        "Hợp tác",
-        "Chia sẻ thông tin",
-        "Chia sẻ nguồn lực"
-      ],
-      "keyphrases": [
-        "phối hợp của các cơ quan chuyên trách"
-      ],
-      "similar": [
-        "hiệp đồng tác chiến",
-        "liên kết nghiệp vụ"
+        "quyền xử lý ban đầu",
+        "trách nhiệm xử lý vụ việc"
       ]
     }
   ]
@@ -1571,88 +1579,71 @@
   "concepts": [
     {
       "name": "Kiểm soát hoạt động nghiên cứu, giám định, sản xuất chất ma túy, tiền chất",
-      "meaning": "Việc cơ quan nhà nước có thẩm quyền thực hiện theo dõi, kiểm tra, giám sát các hoạt động liên quan đến chất ma túy và tiền chất để đảm bảo tuân thủ quy định pháp luật.",
+      "meaning": "Việc cơ quan nhà nước có thẩm quyền thực hiện theo dõi, kiểm tra, giám sát các hoạt động liên quan đến nghiên cứu, giám định, sản xuất chất ma túy và tiền chất.",
       "attrs": [
-        "Theo dõi",
-        "Kiểm tra",
-        "Giám sát",
-        "Cơ quan nhà nước có thẩm quyền"
+        "Đối tượng kiểm soát: hoạt động nghiên cứu, giám định, sản xuất chất ma túy, tiền chất",
+        "Chủ thể kiểm soát: cơ quan nhà nước có thẩm quyền",
+        "Hình thức kiểm soát: theo dõi, kiểm tra, giám sát"
       ],
       "keyphrases": [
-        "Kiểm soát hoạt động",
-        "Nghiên cứu",
-        "Giám định",
-        "Sản xuất",
-        "Chất ma túy",
-        "Tiền chất",
-        "Theo dõi",
-        "Kiểm tra",
-        "Giám sát",
-        "Cơ quan nhà nước có thẩm quyền"
+        "kiểm soát hoạt động nghiên cứu",
+        "kiểm soát hoạt động giám định",
+        "kiểm soát hoạt động sản xuất chất ma túy",
+        "kiểm soát hoạt động sản xuất tiền chất",
+        "theo dõi",
+        "kiểm tra",
+        "giám sát"
       ],
       "similar": [
-        "Quản lý hoạt động",
-        "Giám sát hoạt động"
+        "quản lý hoạt động nghiên cứu, giám định, sản xuất chất ma túy, tiền chất"
       ]
     },
     {
       "name": "Chất ma túy",
       "meaning": "Chất gây nghiện, chất hướng thần được quy định trong danh mục do cơ quan nhà nước có thẩm quyền ban hành.",
       "attrs": [
-        "Gây nghiện",
-        "Hướng thần",
-        "Quy định trong danh mục"
+        "Tính chất: gây nghiện, hướng thần",
+        "Được quy định trong danh mục"
       ],
       "keyphrases": [
-        "Chất ma túy"
+        "chất ma túy"
       ],
-      "similar": [
-        "Ma túy"
-      ]
+      "similar": []
     },
     {
       "name": "Tiền chất",
-      "meaning": "Chất hóa học được sử dụng trong quá trình sản xuất chất ma túy.",
+      "meaning": "Các hóa chất được sử dụng trong quá trình sản xuất chất ma túy.",
       "attrs": [
-        "Chất hóa học",
         "Sử dụng trong sản xuất chất ma túy"
       ],
       "keyphrases": [
-        "Tiền chất"
+        "tiền chất"
       ],
       "similar": []
     },
     {
       "name": "Cơ quan nhà nước có thẩm quyền",
-      "meaning": "Cơ quan được nhà nước trao quyền để thực hiện các hoạt động theo dõi, kiểm tra, giám sát liên quan đến chất ma túy và tiền chất.",
+      "meaning": "Cơ quan được nhà nước trao quyền để thực hiện các hoạt động theo dõi, kiểm tra, giám sát hoạt động nghiên cứu, giám định, sản xuất chất ma túy, tiền chất.",
       "attrs": [
         "Được nhà nước trao quyền",
-        "Thực hiện theo dõi",
-        "Thực hiện kiểm tra",
-        "Thực hiện giám sát"
+        "Thực hiện theo dõi, kiểm tra, giám sát"
       ],
       "keyphrases": [
-        "Cơ quan nhà nước có thẩm quyền"
+        "cơ quan nhà nước có thẩm quyền"
       ],
-      "similar": [
-        "Cơ quan có thẩm quyền"
-      ]
+      "similar": []
     },
     {
-      "name": "Cho phép hoạt động",
-      "meaning": "Việc cơ quan có thẩm quyền ra quyết định cho phép một tổ chức, cá nhân thực hiện các hoạt động nghiên cứu, giám định, sản xuất chất ma túy, tiền chất.",
+      "name": "Cho phép",
+      "meaning": "Sự chấp thuận của cơ quan có thẩm quyền để một cá nhân hoặc tổ chức thực hiện một hoạt động cụ thể (trong trường hợp này là nghiên cứu, giám định, sản xuất chất ma túy, tiền chất).",
       "attrs": [
-        "Quyết định của cơ quan có thẩm quyền",
-        "Cho phép thực hiện hoạt động",
-        "Nghiên cứu, giám định, sản xuất chất ma túy, tiền chất"
+        "Sự chấp thuận",
+        "Từ cơ quan có thẩm quyền"
       ],
       "keyphrases": [
-        "Cho phép",
-        "Trình tự, thủ tục cho phép"
+        "cho phép"
       ],
-      "similar": [
-        "Cấp phép hoạt động"
-      ]
+      "similar": []
     }
   ]
 },
@@ -1669,13 +1660,13 @@
         "Phải đóng gói, niêm phong theo quy định",
         "Phải đảm bảo số lượng, chất lượng",
         "Phải có biện pháp bảo vệ an toàn",
-        "Không để bị thất thoát trong quá trình vận chuyển",
+        "Không để bị thất thoát",
         "Chịu sự theo dõi, kiểm tra, giám sát của cơ quan nhà nước có thẩm quyền"
       ],
       "keyphrases": [
         "vận chuyển chất ma túy",
         "vận chuyển tiền chất",
-        "trong quá trình vận chuyển"
+        "việc vận chuyển"
       ],
       "similar": [
         "di chuyển chất ma túy, tiền chất"
@@ -1685,14 +1676,12 @@
       "name": "Cơ quan, tổ chức, cá nhân được phép vận chuyển",
       "meaning": "Chủ thể được cơ quan nhà nước có thẩm quyền cho phép thực hiện hoạt động vận chuyển chất ma túy, tiền chất.",
       "attrs": [
-        "Đã được cơ quan nhà nước có thẩm quyền cho phép",
-        "Chịu trách nhiệm về số lượng, chất lượng",
-        "Phải tuân thủ quy định về đóng gói, niêm phong",
-        "Phải đảm bảo an toàn, không để thất thoát",
-        "Chịu sự theo dõi, kiểm tra, giám sát"
+        "Đã được cơ quan nhà nước có thẩm quyền cho phép"
       ],
       "keyphrases": [
-        "cơ quan, tổ chức, cá nhân",
+        "cơ quan",
+        "tổ chức",
+        "cá nhân",
         "được cơ quan nhà nước có thẩm quyền cho phép"
       ],
       "similar": [
@@ -1700,17 +1689,32 @@
       ]
     },
     {
-      "name": "Trách nhiệm của chủ thể vận chuyển",
-      "meaning": "Nghĩa vụ mà cơ quan, tổ chức, cá nhân được phép vận chuyển chất ma túy, tiền chất phải thực hiện.",
+      "name": "Cơ quan nhà nước có thẩm quyền",
+      "meaning": "Cơ quan nhà nước có quyền hạn theo quy định của pháp luật trong việc cho phép, theo dõi, kiểm tra, giám sát hoạt động vận chuyển chất ma túy, tiền chất.",
+      "attrs": [
+        "Có thẩm quyền cho phép vận chuyển",
+        "Có thẩm quyền theo dõi, kiểm tra, giám sát"
+      ],
+      "keyphrases": [
+        "cơ quan nhà nước có thẩm quyền"
+      ],
+      "similar": [
+        "cơ quan có thẩm quyền"
+      ]
+    },
+    {
+      "name": "Trách nhiệm của người vận chuyển",
+      "meaning": "Nghĩa vụ pháp lý mà cơ quan, tổ chức, cá nhân được phép vận chuyển chất ma túy, tiền chất phải thực hiện.",
       "attrs": [
         "Đóng gói, niêm phong theo quy định",
         "Chịu trách nhiệm về số lượng, chất lượng",
-        "Bảo vệ an toàn, không để thất thoát",
+        "Có biện pháp bảo vệ an toàn",
+        "Không để bị thất thoát",
         "Chịu sự theo dõi, kiểm tra, giám sát"
       ],
       "keyphrases": [
-        "chịu trách nhiệm về số lượng, chất lượng",
-        "có biện pháp bảo vệ an toàn",
+        "chịu trách nhiệm",
+        "bảo vệ an toàn",
         "không để bị thất thoát",
         "chịu sự theo dõi, kiểm tra, giám sát"
       ],
@@ -1719,20 +1723,16 @@
       ]
     },
     {
-      "name": "Kiểm tra, giám sát của cơ quan nhà nước có thẩm quyền",
-      "meaning": "Hoạt động của cơ quan nhà nước có thẩm quyền nhằm đảm bảo việc vận chuyển chất ma túy, tiền chất được thực hiện đúng quy định.",
+      "name": "Quy định chi tiết",
+      "meaning": "Các quy định cụ thể, hướng dẫn thi hành Điều 14 do Chính phủ ban hành.",
       "attrs": [
-        "Theo dõi",
-        "Kiểm tra",
-        "Giám sát"
+        "Do Chính phủ quy định"
       ],
       "keyphrases": [
-        "theo dõi, kiểm tra, giám sát",
-        "cơ quan nhà nước có thẩm quyền"
+        "quy định chi tiết"
       ],
       "similar": [
-        "giám sát vận chuyển",
-        "kiểm soát vận chuyển"
+        "hướng dẫn thi hành"
       ]
     }
   ]
@@ -1744,113 +1744,119 @@
   "concepts": [
     {
       "name": "Kiểm soát hoạt động liên quan đến thuốc gây nghiện",
-      "meaning": "Việc quản lý và giám sát các hoạt động liên quan đến thuốc gây nghiện để đảm bảo tuân thủ pháp luật.",
+      "meaning": "Việc quản lý và giám sát các hoạt động liên quan đến thuốc gây nghiện để đảm bảo tuân thủ pháp luật và ngăn ngừa lạm dụng.",
       "attrs": [
-        "Phạm vi: Thuốc gây nghiện",
-        "Mục đích: Đảm bảo tuân thủ pháp luật",
+        "Phạm vi: Hoạt động liên quan đến thuốc gây nghiện",
+        "Mục đích: Đảm bảo tuân thủ pháp luật, ngăn ngừa lạm dụng",
         "Cơ sở pháp lý: Pháp luật về dược"
       ],
       "keyphrases": [
-        "kiểm soát hoạt động liên quan đến thuốc gây nghiện"
+        "Kiểm soát hoạt động liên quan đến thuốc gây nghiện",
+        "thuốc gây nghiện"
       ],
       "similar": [
         "Quản lý thuốc gây nghiện",
-        "Giám sát hoạt động liên quan đến thuốc gây nghiện"
+        "Giám sát thuốc gây nghiện"
       ]
     },
     {
       "name": "Kiểm soát hoạt động liên quan đến thuốc hướng thần",
-      "meaning": "Việc quản lý và giám sát các hoạt động liên quan đến thuốc hướng thần để đảm bảo tuân thủ pháp luật.",
+      "meaning": "Việc quản lý và giám sát các hoạt động liên quan đến thuốc hướng thần để đảm bảo tuân thủ pháp luật và ngăn ngừa lạm dụng.",
       "attrs": [
-        "Phạm vi: Thuốc hướng thần",
-        "Mục đích: Đảm bảo tuân thủ pháp luật",
+        "Phạm vi: Hoạt động liên quan đến thuốc hướng thần",
+        "Mục đích: Đảm bảo tuân thủ pháp luật, ngăn ngừa lạm dụng",
         "Cơ sở pháp lý: Pháp luật về dược"
       ],
       "keyphrases": [
-        "kiểm soát hoạt động liên quan đến thuốc hướng thần"
+        "Kiểm soát hoạt động liên quan đến thuốc hướng thần",
+        "thuốc hướng thần"
       ],
       "similar": [
         "Quản lý thuốc hướng thần",
-        "Giám sát hoạt động liên quan đến thuốc hướng thần"
+        "Giám sát thuốc hướng thần"
       ]
     },
     {
       "name": "Kiểm soát hoạt động liên quan đến thuốc tiền chất",
-      "meaning": "Việc quản lý và giám sát các hoạt động liên quan đến thuốc tiền chất để đảm bảo tuân thủ pháp luật.",
+      "meaning": "Việc quản lý và giám sát các hoạt động liên quan đến thuốc tiền chất để đảm bảo tuân thủ pháp luật và ngăn ngừa lạm dụng.",
       "attrs": [
-        "Phạm vi: Thuốc tiền chất",
-        "Mục đích: Đảm bảo tuân thủ pháp luật",
+        "Phạm vi: Hoạt động liên quan đến thuốc tiền chất",
+        "Mục đích: Đảm bảo tuân thủ pháp luật, ngăn ngừa lạm dụng",
         "Cơ sở pháp lý: Pháp luật về dược"
       ],
       "keyphrases": [
-        "kiểm soát hoạt động liên quan đến thuốc tiền chất"
+        "Kiểm soát hoạt động liên quan đến thuốc tiền chất",
+        "thuốc tiền chất"
       ],
       "similar": [
         "Quản lý thuốc tiền chất",
-        "Giám sát hoạt động liên quan đến thuốc tiền chất"
+        "Giám sát thuốc tiền chất"
       ]
     },
     {
       "name": "Kiểm soát hoạt động liên quan đến nguyên liệu làm thuốc là dược chất gây nghiện",
-      "meaning": "Việc quản lý và giám sát các hoạt động liên quan đến nguyên liệu làm thuốc là dược chất gây nghiện để đảm bảo tuân thủ pháp luật.",
+      "meaning": "Việc quản lý và giám sát các hoạt động liên quan đến nguyên liệu làm thuốc là dược chất gây nghiện để đảm bảo tuân thủ pháp luật và ngăn ngừa lạm dụng.",
       "attrs": [
-        "Phạm vi: Nguyên liệu làm thuốc là dược chất gây nghiện",
-        "Mục đích: Đảm bảo tuân thủ pháp luật",
+        "Phạm vi: Hoạt động liên quan đến nguyên liệu làm thuốc là dược chất gây nghiện",
+        "Mục đích: Đảm bảo tuân thủ pháp luật, ngăn ngừa lạm dụng",
         "Cơ sở pháp lý: Pháp luật về dược"
       ],
       "keyphrases": [
-        "kiểm soát hoạt động liên quan đến nguyên liệu làm thuốc là dược chất gây nghiện"
+        "Kiểm soát hoạt động liên quan đến nguyên liệu làm thuốc là dược chất gây nghiện",
+        "nguyên liệu làm thuốc là dược chất gây nghiện"
       ],
       "similar": [
         "Quản lý nguyên liệu làm thuốc là dược chất gây nghiện",
-        "Giám sát hoạt động liên quan đến nguyên liệu làm thuốc là dược chất gây nghiện"
+        "Giám sát nguyên liệu làm thuốc là dược chất gây nghiện"
       ]
     },
     {
       "name": "Kiểm soát hoạt động liên quan đến nguyên liệu làm thuốc là dược chất hướng thần",
-      "meaning": "Việc quản lý và giám sát các hoạt động liên quan đến nguyên liệu làm thuốc là dược chất hướng thần để đảm bảo tuân thủ pháp luật.",
+      "meaning": "Việc quản lý và giám sát các hoạt động liên quan đến nguyên liệu làm thuốc là dược chất hướng thần để đảm bảo tuân thủ pháp luật và ngăn ngừa lạm dụng.",
       "attrs": [
-        "Phạm vi: Nguyên liệu làm thuốc là dược chất hướng thần",
-        "Mục đích: Đảm bảo tuân thủ pháp luật",
+        "Phạm vi: Hoạt động liên quan đến nguyên liệu làm thuốc là dược chất hướng thần",
+        "Mục đích: Đảm bảo tuân thủ pháp luật, ngăn ngừa lạm dụng",
         "Cơ sở pháp lý: Pháp luật về dược"
       ],
       "keyphrases": [
-        "kiểm soát hoạt động liên quan đến nguyên liệu làm thuốc là dược chất hướng thần"
+        "Kiểm soát hoạt động liên quan đến nguyên liệu làm thuốc là dược chất hướng thần",
+        "nguyên liệu làm thuốc là dược chất hướng thần"
       ],
       "similar": [
         "Quản lý nguyên liệu làm thuốc là dược chất hướng thần",
-        "Giám sát hoạt động liên quan đến nguyên liệu làm thuốc là dược chất hướng thần"
+        "Giám sát nguyên liệu làm thuốc là dược chất hướng thần"
       ]
     },
     {
       "name": "Kiểm soát hoạt động liên quan đến nguyên liệu làm thuốc là tiền chất dùng làm thuốc",
-      "meaning": "Việc quản lý và giám sát các hoạt động liên quan đến nguyên liệu làm thuốc là tiền chất dùng làm thuốc để đảm bảo tuân thủ pháp luật.",
+      "meaning": "Việc quản lý và giám sát các hoạt động liên quan đến nguyên liệu làm thuốc là tiền chất dùng làm thuốc để đảm bảo tuân thủ pháp luật và ngăn ngừa lạm dụng.",
       "attrs": [
-        "Phạm vi: Nguyên liệu làm thuốc là tiền chất dùng làm thuốc",
-        "Mục đích: Đảm bảo tuân thủ pháp luật",
+        "Phạm vi: Hoạt động liên quan đến nguyên liệu làm thuốc là tiền chất dùng làm thuốc",
+        "Mục đích: Đảm bảo tuân thủ pháp luật, ngăn ngừa lạm dụng",
         "Cơ sở pháp lý: Pháp luật về dược"
       ],
       "keyphrases": [
-        "kiểm soát hoạt động liên quan đến nguyên liệu làm thuốc là tiền chất dùng làm thuốc"
+        "Kiểm soát hoạt động liên quan đến nguyên liệu làm thuốc là tiền chất dùng làm thuốc",
+        "nguyên liệu làm thuốc là tiền chất dùng làm thuốc"
       ],
       "similar": [
         "Quản lý nguyên liệu làm thuốc là tiền chất dùng làm thuốc",
-        "Giám sát hoạt động liên quan đến nguyên liệu làm thuốc là tiền chất dùng làm thuốc"
+        "Giám sát nguyên liệu làm thuốc là tiền chất dùng làm thuốc"
       ]
     },
     {
       "name": "Pháp luật về dược",
-      "meaning": "Hệ thống các quy định pháp luật điều chỉnh các hoạt động liên quan đến thuốc, bao gồm thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất và nguyên liệu làm thuốc.",
+      "meaning": "Hệ thống các quy định pháp luật điều chỉnh các hoạt động liên quan đến thuốc, bao gồm sản xuất, kinh doanh, sử dụng, kiểm soát chất lượng thuốc.",
       "attrs": [
         "Phạm vi: Các hoạt động liên quan đến thuốc",
-        "Chức năng: Điều chỉnh và quản lý"
+        "Nội dung: Quy định về sản xuất, kinh doanh, sử dụng, kiểm soát chất lượng thuốc"
       ],
       "keyphrases": [
         "pháp luật về dược"
       ],
       "similar": [
-        "Quy định của pháp luật về dược",
-        "Luật dược"
+        "Luật dược",
+        "Quy định về dược"
       ]
     }
   ]
@@ -1910,12 +1916,10 @@
         "Quy định của Chính phủ"
       ],
       "keyphrases": [
-        "Kiểm soát hoạt động liên quan đến thuốc thú y có chứa chất ma túy, tiền chất",
-        "thuốc thú y có chứa chất ma túy, tiền chất",
-        "quy định của Chính phủ"
+        "Kiểm soát hoạt động liên quan đến thuốc thú y có chứa chất ma túy, tiền chất"
       ],
       "similar": [
-        "Quản lý thuốc thú y chứa chất ma túy, tiền chất",
+        "Quản lý thuốc thú y có chứa chất ma túy, tiền chất",
         "Giám sát hoạt động liên quan đến thuốc thú y có chất gây nghiện"
       ]
     },
@@ -1939,11 +1943,12 @@
     },
     {
       "name": "Chất ma túy",
-      "meaning": "Chất gây nghiện, chất hướng thần được quy định trong danh mục do Chính phủ ban hành.",
+      "meaning": "Chất gây nghiện, chất hướng thần được quy định trong danh mục do cơ quan nhà nước có thẩm quyền ban hành.",
       "attrs": [
         "Gây nghiện",
         "Hướng thần",
-        "Danh mục của Chính phủ"
+        "Danh mục",
+        "Cơ quan nhà nước có thẩm quyền"
       ],
       "keyphrases": [
         "chất ma túy"
@@ -1955,12 +1960,12 @@
     },
     {
       "name": "Tiền chất",
-      "meaning": "Các hóa chất không thể thiếu trong quá trình điều chế, sản xuất chất ma túy, được quy định trong danh mục do Chính phủ ban hành.",
+      "meaning": "Các hóa chất được sử dụng trong quá trình sản xuất chất ma túy, được quy định trong danh mục do cơ quan nhà nước có thẩm quyền ban hành.",
       "attrs": [
         "Hóa chất",
-        "Điều chế chất ma túy",
         "Sản xuất chất ma túy",
-        "Danh mục của Chính phủ"
+        "Danh mục",
+        "Cơ quan nhà nước có thẩm quyền"
       ],
       "keyphrases": [
         "tiền chất"
@@ -1971,18 +1976,19 @@
     },
     {
       "name": "Quy định của Chính phủ",
-      "meaning": "Các văn bản quy phạm pháp luật do Chính phủ ban hành để hướng dẫn chi tiết việc thực hiện các quy định của pháp luật.",
+      "meaning": "Các văn bản quy phạm pháp luật do Chính phủ ban hành để hướng dẫn và thi hành luật.",
       "attrs": [
         "Văn bản quy phạm pháp luật",
-        "Chính phủ ban hành",
-        "Hướng dẫn chi tiết"
+        "Chính phủ",
+        "Hướng dẫn",
+        "Thi hành luật"
       ],
       "keyphrases": [
         "quy định của Chính phủ"
       ],
       "similar": [
         "Nghị định của Chính phủ",
-        "Thông tư hướng dẫn của Chính phủ"
+        "Văn bản pháp luật của Chính phủ"
       ]
     }
   ]
@@ -2005,14 +2011,11 @@
         "Nhập khẩu",
         "Xuất khẩu"
       ],
-      "similar": [
-        "Quản lý hoạt động nhập khẩu, xuất khẩu",
-        "Giám sát hoạt động nhập khẩu, xuất khẩu"
-      ]
+      "similar": []
     },
     {
       "name": "Kiểm soát hoạt động tạm nhập, tái xuất",
-      "meaning": "Sự quản lý và giám sát của cơ quan nhà nước có thẩm quyền đối với các hoạt động đưa hàng hóa (chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc) vào Việt Nam trong một thời gian nhất định (tạm nhập) và sau đó đưa trở lại nước ngoài (tái xuất).",
+      "meaning": "Sự quản lý và giám sát của cơ quan nhà nước có thẩm quyền đối với các hoạt động đưa hàng hóa (chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc) từ nước ngoài vào Việt Nam có thời hạn (tạm nhập) và sau đó xuất trả lại nước ngoài (tái xuất).",
       "attrs": [
         "Phải được cơ quan có thẩm quyền cho phép",
         "Áp dụng với chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc"
@@ -2023,14 +2026,11 @@
         "Tạm nhập",
         "Tái xuất"
       ],
-      "similar": [
-        "Quản lý hoạt động tạm nhập, tái xuất",
-        "Giám sát hoạt động tạm nhập, tái xuất"
-      ]
+      "similar": []
     },
     {
       "name": "Kiểm soát hoạt động tạm xuất, tái nhập",
-      "meaning": "Sự quản lý và giám sát của cơ quan nhà nước có thẩm quyền đối với các hoạt động đưa hàng hóa (chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc) ra khỏi Việt Nam trong một thời gian nhất định (tạm xuất) và sau đó đưa trở lại Việt Nam (tái nhập).",
+      "meaning": "Sự quản lý và giám sát của cơ quan nhà nước có thẩm quyền đối với các hoạt động đưa hàng hóa (chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc) từ Việt Nam ra nước ngoài có thời hạn (tạm xuất) và sau đó nhập trở lại Việt Nam (tái nhập).",
       "attrs": [
         "Phải được cơ quan có thẩm quyền cho phép",
         "Áp dụng với chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc"
@@ -2041,10 +2041,7 @@
         "Tạm xuất",
         "Tái nhập"
       ],
-      "similar": [
-        "Quản lý hoạt động tạm xuất, tái nhập",
-        "Giám sát hoạt động tạm xuất, tái nhập"
-      ]
+      "similar": []
     },
     {
       "name": "Kiểm soát hoạt động quá cảnh",
@@ -2058,10 +2055,7 @@
         "Kiểm soát hoạt động quá cảnh",
         "Quá cảnh"
       ],
-      "similar": [
-        "Quản lý hoạt động quá cảnh",
-        "Giám sát hoạt động quá cảnh"
-      ]
+      "similar": []
     },
     {
       "name": "Chất ma túy",
@@ -2092,7 +2086,7 @@
     },
     {
       "name": "Thuốc hướng thần",
-      "meaning": "Các loại thuốc có chứa chất hướng thần, được quy định trong danh mục do cơ quan nhà nước có thẩm quyền ban hành.",
+      "meaning": "Các loại thuốc có tác động lên hệ thần kinh trung ương, gây ra các thay đổi về tâm trạng, nhận thức, hành vi, được quy định trong danh mục do cơ quan nhà nước có thẩm quyền ban hành.",
       "attrs": [],
       "keyphrases": [
         "thuốc hướng thần"
@@ -2109,19 +2103,35 @@
       "similar": []
     },
     {
-      "name": "Nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc",
-      "meaning": "Các dược chất gây nghiện, dược chất hướng thần, tiền chất được sử dụng làm nguyên liệu để sản xuất thuốc.",
+      "name": "Nguyên liệu làm thuốc là dược chất gây nghiện",
+      "meaning": "Các dược chất được sử dụng làm nguyên liệu để sản xuất thuốc gây nghiện.",
       "attrs": [],
       "keyphrases": [
-        "nguyên liệu làm thuốc là dược chất gây nghiện",
-        "dược chất hướng thần",
-        "tiền chất dùng làm thuốc"
+        "nguyên liệu làm thuốc là dược chất gây nghiện"
+      ],
+      "similar": []
+    },
+    {
+      "name": "Nguyên liệu làm thuốc là dược chất hướng thần",
+      "meaning": "Các dược chất được sử dụng làm nguyên liệu để sản xuất thuốc hướng thần.",
+      "attrs": [],
+      "keyphrases": [
+        "nguyên liệu làm thuốc là dược chất hướng thần"
+      ],
+      "similar": []
+    },
+    {
+      "name": "Nguyên liệu làm thuốc là tiền chất dùng làm thuốc",
+      "meaning": "Các tiền chất được sử dụng làm nguyên liệu để sản xuất thuốc.",
+      "attrs": [],
+      "keyphrases": [
+        "nguyên liệu làm thuốc là tiền chất dùng làm thuốc"
       ],
       "similar": []
     },
     {
       "name": "Cơ quan có thẩm quyền",
-      "meaning": "Cơ quan nhà nước được trao quyền thực hiện các hoạt động kiểm soát nhập khẩu, xuất khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc.",
+      "meaning": "Cơ quan nhà nước được trao quyền thực hiện các hoạt động kiểm soát nhập khẩu, xuất khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh các chất và thuốc được quy định.",
       "attrs": [],
       "keyphrases": [
         "cơ quan có thẩm quyền"
@@ -2130,7 +2140,7 @@
     },
     {
       "name": "Giấy phép quá cảnh",
-      "meaning": "Văn bản do cơ quan có thẩm quyền cấp cho phép thực hiện hoạt động quá cảnh hàng hóa qua lãnh thổ Việt Nam.",
+      "meaning": "Văn bản do cơ quan có thẩm quyền cấp phép cho việc vận chuyển hàng hóa đi qua lãnh thổ Việt Nam.",
       "attrs": [],
       "keyphrases": [
         "giấy phép quá cảnh"
@@ -2152,11 +2162,10 @@
         "Liên quan đến ma túy"
       ],
       "keyphrases": [
-        "hoạt động hợp pháp liên quan đến ma túy"
+        "hoạt động hợp pháp liên quan đến ma túy",
+        "hoạt động quy định tại khoản 1"
       ],
-      "similar": [
-        "Hoạt động được pháp luật cho phép về ma túy"
-      ]
+      "similar": []
     },
     {
       "name": "Cơ quan, tổ chức, cá nhân",
@@ -2171,23 +2180,23 @@
         "cá nhân"
       ],
       "similar": [
-        "Chủ thể"
+        "chủ thể"
       ]
     },
     {
       "name": "Lập hồ sơ",
-      "meaning": "Việc ghi chép, thu thập và lưu trữ thông tin về các hoạt động hợp pháp liên quan đến ma túy.",
+      "meaning": "Việc tạo lập và quản lý các tài liệu liên quan đến các hoạt động hợp pháp liên quan đến ma túy.",
       "attrs": [
-        "Ghi chép thông tin",
-        "Thu thập thông tin",
-        "Lưu trữ thông tin"
+        "Hành động",
+        "Liên quan đến tài liệu",
+        "Liên quan đến hoạt động hợp pháp"
       ],
       "keyphrases": [
         "Lập hồ sơ"
       ],
       "similar": [
-        "Ghi nhận",
-        "Lưu trữ"
+        "Tạo hồ sơ",
+        "Quản lý hồ sơ"
       ]
     }
   ]
@@ -2198,66 +2207,55 @@
   "text": "Điều 12 của Luật này có trách nhiệm lập hồ sơ và báo cáo theo quy định của Chính phủ.",
   "concepts": [
     {
-      "name": "Trách nhiệm pháp lý",
-      "meaning": "Nghĩa vụ mà một chủ thể phải thực hiện theo quy định của pháp luật.",
+      "name": "Trách nhiệm lập hồ sơ",
+      "meaning": "Nghĩa vụ pháp lý của một chủ thể (được quy định tại Điều 12 của Luật này) trong việc tạo lập và duy trì hồ sơ theo các quy định pháp luật hiện hành.",
       "attrs": [
-        "Bắt buộc",
-        "Do pháp luật quy định",
-        "Không thực hiện có thể bị xử lý"
+        "Nghĩa vụ pháp lý",
+        "Đối tượng thực hiện (được quy định tại Điều 12)",
+        "Nội dung: lập hồ sơ",
+        "Căn cứ: quy định của Chính phủ"
       ],
       "keyphrases": [
-        "có trách nhiệm"
+        "lập hồ sơ",
+        "trách nhiệm"
       ],
       "similar": [
-        "Nghĩa vụ pháp lý"
+        "nghĩa vụ lập hồ sơ",
+        "lập và quản lý hồ sơ"
       ]
     },
     {
-      "name": "Lập hồ sơ",
-      "meaning": "Việc thu thập, sắp xếp, và hệ thống hóa các tài liệu, thông tin theo một trình tự nhất định.",
+      "name": "Trách nhiệm báo cáo",
+      "meaning": "Nghĩa vụ pháp lý của một chủ thể (được quy định tại Điều 12 của Luật này) trong việc cung cấp thông tin, dữ liệu theo yêu cầu của pháp luật.",
       "attrs": [
-        "Thu thập tài liệu",
-        "Sắp xếp tài liệu",
-        "Hệ thống hóa thông tin"
+        "Nghĩa vụ pháp lý",
+        "Đối tượng thực hiện (được quy định tại Điều 12)",
+        "Nội dung: báo cáo",
+        "Căn cứ: quy định của Chính phủ"
       ],
       "keyphrases": [
-        "lập hồ sơ"
+        "báo cáo",
+        "trách nhiệm"
       ],
       "similar": [
-        "Soạn thảo hồ sơ",
-        "Xây dựng hồ sơ"
-      ]
-    },
-    {
-      "name": "Báo cáo",
-      "meaning": "Việc cung cấp thông tin, số liệu về một vấn đề cụ thể cho cơ quan nhà nước có thẩm quyền.",
-      "attrs": [
-        "Cung cấp thông tin",
-        "Cung cấp số liệu",
-        "Gửi đến cơ quan có thẩm quyền"
-      ],
-      "keyphrases": [
-        "báo cáo"
-      ],
-      "similar": [
-        "Trình báo",
-        "Thông báo"
+        "nghĩa vụ báo cáo",
+        "cung cấp thông tin"
       ]
     },
     {
       "name": "Quy định của Chính phủ",
-      "meaning": "Các văn bản quy phạm pháp luật do Chính phủ ban hành để hướng dẫn thi hành luật.",
+      "meaning": "Các văn bản quy phạm pháp luật do Chính phủ ban hành, hướng dẫn chi tiết việc thực hiện các quy định của Luật.",
       "attrs": [
         "Văn bản quy phạm pháp luật",
-        "Do Chính phủ ban hành",
-        "Hướng dẫn thi hành luật"
+        "Cơ quan ban hành: Chính phủ",
+        "Nội dung: hướng dẫn chi tiết thi hành Luật"
       ],
       "keyphrases": [
         "quy định của Chính phủ"
       ],
       "similar": [
         "Nghị định của Chính phủ",
-        "Quy chế do Chính phủ ban hành"
+        "Văn bản hướng dẫn của Chính phủ"
       ]
     }
   ]
@@ -2383,7 +2381,7 @@
   "concepts": [
     {
       "name": "Thuốc gây nghiện",
-      "meaning": "Loại thuốc có khả năng gây nghiện cho người sử dụng, thuộc danh mục kiểm soát đặc biệt.",
+      "meaning": "Loại thuốc có khả năng gây nghiện cho người sử dụng, cần được kiểm soát chặt chẽ.",
       "attrs": [],
       "keyphrases": [
         "thuốc gây nghiện"
@@ -2392,7 +2390,7 @@
     },
     {
       "name": "Thuốc hướng thần",
-      "meaning": "Loại thuốc tác động lên hệ thần kinh trung ương, có thể gây ra ảo giác, thay đổi tâm trạng, hành vi và thuộc danh mục kiểm soát đặc biệt.",
+      "meaning": "Loại thuốc tác động lên hệ thần kinh trung ương, có thể gây ra thay đổi về tâm trạng, nhận thức, hành vi, cần được kiểm soát chặt chẽ.",
       "attrs": [],
       "keyphrases": [
         "thuốc hướng thần"
@@ -2401,7 +2399,7 @@
     },
     {
       "name": "Thuốc tiền chất",
-      "meaning": "Loại hóa chất được sử dụng làm nguyên liệu để sản xuất thuốc gây nghiện, thuốc hướng thần và thuộc danh mục kiểm soát đặc biệt.",
+      "meaning": "Chất hóa học được sử dụng để sản xuất thuốc gây nghiện, thuốc hướng thần, cần được kiểm soát chặt chẽ.",
       "attrs": [],
       "keyphrases": [
         "thuốc tiền chất"
@@ -2410,13 +2408,21 @@
     },
     {
       "name": "Sơ cứu, cấp cứu",
-      "meaning": "Các biện pháp y tế ban đầu nhằm xử lý tình trạng khẩn cấp về sức khỏe, tính mạng.",
-      "attrs": [],
+      "meaning": "Các biện pháp y tế ban đầu được thực hiện để cứu sống hoặc giảm thiểu tổn thương cho người bệnh hoặc người bị nạn.",
+      "attrs": [
+        "trên tàu thủy",
+        "trên tàu bay",
+        "trên tàu hỏa",
+        "trên ô tô",
+        "trên các phương tiện vận tải khác"
+      ],
       "keyphrases": [
         "sơ cứu",
         "cấp cứu"
       ],
-      "similar": []
+      "similar": [
+        "cứu chữa ban đầu"
+      ]
     },
     {
       "name": "Hành trình, du lịch quốc tế",
@@ -2426,47 +2432,56 @@
         "cuộc hành trình",
         "du lịch quốc tế"
       ],
-      "similar": []
+      "similar": [
+        "xuất nhập cảnh",
+        "quá cảnh"
+      ]
     },
     {
       "name": "Nhập cảnh",
-      "meaning": "Việc một người nước ngoài hoặc người không có quốc tịch được phép vào lãnh thổ Việt Nam.",
+      "meaning": "Việc một người nước ngoài hoặc người không có quốc tịch được phép vào lãnh thổ một quốc gia.",
       "attrs": [],
       "keyphrases": [
         "nhập cảnh"
       ],
-      "similar": []
+      "similar": [
+        "vào Việt Nam"
+      ]
     },
     {
       "name": "Xuất cảnh",
-      "meaning": "Việc một người Việt Nam hoặc người nước ngoài được phép rời khỏi lãnh thổ Việt Nam.",
+      "meaning": "Việc một người được phép rời khỏi lãnh thổ một quốc gia.",
       "attrs": [],
       "keyphrases": [
         "xuất cảnh"
       ],
-      "similar": []
+      "similar": [
+        "rời Việt Nam"
+      ]
     },
     {
       "name": "Quá cảnh",
-      "meaning": "Việc một người hoặc hàng hóa đi qua lãnh thổ Việt Nam để đến một quốc gia khác.",
+      "meaning": "Việc một người đi qua lãnh thổ một quốc gia trên đường đến một quốc gia khác.",
       "attrs": [],
       "keyphrases": [
         "quá cảnh"
       ],
-      "similar": []
+      "similar": [
+        "đi ngang qua"
+      ]
     },
     {
-      "name": "Phương tiện vận tải",
-      "meaning": "Các loại phương tiện được sử dụng để vận chuyển người hoặc hàng hóa.",
+      "name": "Mang hàng xuất khẩu, nhập khẩu, quá cảnh",
+      "meaning": "Hành vi vận chuyển hàng hóa qua biên giới quốc gia, bao gồm cả việc xuất khẩu, nhập khẩu và quá cảnh.",
       "attrs": [],
       "keyphrases": [
-        "tàu thủy",
-        "tàu bay",
-        "tàu hỏa",
-        "ô tô",
-        "phương tiện vận tải"
+        "mang hàng xuất khẩu",
+        "mang hàng nhập khẩu",
+        "mang hàng quá cảnh"
       ],
-      "similar": []
+      "similar": [
+        "vận chuyển hàng hóa qua biên giới"
+      ]
     },
     {
       "name": "Người chỉ huy, người điều khiển phương tiện vận tải",
@@ -2476,23 +2491,31 @@
         "người chỉ huy",
         "người điều khiển phương tiện vận tải"
       ],
-      "similar": []
+      "similar": [
+        "thuyền trưởng",
+        "lái xe",
+        "phi công"
+      ]
     },
     {
-      "name": "Cơ quan Hải quan của Việt Nam",
-      "meaning": "Cơ quan nhà nước có thẩm quyền kiểm tra, giám sát hàng hóa, phương tiện vận tải xuất nhập khẩu, quá cảnh.",
-      "attrs": [],
+      "name": "Cơ quan Hải quan",
+      "meaning": "Cơ quan nhà nước có thẩm quyền kiểm soát hàng hóa, phương tiện vận tải xuất nhập khẩu, quá cảnh.",
+      "attrs": [
+        "của Việt Nam"
+      ],
       "keyphrases": [
-        "cơ quan Hải quan của Việt Nam"
+        "cơ quan Hải quan"
       ],
       "similar": []
     },
     {
-      "name": "Kiểm soát của cơ quan có thẩm quyền",
-      "meaning": "Việc các cơ quan nhà nước có thẩm quyền thực hiện các biện pháp giám sát, kiểm tra để đảm bảo tuân thủ quy định pháp luật.",
-      "attrs": [],
+      "name": "Cơ quan có thẩm quyền",
+      "meaning": "Cơ quan nhà nước có quyền hạn và trách nhiệm thực hiện các hoạt động kiểm soát theo quy định của pháp luật.",
+      "attrs": [
+        "của Việt Nam"
+      ],
       "keyphrases": [
-        "kiểm soát của cơ quan có thẩm quyền của Việt Nam"
+        "cơ quan có thẩm quyền"
       ],
       "similar": []
     }
@@ -2505,8 +2528,12 @@
   "concepts": [
     {
       "name": "Chất ma túy",
-      "meaning": "Các chất gây nghiện, bị cấm hoặc hạn chế sử dụng theo quy định của pháp luật.",
-      "attrs": [],
+      "meaning": "Các chất được kiểm soát theo quy định của pháp luật, có khả năng gây nghiện và tác động đến thần kinh.",
+      "attrs": [
+        "khả năng gây nghiện",
+        "tác động đến thần kinh",
+        "được kiểm soát theo pháp luật"
+      ],
       "keyphrases": [
         "chất ma túy"
       ],
@@ -2515,7 +2542,10 @@
     {
       "name": "Tiền chất",
       "meaning": "Các hóa chất được sử dụng để sản xuất chất ma túy.",
-      "attrs": [],
+      "attrs": [
+        "hóa chất",
+        "sử dụng để sản xuất chất ma túy"
+      ],
       "keyphrases": [
         "tiền chất"
       ],
@@ -2523,8 +2553,11 @@
     },
     {
       "name": "Thuốc gây nghiện",
-      "meaning": "Các loại thuốc có chứa chất gây nghiện, được kiểm soát chặt chẽ.",
-      "attrs": [],
+      "meaning": "Các loại thuốc có chứa chất gây nghiện và được kiểm soát theo quy định của pháp luật.",
+      "attrs": [
+        "chứa chất gây nghiện",
+        "được kiểm soát theo pháp luật"
+      ],
       "keyphrases": [
         "thuốc gây nghiện"
       ],
@@ -2532,8 +2565,11 @@
     },
     {
       "name": "Thuốc hướng thần",
-      "meaning": "Các loại thuốc tác động lên hệ thần kinh, có thể gây ra ảo giác hoặc thay đổi tâm trạng.",
-      "attrs": [],
+      "meaning": "Các loại thuốc tác động đến hệ thần kinh trung ương và được kiểm soát theo quy định của pháp luật.",
+      "attrs": [
+        "tác động đến hệ thần kinh trung ương",
+        "được kiểm soát theo pháp luật"
+      ],
       "keyphrases": [
         "thuốc hướng thần"
       ],
@@ -2541,8 +2577,11 @@
     },
     {
       "name": "Thuốc tiền chất",
-      "meaning": "Các loại thuốc có chứa tiền chất, được kiểm soát chặt chẽ.",
-      "attrs": [],
+      "meaning": "Các loại thuốc có chứa tiền chất và được kiểm soát theo quy định của pháp luật.",
+      "attrs": [
+        "chứa tiền chất",
+        "được kiểm soát theo pháp luật"
+      ],
       "keyphrases": [
         "thuốc tiền chất"
       ],
@@ -2550,44 +2589,88 @@
     },
     {
       "name": "Nguyên liệu làm thuốc là dược chất gây nghiện",
-      "meaning": "Các dược chất có khả năng gây nghiện được sử dụng làm nguyên liệu sản xuất thuốc.",
-      "attrs": [],
+      "meaning": "Các dược chất được sử dụng làm nguyên liệu sản xuất thuốc và có khả năng gây nghiện.",
+      "attrs": [
+        "dược chất",
+        "nguyên liệu sản xuất thuốc",
+        "khả năng gây nghiện"
+      ],
       "keyphrases": [
         "nguyên liệu làm thuốc là dược chất gây nghiện"
       ],
       "similar": []
     },
     {
-      "name": "Dược chất hướng thần",
-      "meaning": "Các dược chất có tác động lên hệ thần kinh, có thể gây ra ảo giác hoặc thay đổi tâm trạng.",
-      "attrs": [],
+      "name": "Nguyên liệu làm thuốc là dược chất hướng thần",
+      "meaning": "Các dược chất được sử dụng làm nguyên liệu sản xuất thuốc và có tác động đến hệ thần kinh trung ương.",
+      "attrs": [
+        "dược chất",
+        "nguyên liệu sản xuất thuốc",
+        "tác động đến hệ thần kinh trung ương"
+      ],
       "keyphrases": [
-        "dược chất hướng thần"
+        "nguyên liệu làm thuốc là dược chất hướng thần"
       ],
       "similar": []
     },
     {
-      "name": "Tiền chất dùng làm thuốc",
-      "meaning": "Các tiền chất được sử dụng trong quá trình sản xuất thuốc.",
-      "attrs": [],
+      "name": "Nguyên liệu làm thuốc là tiền chất dùng làm thuốc",
+      "meaning": "Các tiền chất được sử dụng làm nguyên liệu sản xuất thuốc.",
+      "attrs": [
+        "tiền chất",
+        "nguyên liệu sản xuất thuốc"
+      ],
       "keyphrases": [
-        "tiền chất dùng làm thuốc"
+        "nguyên liệu làm thuốc là tiền chất dùng làm thuốc"
       ],
       "similar": []
     },
     {
       "name": "Thuốc thú y có chứa chất ma túy, tiền chất",
       "meaning": "Các loại thuốc dùng cho động vật có chứa chất ma túy hoặc tiền chất.",
-      "attrs": [],
+      "attrs": [
+        "thuốc thú y",
+        "chứa chất ma túy",
+        "chứa tiền chất"
+      ],
       "keyphrases": [
         "thuốc thú y có chứa chất ma túy, tiền chất"
       ],
       "similar": []
     },
     {
+      "name": "Xử lý chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất thu giữ",
+      "meaning": "Quy trình và thủ tục pháp lý áp dụng đối với các loại chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất bị thu giữ trong các vụ việc vi phạm pháp luật.",
+      "attrs": [
+        "quy trình",
+        "thủ tục pháp lý",
+        "vụ việc vi phạm pháp luật"
+      ],
+      "keyphrases": [
+        "xử lý",
+        "chất ma túy",
+        "tiền chất",
+        "thuốc gây nghiện",
+        "thuốc hướng thần",
+        "thuốc tiền chất",
+        "nguyên liệu làm thuốc là dược chất gây nghiện",
+        "dược chất hướng thần",
+        "tiền chất dùng làm thuốc",
+        "thuốc thú y có chứa chất ma túy, tiền chất",
+        "thu giữ"
+      ],
+      "similar": []
+    },
+    {
       "name": "Vụ án hình sự",
-      "meaning": "Các vụ việc vi phạm pháp luật hình sự, được xử lý theo quy định của pháp luật tố tụng hình sự.",
-      "attrs": [],
+      "meaning": "Vụ việc có dấu hiệu tội phạm được khởi tố, điều tra, truy tố và xét xử theo quy định của pháp luật hình sự.",
+      "attrs": [
+        "dấu hiệu tội phạm",
+        "khởi tố",
+        "điều tra",
+        "truy tố",
+        "xét xử"
+      ],
       "keyphrases": [
         "vụ án hình sự"
       ],
@@ -2595,26 +2678,24 @@
     },
     {
       "name": "Vụ việc vi phạm hành chính",
-      "meaning": "Các vụ việc vi phạm các quy định của pháp luật hành chính, được xử lý theo quy định của pháp luật về xử lý vi phạm hành chính.",
-      "attrs": [],
+      "meaning": "Hành vi vi phạm các quy định của pháp luật về quản lý nhà nước mà không cấu thành tội phạm.",
+      "attrs": [
+        "vi phạm hành chính",
+        "không cấu thành tội phạm"
+      ],
       "keyphrases": [
         "vụ việc vi phạm hành chính"
       ],
       "similar": []
     },
     {
-      "name": "Xử lý theo quy định của pháp luật",
-      "meaning": "Việc giải quyết, xử lý các đối tượng (chất ma túy, tiền chất,...) phải tuân thủ các quy định hiện hành của pháp luật.",
-      "attrs": [],
-      "keyphrases": [
-        "xử lý theo quy định của pháp luật"
-      ],
-      "similar": []
-    },
-    {
       "name": "Pháp luật về tố tụng hình sự",
       "meaning": "Hệ thống các quy định pháp luật điều chỉnh trình tự, thủ tục giải quyết vụ án hình sự.",
-      "attrs": [],
+      "attrs": [
+        "trình tự",
+        "thủ tục",
+        "giải quyết vụ án hình sự"
+      ],
       "keyphrases": [
         "pháp luật về tố tụng hình sự"
       ],
@@ -2622,8 +2703,12 @@
     },
     {
       "name": "Pháp luật về xử lý vi phạm hành chính",
-      "meaning": "Hệ thống các quy định pháp luật điều chỉnh trình tự, thủ tục xử lý các hành vi vi phạm hành chính.",
-      "attrs": [],
+      "meaning": "Hệ thống các quy định pháp luật điều chỉnh việc xử phạt và áp dụng các biện pháp xử lý hành chính đối với hành vi vi phạm hành chính.",
+      "attrs": [
+        "xử phạt",
+        "biện pháp xử lý hành chính",
+        "vi phạm hành chính"
+      ],
       "keyphrases": [
         "pháp luật về xử lý vi phạm hành chính"
       ],
@@ -2631,8 +2716,11 @@
     },
     {
       "name": "Người sử dụng trái phép chất ma túy",
-      "meaning": "Cá nhân sử dụng chất ma túy mà không được phép của pháp luật.",
-      "attrs": [],
+      "meaning": "Người sử dụng chất ma túy mà không được phép của cơ quan nhà nước có thẩm quyền.",
+      "attrs": [
+        "sử dụng chất ma túy",
+        "không được phép"
+      ],
       "keyphrases": [
         "người sử dụng trái phép chất ma túy"
       ],
@@ -2903,7 +2991,7 @@
       "meaning": "Cá nhân thực hiện hành vi sử dụng chất ma túy mà không được pháp luật cho phép.",
       "attrs": [
         "Thực hiện hành vi sử dụng trái phép chất ma túy",
-        "Cư trú tại một địa phương"
+        "Có trách nhiệm pháp lý theo quy định"
       ],
       "keyphrases": [
         "người sử dụng trái phép chất ma túy"
@@ -2915,7 +3003,7 @@
     },
     {
       "name": "Trách nhiệm cung cấp thông tin",
-      "meaning": "Nghĩa vụ của người sử dụng trái phép chất ma túy phải khai báo đầy đủ và chính xác thông tin liên quan đến hành vi sử dụng trái phép chất ma túy của mình.",
+      "meaning": "Nghĩa vụ của người sử dụng trái phép chất ma túy phải khai báo đầy đủ và chính xác thông tin liên quan đến hành vi sử dụng ma túy của mình.",
       "attrs": [
         "Đầy đủ thông tin",
         "Chính xác thông tin",
@@ -2932,7 +3020,7 @@
     },
     {
       "name": "Công an cấp xã nơi cư trú",
-      "meaning": "Cơ quan công an có thẩm quyền quản lý hành chính trên địa bàn cấp xã nơi người sử dụng trái phép chất ma túy sinh sống.",
+      "meaning": "Cơ quan công an có thẩm quyền quản lý hành chính trên địa bàn xã nơi người sử dụng trái phép chất ma túy sinh sống.",
       "attrs": [
         "Cơ quan nhà nước",
         "Thuộc lực lượng công an",
@@ -2944,20 +3032,21 @@
       ],
       "similar": [
         "công an xã",
-        "công an phường",
-        "công an thị trấn"
+        "công an phường (tương đương cấp xã)",
+        "công an thị trấn (tương đương cấp xã)"
       ]
     },
     {
       "name": "Trách nhiệm chấp hành quản lý",
       "meaning": "Nghĩa vụ của người sử dụng trái phép chất ma túy phải tuân thủ các biện pháp quản lý do Ủy ban nhân dân cấp xã áp dụng.",
       "attrs": [
-        "Tuân thủ",
         "Chấp hành",
-        "Biện pháp quản lý"
+        "Quản lý",
+        "Do Ủy ban nhân dân cấp xã thực hiện"
       ],
       "keyphrases": [
-        "chấp hành việc quản lý"
+        "chấp hành việc quản lý",
+        "Ủy ban nhân dân cấp xã"
       ],
       "similar": [
         "tuân thủ quản lý",
@@ -2966,19 +3055,19 @@
     },
     {
       "name": "Ủy ban nhân dân cấp xã",
-      "meaning": "Cơ quan hành chính nhà nước ở cấp xã, có thẩm quyền quản lý nhà nước trên địa bàn.",
+      "meaning": "Cơ quan hành chính nhà nước ở cấp xã, có thẩm quyền quản lý hành chính trên địa bàn.",
       "attrs": [
         "Cơ quan nhà nước",
-        "Cấp hành chính: xã",
-        "Thẩm quyền quản lý nhà nước"
+        "Cơ quan hành chính",
+        "Cấp hành chính: xã"
       ],
       "keyphrases": [
         "Ủy ban nhân dân cấp xã"
       ],
       "similar": [
         "UBND xã",
-        "UBND phường",
-        "UBND thị trấn"
+        "UBND phường (tương đương cấp xã)",
+        "UBND thị trấn (tương đương cấp xã)"
       ]
     }
   ]
@@ -2990,77 +3079,108 @@
   "concepts": [
     {
       "name": "Người sử dụng trái phép chất ma túy",
-      "meaning": "Chỉ cá nhân thực hiện hành vi sử dụng chất ma túy mà không được pháp luật cho phép.",
-      "attrs": [],
+      "meaning": "Chỉ người có hành vi sử dụng chất ma túy mà không được pháp luật cho phép.",
+      "attrs": [
+        "Có hành vi sử dụng chất ma túy",
+        "Hành vi không được pháp luật cho phép"
+      ],
       "keyphrases": [
         "người sử dụng trái phép chất ma túy"
       ],
-      "similar": []
+      "similar": [
+        "người nghiện ma túy (cách gọi thông thường)",
+        "đối tượng sử dụng ma túy trái phép"
+      ]
     },
     {
       "name": "Trách nhiệm của gia đình",
-      "meaning": "Nghĩa vụ pháp lý mà gia đình của người sử dụng trái phép chất ma túy phải thực hiện để quản lý, giáo dục và ngăn chặn hành vi sử dụng trái phép chất ma túy.",
+      "meaning": "Nghĩa vụ pháp lý mà gia đình của người sử dụng trái phép chất ma túy phải thực hiện để quản lý, giáo dục và ngăn chặn hành vi sử dụng ma túy.",
       "attrs": [
-        "quản lý",
-        "giáo dục",
-        "ngăn chặn",
-        "cung cấp thông tin",
-        "phối hợp xét nghiệm"
+        "Quản lý",
+        "Giáo dục",
+        "Ngăn chặn",
+        "Cung cấp thông tin",
+        "Phối hợp xét nghiệm"
       ],
       "keyphrases": [
         "trách nhiệm của gia đình",
-        "quản lý, giáo dục người sử dụng trái phép chất ma túy",
+        "quản lý, giáo dục",
         "ngăn chặn hành vi sử dụng trái phép chất ma túy",
         "cung cấp thông tin",
-        "phối hợp với cơ quan có thẩm quyền đưa người sử dụng trái phép chất ma túy đi xét nghiệm chất ma túy trong cơ thể"
+        "phối hợp với cơ quan có thẩm quyền đưa người sử dụng trái phép chất ma túy đi xét nghiệm"
       ],
-      "similar": []
+      "similar": [
+        "nghĩa vụ của gia đình",
+        "vai trò của gia đình"
+      ]
     },
     {
       "name": "Trách nhiệm của cơ quan, tổ chức, cộng đồng",
-      "meaning": "Nghĩa vụ pháp lý mà cơ quan, tổ chức nơi người sử dụng trái phép chất ma túy làm việc và cộng đồng nơi người đó sinh sống phải thực hiện để động viên, giúp đỡ, giáo dục và ngăn chặn hành vi sử dụng trái phép chất ma túy.",
+      "meaning": "Nghĩa vụ pháp lý mà cơ quan, tổ chức nơi người sử dụng trái phép chất ma túy làm việc và cộng đồng nơi người đó sinh sống phải thực hiện để động viên, giúp đỡ, giáo dục và ngăn chặn hành vi sử dụng ma túy.",
       "attrs": [
-        "động viên",
-        "giúp đỡ",
-        "giáo dục",
-        "ngăn chặn",
-        "phối hợp xét nghiệm"
+        "Động viên",
+        "Giúp đỡ",
+        "Giáo dục",
+        "Ngăn chặn",
+        "Phối hợp xét nghiệm"
       ],
       "keyphrases": [
-        "trách nhiệm của cơ quan, tổ chức",
-        "trách nhiệm của cộng đồng",
-        "động viên, giúp đỡ, giáo dục người sử dụng trái phép chất ma túy",
+        "trách nhiệm của cơ quan, tổ chức, cộng đồng",
+        "động viên, giúp đỡ, giáo dục",
         "ngăn chặn hành vi sử dụng trái phép chất ma túy",
-        "phối hợp với gia đình, cơ quan có thẩm quyền đưa người sử dụng trái phép chất ma túy đi xét nghiệm chất ma túy trong cơ thể"
+        "phối hợp với gia đình, cơ quan có thẩm quyền đưa người sử dụng trái phép chất ma túy đi xét nghiệm"
       ],
-      "similar": []
+      "similar": [
+        "nghĩa vụ của cơ quan, tổ chức, cộng đồng",
+        "vai trò của cơ quan, tổ chức, cộng đồng"
+      ]
     },
     {
       "name": "Công an cấp xã",
       "meaning": "Lực lượng công an hoạt động tại cấp xã, có thẩm quyền trong việc quản lý địa bàn và tiếp nhận thông tin liên quan đến người sử dụng trái phép chất ma túy.",
-      "attrs": [],
+      "attrs": [
+        "Thuộc lực lượng công an",
+        "Hoạt động tại cấp xã",
+        "Có thẩm quyền quản lý địa bàn"
+      ],
       "keyphrases": [
         "công an cấp xã"
       ],
-      "similar": []
+      "similar": [
+        "công an xã, phường, thị trấn"
+      ]
     },
     {
       "name": "Xét nghiệm chất ma túy trong cơ thể",
       "meaning": "Thủ tục kiểm tra y tế để xác định sự hiện diện của chất ma túy trong cơ thể người.",
-      "attrs": [],
+      "attrs": [
+        "Kiểm tra y tế",
+        "Xác định chất ma túy",
+        "Thực hiện trên cơ thể người"
+      ],
       "keyphrases": [
         "xét nghiệm chất ma túy trong cơ thể"
       ],
-      "similar": []
+      "similar": [
+        "kiểm tra ma túy",
+        "test ma túy"
+      ]
     },
     {
       "name": "Gây mất trật tự, an toàn xã hội",
-      "meaning": "Hành vi của người sử dụng trái phép chất ma túy gây ảnh hưởng xấu đến trật tự công cộng và an toàn của xã hội.",
-      "attrs": [],
+      "meaning": "Hành vi vi phạm pháp luật, gây ảnh hưởng xấu đến trật tự công cộng và an toàn của xã hội.",
+      "attrs": [
+        "Vi phạm pháp luật",
+        "Ảnh hưởng xấu đến trật tự công cộng",
+        "Ảnh hưởng xấu đến an toàn xã hội"
+      ],
       "keyphrases": [
         "gây mất trật tự, an toàn xã hội"
       ],
-      "similar": []
+      "similar": [
+        "gây rối trật tự công cộng",
+        "vi phạm an ninh trật tự"
+      ]
     }
   ]
 },
@@ -3177,74 +3297,34 @@
   "text": "Điều 23 của Luật này;\nb) Người sử dụng trái phép chất ma túy thuộc trường hợp dừng quản lý quy định tại khoản 5",
   "concepts": [
     {
-      "name": "Luật",
-      "meaning": "Một hệ thống các quy tắc và quy định được thiết lập và thực thi bởi một cơ quan có thẩm quyền để điều chỉnh hành vi của các cá nhân và tổ chức trong một xã hội.",
-      "attrs": [],
-      "keyphrases": [
-        "Luật này"
-      ],
-      "similar": []
-    },
-    {
       "name": "Người sử dụng trái phép chất ma túy",
-      "meaning": "Cá nhân sử dụng chất ma túy mà không được phép theo quy định của pháp luật.",
+      "meaning": "Chỉ người có hành vi sử dụng chất ma túy mà không được phép theo quy định của pháp luật.",
       "attrs": [
-        "Sử dụng chất ma túy",
-        "Không được phép"
+        "Hành vi sử dụng chất ma túy",
+        "Không được phép theo quy định của pháp luật"
       ],
       "keyphrases": [
         "Người sử dụng trái phép chất ma túy"
       ],
       "similar": [
         "Người nghiện ma túy (có thể)",
-        "Đối tượng sử dụng ma túy"
-      ]
-    },
-    {
-      "name": "Quản lý người sử dụng trái phép chất ma túy",
-      "meaning": "Các biện pháp hành chính hoặc hình sự áp dụng đối với người sử dụng trái phép chất ma túy nhằm kiểm soát và hỗ trợ họ cai nghiện.",
-      "attrs": [
-        "Biện pháp hành chính",
-        "Biện pháp hình sự",
-        "Kiểm soát",
-        "Hỗ trợ cai nghiện"
-      ],
-      "keyphrases": [
-        "quản lý"
-      ],
-      "similar": [
-        "Theo dõi người sử dụng ma túy",
-        "Giám sát người nghiện ma túy"
+        "Đối tượng sử dụng ma túy trái phép"
       ]
     },
     {
       "name": "Dừng quản lý",
-      "meaning": "Việc chấm dứt áp dụng các biện pháp quản lý đối với người sử dụng trái phép chất ma túy khi đáp ứng các điều kiện nhất định.",
+      "meaning": "Việc chấm dứt áp dụng các biện pháp quản lý đối với người sử dụng trái phép chất ma túy khi đáp ứng các điều kiện luật định.",
       "attrs": [
-        "Chấm dứt biện pháp quản lý",
-        "Đáp ứng điều kiện"
+        "Chấm dứt áp dụng biện pháp quản lý",
+        "Đối tượng: Người sử dụng trái phép chất ma túy",
+        "Điều kiện luật định"
       ],
       "keyphrases": [
         "dừng quản lý"
       ],
       "similar": [
         "Miễn quản lý",
-        "Kết thúc quản lý"
-      ]
-    },
-    {
-      "name": "Khoản 5",
-      "meaning": "Một phần cụ thể trong một điều luật, thường quy định chi tiết hoặc ngoại lệ cho quy định chung của điều luật đó.",
-      "attrs": [
-        "Vị trí trong văn bản luật",
-        "Quy định chi tiết"
-      ],
-      "keyphrases": [
-        "khoản 5"
-      ],
-      "similar": [
-        "Điểm",
-        "Điều"
+        "Chấm dứt quản lý"
       ]
     }
   ]
@@ -3332,35 +3412,32 @@
   "concepts": [
     {
       "name": "Xác định tình trạng nghiện ma túy",
-      "meaning": "Quy trình pháp lý để xác định một người có nghiện ma túy hay không, dựa trên các dấu hiệu và tiêu chí nhất định.",
+      "meaning": "Quy trình pháp lý để xác định một người có nghiện ma túy hay không, được thực hiện bởi cơ sở y tế có thẩm quyền theo đề nghị của cơ quan công an hoặc tự nguyện.",
       "attrs": [
-        "Được thực hiện đối với người sử dụng trái phép chất ma túy trong các trường hợp cụ thể",
-        "Do cơ sở y tế có thẩm quyền thực hiện",
-        "Dựa trên hồ sơ đề nghị từ cơ quan công an hoặc người tự nguyện"
+        "Được thực hiện bởi cơ sở y tế có thẩm quyền",
+        "Dựa trên hồ sơ đề nghị của cơ quan công an hoặc tự nguyện",
+        "Có kết quả gửi cho cơ quan đề nghị và người được xác định"
       ],
       "keyphrases": [
         "xác định tình trạng nghiện ma túy",
-        "người sử dụng trái phép chất ma túy",
         "cơ sở y tế có thẩm quyền",
-        "hồ sơ đề nghị"
+        "hồ sơ đề nghị",
+        "kết quả xác định tình trạng nghiện ma túy"
       ],
       "similar": [
-        "đánh giá tình trạng nghiện",
+        "đánh giá tình trạng nghiện ma túy",
         "giám định nghiện ma túy"
       ]
     },
     {
       "name": "Người sử dụng trái phép chất ma túy",
-      "meaning": "Người sử dụng các chất ma túy mà không được pháp luật cho phép.",
+      "meaning": "Người có hành vi sử dụng chất ma túy mà không được pháp luật cho phép.",
       "attrs": [
-        "Đang trong thời gian quản lý",
-        "Không có nơi cư trú ổn định",
-        "Đang trong thời gian áp dụng biện pháp xử lý hành chính",
-        "Đang trong thời gian quản lý sau cai nghiện"
+        "Sử dụng chất ma túy",
+        "Không được pháp luật cho phép"
       ],
       "keyphrases": [
-        "người sử dụng trái phép chất ma túy",
-        "sử dụng trái phép chất ma túy"
+        "người sử dụng trái phép chất ma túy"
       ],
       "similar": [
         "người nghiện ma túy",
@@ -3368,65 +3445,111 @@
       ]
     },
     {
-      "name": "Hồ sơ đề nghị xác định tình trạng nghiện ma túy",
-      "meaning": "Tập hợp các tài liệu cần thiết để yêu cầu cơ sở y tế có thẩm quyền tiến hành xác định tình trạng nghiện ma túy.",
+      "name": "Quản lý người sử dụng trái phép chất ma túy",
+      "meaning": "Biện pháp quản lý hành chính đối với người sử dụng trái phép chất ma túy.",
       "attrs": [
-        "Do công an cấp xã, huyện, tỉnh lập",
-        "Chứa thông tin về người sử dụng trái phép chất ma túy"
+        "Biện pháp hành chính",
+        "Áp dụng cho người sử dụng trái phép chất ma túy"
       ],
       "keyphrases": [
-        "hồ sơ đề nghị",
-        "lập hồ sơ"
+        "quản lý",
+        "người sử dụng trái phép chất ma túy"
       ],
       "similar": [
-        "tài liệu yêu cầu xác định nghiện",
-        "hồ sơ giám định nghiện"
+        "theo dõi người sử dụng ma túy"
       ]
     },
     {
-      "name": "Cơ sở y tế có thẩm quyền",
-      "meaning": "Cơ sở y tế được pháp luật cho phép thực hiện việc xác định tình trạng nghiện ma túy.",
+      "name": "Nơi cư trú ổn định",
+      "meaning": "Địa điểm mà một người thường xuyên sinh sống và có thể xác định được.",
       "attrs": [
-        "Có trách nhiệm xác định tình trạng nghiện ma túy",
-        "Gửi kết quả đến cơ quan đề nghị và người được xác định"
+        "Địa điểm sinh sống",
+        "Tính thường xuyên",
+        "Khả năng xác định"
       ],
       "keyphrases": [
-        "cơ sở y tế có thẩm quyền",
-        "kết quả xác định tình trạng nghiện ma túy"
+        "nơi cư trú ổn định"
       ],
       "similar": [
-        "cơ sở giám định nghiện",
-        "trung tâm y tế được phép xác định nghiện"
+        "địa chỉ thường trú",
+        "nơi ở hợp pháp"
+      ]
+    },
+    {
+      "name": "Biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn",
+      "meaning": "Một hình thức xử phạt hành chính áp dụng tại cấp xã, phường, thị trấn nhằm giáo dục người vi phạm.",
+      "attrs": [
+        "Hình thức xử phạt hành chính",
+        "Áp dụng tại cấp xã, phường, thị trấn",
+        "Mục đích giáo dục"
+      ],
+      "keyphrases": [
+        "biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn"
+      ],
+      "similar": [
+        "giáo dục tại xã, phường, thị trấn"
       ]
     },
     {
       "name": "Quản lý sau cai nghiện ma túy",
-      "meaning": "Giai đoạn sau khi người nghiện ma túy đã hoàn thành quá trình cai nghiện, nhằm giúp họ duy trì trạng thái không sử dụng ma túy và tái hòa nhập cộng đồng.",
+      "meaning": "Biện pháp quản lý đối với người đã cai nghiện ma túy nhằm giúp họ tái hòa nhập cộng đồng và phòng ngừa tái nghiện.",
       "attrs": [
-        "Thời gian quản lý sau cai nghiện",
-        "Phát hiện sử dụng trái phép chất ma túy trong thời gian này"
+        "Biện pháp quản lý",
+        "Áp dụng sau cai nghiện",
+        "Mục đích tái hòa nhập và phòng ngừa tái nghiện"
       ],
       "keyphrases": [
         "quản lý sau cai nghiện ma túy"
       ],
       "similar": [
-        "giai đoạn hậu cai nghiện",
-        "tái hòa nhập cộng đồng sau cai nghiện"
+        "hỗ trợ sau cai nghiện"
+      ]
+    },
+    {
+      "name": "Hồ sơ đề nghị xác định tình trạng nghiện ma túy",
+      "meaning": "Tập hợp các tài liệu cần thiết để cơ quan có thẩm quyền đề nghị cơ sở y tế xác định tình trạng nghiện ma túy của một người.",
+      "attrs": [
+        "Tập hợp tài liệu",
+        "Đề nghị xác định tình trạng nghiện ma túy"
+      ],
+      "keyphrases": [
+        "hồ sơ đề nghị",
+        "xác định tình trạng nghiện ma túy"
+      ],
+      "similar": [
+        "hồ sơ giám định nghiện ma túy"
+      ]
+    },
+    {
+      "name": "Quyền và trách nhiệm của người được đề nghị xác định tình trạng nghiện ma túy",
+      "meaning": "Các quyền lợi và nghĩa vụ mà một người phải tuân thủ khi được yêu cầu xác định tình trạng nghiện ma túy.",
+      "attrs": [
+        "Quyền lợi",
+        "Nghĩa vụ",
+        "Liên quan đến quá trình xác định tình trạng nghiện ma túy"
+      ],
+      "keyphrases": [
+        "quyền",
+        "trách nhiệm",
+        "xác định tình trạng nghiện ma túy"
+      ],
+      "similar": [
+        "nghĩa vụ và quyền lợi của người giám định"
       ]
     },
     {
       "name": "Đăng ký cai nghiện ma túy tự nguyện",
-      "meaning": "Việc người nghiện ma túy hoặc người đại diện hợp pháp của họ đăng ký tham gia chương trình cai nghiện một cách tự nguyện.",
+      "meaning": "Thủ tục đăng ký tham gia chương trình cai nghiện ma túy một cách tự nguyện.",
       "attrs": [
-        "Trách nhiệm của người nghiện hoặc người đại diện khi nhận được kết quả xác định là nghiện ma túy",
-        "Thực hiện theo quy định của pháp luật"
+        "Thủ tục hành chính",
+        "Tham gia cai nghiện",
+        "Tính tự nguyện"
       ],
       "keyphrases": [
         "đăng ký cai nghiện ma túy tự nguyện"
       ],
       "similar": [
-        "tự nguyện tham gia cai nghiện",
-        "đăng ký điều trị nghiện tự nguyện"
+        "tự nguyện cai nghiện"
       ]
     }
   ]
@@ -3438,7 +3561,7 @@
   "concepts": [
     {
       "name": "Đăng ký điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế",
-      "meaning": "Việc cá nhân nghiện các chất dạng thuốc phiện đăng ký để được điều trị bằng thuốc thay thế tại cơ quan có thẩm quyền.",
+      "meaning": "Việc cá nhân nghiện các chất dạng thuốc phiện đăng ký để được điều trị bằng thuốc thay thế theo quy định của pháp luật.",
       "attrs": [
         "Đối tượng: Người nghiện các chất dạng thuốc phiện",
         "Hình thức: Điều trị bằng thuốc thay thế",
@@ -3454,63 +3577,52 @@
       ]
     },
     {
-      "name": "Cơ sở y tế đủ điều kiện xác định tình trạng nghiện ma túy",
-      "meaning": "Các cơ sở y tế đáp ứng các tiêu chuẩn do Chính phủ quy định để thực hiện việc xác định tình trạng nghiện ma túy.",
+      "name": "Xác định tình trạng nghiện ma túy",
+      "meaning": "Quá trình đánh giá, kết luận về việc một người có nghiện ma túy hay không, được thực hiện bởi cơ sở y tế đủ điều kiện.",
       "attrs": [
-        "Tiêu chuẩn: Do Chính phủ quy định",
+        "Cơ quan thực hiện: Cơ sở y tế đủ điều kiện",
+        "Căn cứ: Tiêu chuẩn chẩn đoán và quy trình chuyên môn",
+        "Quy định: Hồ sơ, trình tự, thủ tục do Chính phủ quy định"
+      ],
+      "keyphrases": [
+        "xác định tình trạng nghiện ma túy",
+        "cơ sở y tế đủ điều kiện",
+        "hồ sơ, trình tự, thủ tục",
+        "tiêu chuẩn chẩn đoán",
+        "quy trình chuyên môn"
+      ],
+      "similar": [
+        "Đánh giá nghiện ma túy",
+        "Kết luận về tình trạng nghiện ma túy"
+      ]
+    },
+    {
+      "name": "Cơ sở y tế đủ điều kiện xác định tình trạng nghiện ma túy",
+      "meaning": "Các cơ sở y tế đáp ứng các tiêu chuẩn và điều kiện do Chính phủ quy định để thực hiện việc xác định tình trạng nghiện ma túy.",
+      "attrs": [
+        "Điều kiện: Do Chính phủ quy định",
         "Chức năng: Xác định tình trạng nghiện ma túy"
       ],
       "keyphrases": [
         "cơ sở y tế đủ điều kiện xác định tình trạng nghiện ma túy"
       ],
       "similar": [
-        "Cơ sở xác định nghiện ma túy"
-      ]
-    },
-    {
-      "name": "Hồ sơ, trình tự, thủ tục xác định tình trạng nghiện ma túy",
-      "meaning": "Quy trình và các giấy tờ cần thiết để thực hiện việc xác định tình trạng nghiện ma túy, do Chính phủ quy định.",
-      "attrs": [
-        "Quy định: Do Chính phủ quy định",
-        "Nội dung: Hồ sơ, trình tự, thủ tục"
-      ],
-      "keyphrases": [
-        "hồ sơ, trình tự, thủ tục xác định tình trạng nghiện ma túy"
-      ],
-      "similar": [
-        "Quy trình xác định nghiện ma túy"
-      ]
-    },
-    {
-      "name": "Tiêu chuẩn chẩn đoán và quy trình chuyên môn để xác định tình trạng nghiện ma túy",
-      "meaning": "Các tiêu chí và quy trình chuyên môn do Bộ trưởng Bộ Y tế quy định để chẩn đoán và xác định tình trạng nghiện ma túy.",
-      "attrs": [
-        "Quy định: Do Bộ trưởng Bộ Y tế quy định",
-        "Nội dung: Tiêu chuẩn chẩn đoán, quy trình chuyên môn"
-      ],
-      "keyphrases": [
-        "tiêu chuẩn chẩn đoán",
-        "quy trình chuyên môn",
-        "xác định tình trạng nghiện ma túy"
-      ],
-      "similar": [
-        "Quy trình chẩn đoán nghiện ma túy"
+        "Cơ sở y tế được phép xác định nghiện ma túy"
       ]
     },
     {
       "name": "Kinh phí xác định tình trạng nghiện ma túy",
-      "meaning": "Nguồn tài chính do Nhà nước đảm bảo để chi trả cho việc xác định tình trạng nghiện ma túy trong một số trường hợp cụ thể.",
+      "meaning": "Nguồn tài chính do Nhà nước đảm bảo để chi trả cho việc xác định tình trạng nghiện ma túy trong một số trường hợp cụ thể được quy định.",
       "attrs": [
-        "Nguồn: Nhà nước bảo đảm",
-        "Mục đích: Chi trả cho việc xác định tình trạng nghiện ma túy",
-        "Đối tượng: Các trường hợp quy định tại các điểm a, b, c và d khoản 1 Điều này"
+        "Nguồn: Nhà nước",
+        "Đối tượng: Các trường hợp quy định tại khoản 1 Điều này"
       ],
       "keyphrases": [
         "kinh phí xác định tình trạng nghiện ma túy",
-        "Nhà nước bảo đảm"
+        "Nhà nước bảo đảm kinh phí"
       ],
       "similar": [
-        "Ngân sách cho xác định nghiện ma túy"
+        "Ngân sách cho việc xác định nghiện ma túy"
       ]
     }
   ]
@@ -3522,25 +3634,24 @@
   "concepts": [
     {
       "name": "Biện pháp cai nghiện ma túy",
-      "meaning": "Các phương thức được pháp luật quy định để giúp người nghiện ma túy phục hồi và từ bỏ việc sử dụng ma túy.",
+      "meaning": "Các phương thức được pháp luật quy định để giúp người nghiện ma túy từ bỏ việc sử dụng chất gây nghiện.",
       "attrs": [
-        "Tính chất (tự nguyện hoặc bắt buộc)",
-        "Địa điểm thực hiện (gia đình, cộng đồng, cơ sở cai nghiện)"
+        "Tính chất: Tự nguyện hoặc bắt buộc",
+        "Địa điểm thực hiện: Gia đình, cộng đồng, cơ sở cai nghiện ma túy (tự nguyện); Cơ sở cai nghiện ma túy công lập (bắt buộc)"
       ],
       "keyphrases": [
         "biện pháp cai nghiện ma túy"
       ],
       "similar": [
-        "phương pháp cai nghiện ma túy",
-        "hình thức cai nghiện ma túy"
+        "phương pháp cai nghiện ma túy"
       ]
     },
     {
       "name": "Cai nghiện ma túy tự nguyện",
       "meaning": "Hình thức cai nghiện mà người nghiện ma túy tự nguyện tham gia, không bị ép buộc.",
       "attrs": [
-        "Tính tự nguyện",
-        "Địa điểm thực hiện (gia đình, cộng đồng, cơ sở cai nghiện ma túy)"
+        "Tính chất: Tự nguyện",
+        "Địa điểm thực hiện: Gia đình, cộng đồng, cơ sở cai nghiện ma túy"
       ],
       "keyphrases": [
         "cai nghiện ma túy tự nguyện"
@@ -3553,8 +3664,8 @@
       "name": "Cai nghiện ma túy bắt buộc",
       "meaning": "Hình thức cai nghiện mà người nghiện ma túy phải tham gia theo quyết định của cơ quan nhà nước có thẩm quyền.",
       "attrs": [
-        "Tính bắt buộc",
-        "Địa điểm thực hiện (cơ sở cai nghiện ma túy công lập)"
+        "Tính chất: Bắt buộc",
+        "Địa điểm thực hiện: Cơ sở cai nghiện ma túy công lập"
       ],
       "keyphrases": [
         "cai nghiện ma túy bắt buộc"
@@ -3567,54 +3678,29 @@
       "name": "Cơ sở cai nghiện ma túy",
       "meaning": "Địa điểm được thành lập để thực hiện các hoạt động cai nghiện ma túy.",
       "attrs": [
-        "Địa điểm thực hiện cai nghiện",
-        "Có thể là công lập hoặc không"
+        "Loại hình: Có thể là cơ sở công lập hoặc tư nhân (trong trường hợp cai nghiện tự nguyện)",
+        "Chức năng: Thực hiện các hoạt động cai nghiện"
       ],
       "keyphrases": [
         "cơ sở cai nghiện ma túy"
       ],
       "similar": [
-        "trung tâm cai nghiện",
-        "cơ sở điều trị nghiện"
+        "trung tâm cai nghiện"
       ]
     },
     {
       "name": "Cơ sở cai nghiện ma túy công lập",
-      "meaning": "Cơ sở cai nghiện ma túy do nhà nước quản lý và điều hành.",
+      "meaning": "Cơ sở cai nghiện ma túy do nhà nước thành lập và quản lý.",
       "attrs": [
-        "Thuộc sở hữu nhà nước",
-        "Thực hiện cai nghiện bắt buộc"
+        "Tính chất: Công lập",
+        "Chức năng: Thực hiện cai nghiện ma túy bắt buộc"
       ],
       "keyphrases": [
         "cơ sở cai nghiện ma túy công lập"
       ],
       "similar": [
-        "trung tâm cai nghiện nhà nước"
+        "trung tâm cai nghiện công lập"
       ]
-    },
-    {
-      "name": "Gia đình",
-      "meaning": "Môi trường sống của người nghiện, có thể thực hiện cai nghiện tự nguyện.",
-      "attrs": [
-        "Môi trường sống",
-        "Thực hiện cai nghiện tự nguyện"
-      ],
-      "keyphrases": [
-        "gia đình"
-      ],
-      "similar": []
-    },
-    {
-      "name": "Cộng đồng",
-      "meaning": "Môi trường xã hội nơi người nghiện sinh sống, có thể thực hiện cai nghiện tự nguyện.",
-      "attrs": [
-        "Môi trường xã hội",
-        "Thực hiện cai nghiện tự nguyện"
-      ],
-      "keyphrases": [
-        "cộng đồng"
-      ],
-      "similar": []
     }
   ]
 },
@@ -3721,27 +3807,27 @@
   "concepts": [
     {
       "name": "Cai nghiện ma túy tự nguyện tại gia đình, cộng đồng",
-      "meaning": "Hình thức cai nghiện ma túy do người nghiện tự nguyện thực hiện tại gia đình hoặc cộng đồng, có sự hỗ trợ chuyên môn và quản lý của các bên liên quan.",
+      "meaning": "Việc người nghiện ma túy tự nguyện thực hiện cai nghiện tại gia đình, cộng đồng với sự hỗ trợ chuyên môn, phối hợp của các bên liên quan và chịu sự quản lý của Ủy ban nhân dân cấp xã.",
       "attrs": [
         "tự nguyện",
         "tại gia đình",
         "tại cộng đồng",
-        "hỗ trợ chuyên môn",
-        "phối hợp, trợ giúp của gia đình, cộng đồng",
-        "quản lý của Ủy ban nhân dân cấp xã"
+        "có sự hỗ trợ chuyên môn",
+        "có sự phối hợp, trợ giúp của gia đình, cộng đồng",
+        "chịu sự quản lý của Ủy ban nhân dân cấp xã"
       ],
       "keyphrases": [
         "cai nghiện ma túy tự nguyện tại gia đình, cộng đồng",
-        "người nghiện ma túy thực hiện cai nghiện tự nguyện",
+        "người nghiện ma túy",
+        "cai nghiện tự nguyện",
         "tổ chức, cá nhân cung cấp dịch vụ cai nghiện ma túy",
-        "sự phối hợp, trợ giúp của gia đình, cộng đồng",
         "Ủy ban nhân dân cấp xã"
       ],
       "similar": []
     },
     {
       "name": "Thời hạn cai nghiện ma túy tự nguyện tại gia đình, cộng đồng",
-      "meaning": "Khoảng thời gian mà người nghiện ma túy tự nguyện thực hiện cai nghiện tại gia đình hoặc cộng đồng.",
+      "meaning": "Khoảng thời gian mà người nghiện ma túy tự nguyện thực hiện cai nghiện tại gia đình, cộng đồng.",
       "attrs": [
         "từ đủ 06 tháng",
         "đến 12 tháng"
@@ -3754,15 +3840,17 @@
       "similar": []
     },
     {
-      "name": "Giai đoạn cai nghiện",
-      "meaning": "Các bước hoặc giai đoạn trong quá trình cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.",
+      "name": "Giai đoạn cai nghiện ma túy tự nguyện tại gia đình, cộng đồng",
+      "meaning": "Các bước hoặc giai đoạn mà người cai nghiện ma túy tự nguyện phải trải qua trong quá trình cai nghiện tại gia đình, cộng đồng.",
       "attrs": [
         "ít nhất 03 giai đoạn",
         "quy định tại các điểm a, b và c khoản 1"
       ],
       "keyphrases": [
-        "giai đoạn quy định tại các điểm a, b và c khoản 1",
-        "hoàn thành ít nhất 03 giai đoạn"
+        "giai đoạn",
+        "người cai nghiện ma túy tự nguyện tại gia đình, cộng đồng",
+        "hoàn thành ít nhất 03 giai đoạn",
+        "điểm a, b và c khoản 1"
       ],
       "similar": []
     }
@@ -3900,15 +3988,15 @@
       "name": "Dịch vụ cai nghiện ma túy tự nguyện",
       "meaning": "Hoạt động cung cấp các biện pháp hỗ trợ, điều trị cho người nghiện ma túy một cách tự nguyện tại môi trường gia đình hoặc cộng đồng.",
       "attrs": [
-        "Tính tự nguyện",
-        "Địa điểm: gia đình, cộng đồng",
-        "Quy trình chuyên môn nghiệp vụ",
-        "Thông báo cho UBND cấp xã"
+        "tự nguyện",
+        "tại gia đình",
+        "tại cộng đồng",
+        "quy trình chuyên môn nghiệp vụ"
       ],
       "keyphrases": [
         "dịch vụ cai nghiện ma túy tự nguyện",
-        "tại gia đình",
-        "tại cộng đồng"
+        "cai nghiện ma túy tự nguyện tại gia đình",
+        "cai nghiện ma túy tự nguyện tại cộng đồng"
       ],
       "similar": [
         "cai nghiện tự nguyện",
@@ -3917,18 +4005,18 @@
     },
     {
       "name": "Tổ chức, cá nhân cung cấp dịch vụ cai nghiện",
-      "meaning": "Các chủ thể có đủ điều kiện pháp lý và chuyên môn để thực hiện việc cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình và cộng đồng.",
+      "meaning": "Các chủ thể có đủ điều kiện pháp lý và chuyên môn để thực hiện việc cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.",
       "attrs": [
-        "Đủ điều kiện",
-        "Đăng ký với Chủ tịch UBND cấp huyện",
-        "Trách nhiệm thông báo"
+        "tổ chức",
+        "cá nhân",
+        "đủ điều kiện",
+        "đăng ký"
       ],
       "keyphrases": [
         "tổ chức",
         "cá nhân",
         "cung cấp dịch vụ cai nghiện ma túy tự nguyện",
-        "đăng ký",
-        "Chủ tịch Ủy ban nhân dân cấp huyện"
+        "đăng ký cung cấp dịch vụ"
       ],
       "similar": [
         "nhà cung cấp dịch vụ cai nghiện",
@@ -3936,40 +4024,57 @@
       ]
     },
     {
-      "name": "Trách nhiệm thông báo",
-      "meaning": "Nghĩa vụ của tổ chức, cá nhân cung cấp dịch vụ cai nghiện ma túy tự nguyện phải thông báo cho Ủy ban nhân dân cấp xã về tình trạng sử dụng dịch vụ của người cai nghiện.",
+      "name": "Ủy ban nhân dân cấp xã",
+      "meaning": "Cơ quan hành chính nhà nước ở cấp xã, có trách nhiệm quản lý và theo dõi người cai nghiện ma túy tự nguyện tại địa phương.",
       "attrs": [
-        "Thời hạn: 05 ngày làm việc",
-        "Đối tượng thông báo: UBND cấp xã",
-        "Nội dung thông báo: sử dụng dịch vụ, tự ý chấm dứt, hoàn thành dịch vụ"
+        "cấp xã",
+        "thông báo",
+        "đăng ký cai nghiện"
       ],
       "keyphrases": [
-        "thông báo",
         "Ủy ban nhân dân cấp xã",
+        "đăng ký cai nghiện ma túy tự nguyện tại gia đình, cộng đồng",
+        "thông báo"
+      ],
+      "similar": [
+        "UBND cấp xã",
+        "chính quyền cấp xã"
+      ]
+    },
+    {
+      "name": "Chủ tịch Ủy ban nhân dân cấp huyện",
+      "meaning": "Người đứng đầu cơ quan hành chính nhà nước ở cấp huyện, có thẩm quyền xem xét và quyết định việc đăng ký cung cấp dịch vụ cai nghiện ma túy tự nguyện.",
+      "attrs": [
+        "cấp huyện",
+        "thẩm quyền đăng ký",
+        "tổ chức, cá nhân"
+      ],
+      "keyphrases": [
+        "Chủ tịch Ủy ban nhân dân cấp huyện",
+        "đăng ký cung cấp dịch vụ"
+      ],
+      "similar": [
+        "Chủ tịch UBND cấp huyện",
+        "người đứng đầu UBND cấp huyện"
+      ]
+    },
+    {
+      "name": "Thời hạn thông báo",
+      "meaning": "Khoảng thời gian tối đa mà tổ chức, cá nhân cung cấp dịch vụ cai nghiện phải thông báo cho UBND cấp xã về tình hình sử dụng dịch vụ của người cai nghiện.",
+      "attrs": [
+        "05 ngày làm việc",
+        "kể từ ngày",
         "người cai nghiện ma túy sử dụng dịch vụ",
         "tự ý chấm dứt việc sử dụng dịch vụ",
         "hoàn thành dịch vụ"
       ],
-      "similar": [
-        "báo cáo",
-        "cung cấp thông tin"
-      ]
-    },
-    {
-      "name": "Ủy ban nhân dân cấp xã",
-      "meaning": "Cơ quan hành chính nhà nước ở cấp xã, có thẩm quyền quản lý và theo dõi hoạt động cai nghiện ma túy tự nguyện trên địa bàn.",
-      "attrs": [
-        "Cấp xã",
-        "Quản lý địa bàn",
-        "Tiếp nhận thông báo"
-      ],
       "keyphrases": [
-        "Ủy ban nhân dân cấp xã",
-        "nơi người đó đăng ký cai nghiện ma túy tự nguyện tại gia đình, cộng đồng"
+        "thời hạn 05 ngày làm việc",
+        "thông báo"
       ],
       "similar": [
-        "UBND xã",
-        "chính quyền cấp xã"
+        "thời gian thông báo",
+        "kỳ hạn thông báo"
       ]
     }
   ]
@@ -3996,7 +4101,7 @@
     },
     {
       "name": "Thời hạn cai nghiện ma túy tự nguyện",
-      "meaning": "Khoảng thời gian mà người nghiện ma túy tự nguyện phải ở lại và tham gia các hoạt động cai nghiện tại cơ sở cai nghiện ma túy.",
+      "meaning": "Khoảng thời gian mà người nghiện ma túy tự nguyện phải ở lại và tham gia các hoạt động cai nghiện tại cơ sở cai nghiện.",
       "attrs": [
         "Thời gian tối thiểu: 06 tháng",
         "Thời gian tối đa: 12 tháng"
@@ -4011,20 +4116,16 @@
     },
     {
       "name": "Giai đoạn cai nghiện ma túy",
-      "meaning": "Các bước hoặc giai đoạn khác nhau trong quá trình cai nghiện ma túy, được thực hiện tuần tự để giúp người nghiện phục hồi.",
+      "meaning": "Các bước hoặc giai đoạn khác nhau trong quá trình cai nghiện ma túy, được thực hiện tại cơ sở cai nghiện.",
       "attrs": [
         "Ít nhất 03 giai đoạn",
-        "Giai đoạn a",
-        "Giai đoạn b",
-        "Giai đoạn c",
-        "Khoản 1"
+        "Được quy định tại các điểm a, b và c khoản 1"
       ],
       "keyphrases": [
         "giai đoạn quy định tại các điểm a, b và c khoản 1"
       ],
       "similar": [
-        "Bước cai nghiện",
-        "Quá trình cai nghiện"
+        "Bước trong quy trình cai nghiện"
       ]
     }
   ]
@@ -4035,62 +4136,44 @@
   "text": "Điều 29 của Luật này được hỗ trợ kinh phí.\n3. Người cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy có trách nhiệm sau đây:\na) Thực hiện đúng, đầy đủ các quy định về cai nghiện ma túy tự nguyện và tuân thủ hướng dẫn của cơ quan chuyên môn;\nb) Nộp chi phí liên quan đến cai nghiện ma túy theo quy định.\nTrường hợp người cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy công lập mà có hoàn cảnh khó khăn được xét giảm hoặc miễn chi phí phải nộp.\n4. Cơ sở cai nghiện ma túy có trách nhiệm cấp giấy xác nhận hoàn thành cai nghiện ma túy tự nguyện cho người cai nghiện ma túy.\n5. Chính phủ quy định chi tiết Điều này.",
   "concepts": [
     {
-      "name": "Hỗ trợ kinh phí",
-      "meaning": "Việc cung cấp nguồn tài chính để thực hiện các hoạt động liên quan đến Điều 29 của Luật (Luật nào không được nêu rõ trong đoạn văn bản này).",
-      "attrs": [],
-      "keyphrases": [
-        "được hỗ trợ kinh phí"
-      ],
-      "similar": [
-        "cấp kinh phí",
-        "tài trợ kinh phí"
-      ]
-    },
-    {
-      "name": "Người cai nghiện ma túy tự nguyện",
-      "meaning": "Cá nhân tự nguyện tham gia vào quá trình cai nghiện ma túy tại một cơ sở cai nghiện.",
+      "name": "Cai nghiện ma túy tự nguyện",
+      "meaning": "Việc người nghiện ma túy tự nguyện tham gia vào quá trình điều trị và phục hồi tại cơ sở cai nghiện ma túy.",
       "attrs": [
         "tự nguyện",
-        "cai nghiện ma túy",
-        "tại cơ sở cai nghiện ma túy"
+        "tại cơ sở cai nghiện ma túy",
+        "tuân thủ quy định",
+        "nộp chi phí"
       ],
       "keyphrases": [
+        "cai nghiện ma túy tự nguyện",
         "người cai nghiện ma túy tự nguyện"
       ],
       "similar": [
-        "người tự nguyện cai nghiện ma túy"
+        "cai nghiện tự nguyện"
       ]
     },
     {
       "name": "Cơ sở cai nghiện ma túy",
-      "meaning": "Tổ chức hoặc địa điểm được phép thực hiện các hoạt động cai nghiện ma túy.",
-      "attrs": [],
-      "keyphrases": [
-        "cơ sở cai nghiện ma túy"
-      ],
-      "similar": [
-        "trung tâm cai nghiện",
-        "cơ sở điều trị nghiện"
-      ]
-    },
-    {
-      "name": "Quy định về cai nghiện ma túy tự nguyện",
-      "meaning": "Các quy tắc, điều lệ, và hướng dẫn pháp lý liên quan đến quá trình cai nghiện ma túy tự nguyện.",
+      "meaning": "Tổ chức được thành lập để thực hiện việc cai nghiện ma túy cho người nghiện.",
       "attrs": [
-        "cai nghiện ma túy tự nguyện"
+        "công lập",
+        "trách nhiệm cấp giấy xác nhận",
+        "hỗ trợ kinh phí"
       ],
       "keyphrases": [
-        "quy định về cai nghiện ma túy tự nguyện"
+        "cơ sở cai nghiện ma túy",
+        "cơ sở cai nghiện ma túy công lập"
       ],
       "similar": [
-        "điều lệ cai nghiện tự nguyện",
-        "quy tắc cai nghiện tự nguyện"
+        "trung tâm cai nghiện"
       ]
     },
     {
       "name": "Chi phí cai nghiện ma túy",
-      "meaning": "Các khoản tiền mà người cai nghiện ma túy tự nguyện phải trả để trang trải cho quá trình cai nghiện.",
+      "meaning": "Các khoản tiền mà người cai nghiện ma túy phải trả để trang trải cho quá trình cai nghiện.",
       "attrs": [
+        "phải nộp",
+        "xét giảm hoặc miễn",
         "liên quan đến cai nghiện ma túy"
       ],
       "keyphrases": [
@@ -4098,60 +4181,35 @@
         "chi phí phải nộp"
       ],
       "similar": [
-        "lệ phí cai nghiện",
-        "phí cai nghiện"
-      ]
-    },
-    {
-      "name": "Cơ sở cai nghiện ma túy công lập",
-      "meaning": "Cơ sở cai nghiện ma túy do nhà nước quản lý và điều hành.",
-      "attrs": [
-        "công lập"
-      ],
-      "keyphrases": [
-        "cơ sở cai nghiện ma túy công lập"
-      ],
-      "similar": [
-        "trung tâm cai nghiện nhà nước"
-      ]
-    },
-    {
-      "name": "Giảm hoặc miễn chi phí",
-      "meaning": "Việc được hưởng ưu đãi về tài chính, không phải trả hoặc trả ít hơn chi phí cai nghiện ma túy.",
-      "attrs": [
-        "hoàn cảnh khó khăn"
-      ],
-      "keyphrases": [
-        "giảm hoặc miễn chi phí"
-      ],
-      "similar": [
-        "hỗ trợ chi phí",
-        "miễn giảm học phí"
+        "lệ phí cai nghiện"
       ]
     },
     {
       "name": "Giấy xác nhận hoàn thành cai nghiện ma túy tự nguyện",
-      "meaning": "Văn bản chứng nhận việc một người đã hoàn thành quá trình cai nghiện ma túy tự nguyện tại một cơ sở cai nghiện.",
+      "meaning": "Văn bản chứng nhận người nghiện ma túy đã hoàn thành quá trình cai nghiện tự nguyện tại cơ sở cai nghiện.",
       "attrs": [
-        "hoàn thành cai nghiện ma túy tự nguyện"
+        "do cơ sở cai nghiện cấp",
+        "chứng nhận hoàn thành cai nghiện"
       ],
       "keyphrases": [
         "giấy xác nhận hoàn thành cai nghiện ma túy tự nguyện"
       ],
       "similar": [
-        "chứng nhận cai nghiện thành công"
+        "chứng chỉ cai nghiện"
       ]
     },
     {
-      "name": "Quy định chi tiết",
-      "meaning": "Việc Chính phủ ban hành các văn bản hướng dẫn cụ thể để thực thi Điều luật này.",
-      "attrs": [],
+      "name": "Hoàn cảnh khó khăn",
+      "meaning": "Tình trạng kinh tế, xã hội đặc biệt khó khăn của người cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy công lập.",
+      "attrs": [
+        "được xét giảm hoặc miễn chi phí"
+      ],
       "keyphrases": [
-        "quy định chi tiết"
+        "hoàn cảnh khó khăn"
       ],
       "similar": [
-        "hướng dẫn thi hành",
-        "thông tư hướng dẫn"
+        "khó khăn về kinh tế",
+        "gia cảnh khó khăn"
       ]
     }
   ]
@@ -4322,14 +4380,40 @@
   "text": "Điều 34. Lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc đối với người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi\n1. Việc lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc đối với người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi được thực hiện như sau:\na) Chủ tịch Ủy ban nhân dân cấp xã nơi người đó cư trú hoặc có hành vi vi phạm trong trường hợp không xác định được nơi cư trú lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc;\nb) Trường hợp người nghiện ma túy do công an cấp huyện hoặc công an cấp tỉnh phát hiện hoặc trong quá trình điều tra, thụ lý các vụ việc vi phạm pháp luật mà đối tượng là người từ đủ 12 tuổi đến dưới 18 tuổi thuộc diện đưa vào cơ sở cai nghiện bắt buộc thì cơ quan công an đang thụ lý vụ việc tiến hành xác minh, thu thập tài liệu và lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc đối với người đó;\nc) Hồ sơ đề nghị bao gồm biên bản vi phạm, bản tóm tắt lý lịch, tài liệu chứng minh tình trạng nghiện ma túy hiện tại của người đó, bản tường trình của người nghiện ma túy hoặc của người đại diện hợp pháp của họ, ý kiến của cha, mẹ, người giám hộ hoặc người đại diện hợp pháp;\nd) Công an cấp xã có trách nhiệm giúp Chủ tịch Ủy ban nhân dân cùng cấp thu thập các tài liệu và lập hồ sơ đề nghị quy định tại điểm a khoản 1 Điều này.\n2. Cơ quan, người lập hồ sơ đề nghị quy định tại khoản 1 Điều này phải chịu trách nhiệm về tính pháp lý của hồ sơ đề nghị. Sau khi hoàn thành việc lập hồ sơ đề nghị, cơ quan, người lập hồ sơ phải thông báo bằng văn bản cho người bị đề nghị áp dụng biện pháp đưa vào cơ sở cai nghiện bắt buộc, cha, mẹ, người giám hộ hoặc người đại diện hợp pháp của họ về việc lập hồ sơ. Những người này có quyền đọc hồ sơ và ghi ý kiến về việc lập hồ sơ trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông báo.\n3. Trong thời hạn 01 ngày làm việc kể từ ngày hết thời hạn đọc hồ sơ, cơ quan, người đã lập hồ sơ gửi hồ sơ cho Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp huyện nơi người bị đề nghị cư trú hoặc có hành vi vi phạm trong trường hợp không xác định được nơi cư trú. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ, Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp huyện quyết định chuyển hồ sơ đề nghị Tòa án nhân dân cấp huyện quyết định đưa vào cơ sở cai nghiện bắt buộc. Trường hợp hồ sơ chưa đầy đủ thì Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp huyện chuyển lại cơ quan, người đã lập hồ sơ để bổ sung hồ sơ, thời hạn bổ sung là 02 ngày làm việc kể từ ngày nhận lại hồ sơ. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ bổ sung, Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp huyện quyết định việc chuyển hồ sơ đề nghị Tòa án nhân dân cấp huyện quyết định đưa vào cơ sở cai nghiện bắt buộc.\n4. Hồ sơ đề nghị Tòa án nhân dân cấp huyện xem xét, quyết định đưa vào cơ sở cai nghiện bắt buộc bao gồm:\na) Hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc quy định tại điểm c khoản 1 Điều này;\nb) Văn bản của Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp huyện về việc đề nghị xem xét đưa vào cơ sở cai nghiện bắt buộc.\nTrong nội dung văn bản của Trưởng phòng Phòng Lao động - Thương binh và Xã hội phải nêu ý kiến về bảo vệ quyền trẻ em.\n5. Hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc đối với người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi phải được đánh bút lục và được lưu trữ theo quy định của pháp luật về lưu trữ.\n6. Chính phủ quy định chi tiết việc lập hồ sơ đề nghị đưa người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi vào cơ sở cai nghiện bắt buộc; chế độ cai nghiện ma túy áp dụng đối với người từ đủ 12 tuổi đến dưới 18 tuổi.",
   "concepts": [
     {
-      "name": "Hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc",
-      "meaning": "Tập hợp các tài liệu, chứng cứ pháp lý chứng minh một người nghiện ma túy từ 12 đến dưới 18 tuổi cần được đưa vào cơ sở cai nghiện bắt buộc.",
+      "name": "Người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi",
+      "meaning": "Đối tượng là người sử dụng trái phép chất ma túy và nằm trong độ tuổi từ 12 đến dưới 18 tuổi, thuộc diện xem xét đưa vào cơ sở cai nghiện bắt buộc.",
       "attrs": [
-        "Biên bản vi phạm",
-        "Bản tóm tắt lý lịch",
-        "Tài liệu chứng minh tình trạng nghiện ma túy",
-        "Bản tường trình của người nghiện hoặc người đại diện hợp pháp",
-        "Ý kiến của cha, mẹ, người giám hộ hoặc người đại diện hợp pháp"
+        "Độ tuổi: từ đủ 12 tuổi đến dưới 18 tuổi",
+        "Tình trạng: nghiện ma túy"
+      ],
+      "keyphrases": [
+        "người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi",
+        "đối tượng là người từ đủ 12 tuổi đến dưới 18 tuổi thuộc diện đưa vào cơ sở cai nghiện bắt buộc"
+      ],
+      "similar": [
+        "người chưa thành niên nghiện ma túy"
+      ]
+    },
+    {
+      "name": "Cơ sở cai nghiện bắt buộc",
+      "meaning": "Cơ sở được nhà nước thành lập để thực hiện việc cai nghiện ma túy bắt buộc đối với các đối tượng nghiện ma túy theo quy định của pháp luật.",
+      "attrs": [
+        "Hình thức: bắt buộc",
+        "Mục đích: cai nghiện ma túy"
+      ],
+      "keyphrases": [
+        "cơ sở cai nghiện bắt buộc"
+      ],
+      "similar": [
+        "trung tâm cai nghiện bắt buộc"
+      ]
+    },
+    {
+      "name": "Hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc",
+      "meaning": "Tập hợp các tài liệu, chứng cứ chứng minh tình trạng nghiện ma túy và các thông tin liên quan đến người nghiện ma túy, được lập theo quy định để đề nghị cơ quan có thẩm quyền xem xét, quyết định đưa người đó vào cơ sở cai nghiện bắt buộc.",
+      "attrs": [
+        "Nội dung: biên bản vi phạm, lý lịch, tài liệu chứng minh tình trạng nghiện, bản tường trình, ý kiến của người đại diện",
+        "Mục đích: đề nghị đưa vào cơ sở cai nghiện bắt buộc"
       ],
       "keyphrases": [
         "hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc",
@@ -4340,38 +4424,7 @@
         "ý kiến của cha, mẹ, người giám hộ"
       ],
       "similar": [
-        "hồ sơ đề nghị",
-        "hồ sơ"
-      ]
-    },
-    {
-      "name": "Người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi",
-      "meaning": "Đối tượng là người có hành vi sử dụng trái phép chất ma túy và bị nghiện, nằm trong độ tuổi từ 12 đến dưới 18 tuổi, thuộc diện xem xét đưa vào cơ sở cai nghiện bắt buộc.",
-      "attrs": [
-        "Độ tuổi: từ đủ 12 tuổi đến dưới 18 tuổi",
-        "Tình trạng: nghiện ma túy"
-      ],
-      "keyphrases": [
-        "người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi",
-        "người nghiện ma túy"
-      ],
-      "similar": [
-        "trẻ em nghiện ma túy",
-        "người chưa thành niên nghiện ma túy"
-      ]
-    },
-    {
-      "name": "Cơ sở cai nghiện bắt buộc",
-      "meaning": "Cơ sở do nhà nước thành lập để thực hiện việc cai nghiện ma túy bắt buộc đối với các đối tượng nghiện ma túy theo quyết định của Tòa án.",
-      "attrs": [
-        "Tính chất: bắt buộc",
-        "Mục đích: cai nghiện ma túy"
-      ],
-      "keyphrases": [
-        "cơ sở cai nghiện bắt buộc"
-      ],
-      "similar": [
-        "trung tâm cai nghiện bắt buộc"
+        "hồ sơ đề nghị"
       ]
     },
     {
@@ -4388,7 +4441,7 @@
     },
     {
       "name": "Công an cấp huyện/tỉnh",
-      "meaning": "Cơ quan công an cấp huyện hoặc cấp tỉnh, có trách nhiệm xác minh, thu thập tài liệu và lập hồ sơ đề nghị đưa người nghiện ma túy vào cơ sở cai nghiện bắt buộc trong quá trình điều tra, thụ lý vụ việc.",
+      "meaning": "Cơ quan công an cấp huyện hoặc cấp tỉnh, có trách nhiệm xác minh, thu thập tài liệu và lập hồ sơ đề nghị đưa người nghiện ma túy vào cơ sở cai nghiện bắt buộc trong quá trình điều tra, thụ lý các vụ việc vi phạm pháp luật.",
       "attrs": [
         "Cấp hành chính: cấp huyện, cấp tỉnh",
         "Trách nhiệm: xác minh, thu thập tài liệu, lập hồ sơ đề nghị"
@@ -4401,11 +4454,10 @@
     },
     {
       "name": "Người đại diện hợp pháp",
-      "meaning": "Người được pháp luật công nhận có quyền đại diện cho người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi, bao gồm cha, mẹ, người giám hộ.",
+      "meaning": "Người được pháp luật công nhận có quyền đại diện cho người nghiện ma túy (ví dụ: cha mẹ, người giám hộ) để thực hiện các quyền và nghĩa vụ liên quan đến việc lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc.",
       "attrs": [
-        "Cha",
-        "Mẹ",
-        "Người giám hộ"
+        "Quyền: đại diện cho người nghiện ma túy",
+        "Ví dụ: cha, mẹ, người giám hộ"
       ],
       "keyphrases": [
         "người đại diện hợp pháp",
@@ -4414,23 +4466,23 @@
       "similar": []
     },
     {
-      "name": "Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp huyện",
-      "meaning": "Người đứng đầu Phòng Lao động - Thương binh và Xã hội cấp huyện, có trách nhiệm xem xét hồ sơ và quyết định chuyển hồ sơ đề nghị Tòa án nhân dân cấp huyện quyết định đưa vào cơ sở cai nghiện bắt buộc.",
+      "name": "Phòng Lao động - Thương binh và Xã hội cấp huyện",
+      "meaning": "Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp huyện, có trách nhiệm tiếp nhận, xem xét hồ sơ đề nghị và chuyển hồ sơ cho Tòa án nhân dân cấp huyện để quyết định đưa người nghiện ma túy vào cơ sở cai nghiện bắt buộc.",
       "attrs": [
         "Cấp hành chính: cấp huyện",
-        "Trách nhiệm: xem xét hồ sơ, chuyển hồ sơ đề nghị"
+        "Trách nhiệm: tiếp nhận, xem xét, chuyển hồ sơ"
       ],
       "keyphrases": [
-        "Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp huyện"
+        "Phòng Lao động - Thương binh và Xã hội cấp huyện"
       ],
       "similar": []
     },
     {
       "name": "Tòa án nhân dân cấp huyện",
-      "meaning": "Cơ quan xét xử có thẩm quyền ra quyết định đưa người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi vào cơ sở cai nghiện bắt buộc.",
+      "meaning": "Cơ quan xét xử có thẩm quyền quyết định việc đưa người nghiện ma túy vào cơ sở cai nghiện bắt buộc.",
       "attrs": [
         "Cấp xét xử: cấp huyện",
-        "Thẩm quyền: ra quyết định đưa vào cơ sở cai nghiện bắt buộc"
+        "Thẩm quyền: quyết định đưa vào cơ sở cai nghiện bắt buộc"
       ],
       "keyphrases": [
         "Tòa án nhân dân cấp huyện"
@@ -4799,39 +4851,39 @@
       "name": "Cai nghiện ma túy",
       "meaning": "Biện pháp do Nhà nước áp dụng để giúp người nghiện ma túy từ bỏ việc sử dụng ma túy.",
       "attrs": [
-        "Tính chất: Biện pháp của Nhà nước",
-        "Đối tượng: Người nghiện ma túy",
-        "Mục đích: Từ bỏ việc sử dụng ma túy"
+        "Biện pháp",
+        "Áp dụng cho người nghiện ma túy"
       ],
       "keyphrases": [
         "cai nghiện ma túy",
         "biện pháp cai nghiện thích hợp"
       ],
       "similar": [
-        "điều trị nghiện ma túy",
-        "chữa trị nghiện ma túy"
+        "chữa trị nghiện ma túy",
+        "điều trị nghiện ma túy"
       ]
     },
     {
       "name": "Người nghiện ma túy",
-      "meaning": "Người sử dụng chất ma túy và bị lệ thuộc vào chất ma túy đó.",
+      "meaning": "Người sử dụng chất ma túy và bị lệ thuộc vào chất đó.",
       "attrs": [
-        "Hành vi: Sử dụng chất ma túy",
-        "Trạng thái: Lệ thuộc vào chất ma túy"
+        "Sử dụng ma túy",
+        "Lệ thuộc ma túy"
       ],
       "keyphrases": [
         "người nghiện ma túy"
       ],
       "similar": [
-        "con nghiện"
+        "con nghiện",
+        "người sử dụng ma túy trái phép"
       ]
     },
     {
       "name": "Người bị tạm giam",
-      "meaning": "Người đang bị áp dụng biện pháp tạm giam theo quy định của pháp luật tố tụng hình sự.",
+      "meaning": "Người đang bị giam giữ trong quá trình điều tra, truy tố, xét xử.",
       "attrs": [
-        "Tình trạng pháp lý: Bị tạm giam",
-        "Cơ sở pháp lý: Pháp luật tố tụng hình sự"
+        "Bị giam giữ",
+        "Trong quá trình tố tụng"
       ],
       "keyphrases": [
         "người bị tạm giam"
@@ -4843,48 +4895,53 @@
     },
     {
       "name": "Phạm nhân",
-      "meaning": "Người đã bị tòa án kết tội và đang chấp hành hình phạt tù tại trại giam.",
+      "meaning": "Người đã bị tòa án kết tội và đang chấp hành hình phạt tù.",
       "attrs": [
-        "Tình trạng pháp lý: Đã bị kết tội",
-        "Hành vi: Chấp hành hình phạt tù"
+        "Bị kết tội",
+        "Chấp hành hình phạt tù"
       ],
       "keyphrases": [
         "phạm nhân"
       ],
       "similar": [
-        "tù nhân"
+        "tù nhân",
+        "người đang thi hành án phạt tù"
       ]
     },
     {
       "name": "Trại viên cơ sở giáo dục bắt buộc",
       "meaning": "Người đang chấp hành quyết định đưa vào cơ sở giáo dục bắt buộc.",
       "attrs": [
-        "Tình trạng pháp lý: Chấp hành quyết định đưa vào cơ sở giáo dục bắt buộc",
-        "Địa điểm: Cơ sở giáo dục bắt buộc"
+        "Chấp hành quyết định",
+        "Cơ sở giáo dục bắt buộc"
       ],
       "keyphrases": [
         "trại viên cơ sở giáo dục bắt buộc"
       ],
-      "similar": []
+      "similar": [
+        "người đang chấp hành tại cơ sở giáo dục bắt buộc"
+      ]
     },
     {
       "name": "Học sinh trường giáo dưỡng",
       "meaning": "Người đang chấp hành quyết định đưa vào trường giáo dưỡng.",
       "attrs": [
-        "Tình trạng pháp lý: Chấp hành quyết định đưa vào trường giáo dưỡng",
-        "Địa điểm: Trường giáo dưỡng"
+        "Chấp hành quyết định",
+        "Trường giáo dưỡng"
       ],
       "keyphrases": [
         "học sinh trường giáo dưỡng"
       ],
-      "similar": []
+      "similar": [
+        "người đang chấp hành tại trường giáo dưỡng"
+      ]
     },
     {
       "name": "Giám thị trại giam",
-      "meaning": "Người đứng đầu hoặc người có thẩm quyền quản lý trại giam.",
+      "meaning": "Người đứng đầu, chịu trách nhiệm quản lý trại giam.",
       "attrs": [
-        "Chức vụ: Người đứng đầu/quản lý",
-        "Địa điểm: Trại giam"
+        "Người đứng đầu",
+        "Quản lý trại giam"
       ],
       "keyphrases": [
         "giám thị trại giam"
@@ -4893,10 +4950,10 @@
     },
     {
       "name": "Giám thị trại tạm giam",
-      "meaning": "Người đứng đầu hoặc người có thẩm quyền quản lý trại tạm giam.",
+      "meaning": "Người đứng đầu, chịu trách nhiệm quản lý trại tạm giam.",
       "attrs": [
-        "Chức vụ: Người đứng đầu/quản lý",
-        "Địa điểm: Trại tạm giam"
+        "Người đứng đầu",
+        "Quản lý trại tạm giam"
       ],
       "keyphrases": [
         "giám thị trại tạm giam"
@@ -4905,10 +4962,10 @@
     },
     {
       "name": "Trưởng nhà tạm giữ",
-      "meaning": "Người đứng đầu hoặc người có thẩm quyền quản lý nhà tạm giữ.",
+      "meaning": "Người đứng đầu, chịu trách nhiệm quản lý nhà tạm giữ.",
       "attrs": [
-        "Chức vụ: Người đứng đầu/quản lý",
-        "Địa điểm: Nhà tạm giữ"
+        "Người đứng đầu",
+        "Quản lý nhà tạm giữ"
       ],
       "keyphrases": [
         "trưởng nhà tạm giữ"
@@ -4917,10 +4974,10 @@
     },
     {
       "name": "Giám đốc cơ sở giáo dục bắt buộc",
-      "meaning": "Người đứng đầu hoặc người có thẩm quyền quản lý cơ sở giáo dục bắt buộc.",
+      "meaning": "Người đứng đầu, chịu trách nhiệm quản lý cơ sở giáo dục bắt buộc.",
       "attrs": [
-        "Chức vụ: Người đứng đầu/quản lý",
-        "Địa điểm: Cơ sở giáo dục bắt buộc"
+        "Người đứng đầu",
+        "Quản lý cơ sở giáo dục bắt buộc"
       ],
       "keyphrases": [
         "giám đốc cơ sở giáo dục bắt buộc"
@@ -4929,10 +4986,10 @@
     },
     {
       "name": "Hiệu trưởng trường giáo dưỡng",
-      "meaning": "Người đứng đầu hoặc người có thẩm quyền quản lý trường giáo dưỡng.",
+      "meaning": "Người đứng đầu, chịu trách nhiệm quản lý trường giáo dưỡng.",
       "attrs": [
-        "Chức vụ: Người đứng đầu/quản lý",
-        "Địa điểm: Trường giáo dưỡng"
+        "Người đứng đầu",
+        "Quản lý trường giáo dưỡng"
       ],
       "keyphrases": [
         "hiệu trưởng trường giáo dưỡng"
@@ -4941,10 +4998,10 @@
     },
     {
       "name": "Cơ sở y tế tại địa phương",
-      "meaning": "Các cơ sở khám chữa bệnh, chăm sóc sức khỏe nằm trên địa bàn nơi có các cơ sở giam giữ, giáo dục.",
+      "meaning": "Các cơ sở khám chữa bệnh thuộc địa phương nơi các đối tượng đang bị giam giữ hoặc quản lý.",
       "attrs": [
-        "Loại hình: Cơ sở khám chữa bệnh",
-        "Vị trí: Địa phương"
+        "Cơ sở khám chữa bệnh",
+        "Thuộc địa phương"
       ],
       "keyphrases": [
         "cơ sở y tế tại địa phương"
@@ -4967,16 +5024,17 @@
       "attrs": [
         "Áp dụng cho người từ đủ 14 tuổi đến dưới 18 tuổi",
         "Đang cai nghiện ma túy bắt buộc",
-        "Bị phát hiện thực hiện hành vi phạm tội",
-        "Bị Tòa án xử phạt tù nhưng không được hưởng án treo"
+        "Phạm tội trước hoặc trong thời gian chấp hành quyết định",
+        "Bị Tòa án xử phạt tù",
+        "Không được hưởng án treo"
       ],
       "keyphrases": [
         "miễn chấp hành thời gian còn lại",
         "quyết định đưa vào cơ sở cai nghiện bắt buộc"
       ],
       "similar": [
-        "chấm dứt thi hành quyết định",
-        "không tiếp tục chấp hành"
+        "chấm dứt trước thời hạn",
+        "không tiếp tục thi hành"
       ]
     },
     {
@@ -4991,8 +5049,7 @@
         "cai nghiện ma túy bắt buộc"
       ],
       "similar": [
-        "người chưa thành niên cai nghiện bắt buộc",
-        "trẻ vị thành niên cai nghiện bắt buộc"
+        "người chưa thành niên cai nghiện bắt buộc"
       ]
     },
     {
@@ -5000,35 +5057,19 @@
       "meaning": "Hành vi vi phạm pháp luật hình sự, được quy định trong Bộ luật Hình sự.",
       "attrs": [
         "Vi phạm pháp luật hình sự",
-        "Bị phát hiện trước hoặc trong thời gian chấp hành quyết định cai nghiện"
+        "Thực hiện trước hoặc trong thời gian chấp hành quyết định cai nghiện"
       ],
       "keyphrases": [
         "hành vi phạm tội"
       ],
       "similar": [
-        "tội phạm",
-        "vi phạm pháp luật hình sự"
-      ]
-    },
-    {
-      "name": "Xử phạt tù nhưng không được hưởng án treo",
-      "meaning": "Hình phạt tù giam mà Tòa án áp dụng đối với người phạm tội, và không cho hưởng hình phạt án treo.",
-      "attrs": [
-        "Hình phạt: tù giam",
-        "Không được hưởng án treo"
-      ],
-      "keyphrases": [
-        "xử phạt tù",
-        "không được hưởng án treo"
-      ],
-      "similar": [
-        "phải chấp hành hình phạt tù",
-        "không được hưởng sự khoan hồng của pháp luật"
+        "phạm tội",
+        "vi phạm pháp luật"
       ]
     },
     {
       "name": "Quyết định đưa vào cơ sở cai nghiện bắt buộc",
-      "meaning": "Văn bản pháp lý của cơ quan nhà nước có thẩm quyền, yêu cầu một người phải thực hiện cai nghiện ma túy tại một cơ sở cai nghiện được chỉ định.",
+      "meaning": "Văn bản pháp lý do cơ quan có thẩm quyền ban hành, yêu cầu một người phải thực hiện cai nghiện ma túy tại một cơ sở cai nghiện được chỉ định.",
       "attrs": [
         "Do cơ quan có thẩm quyền ban hành",
         "Yêu cầu cai nghiện ma túy",
@@ -5038,8 +5079,22 @@
         "quyết định đưa vào cơ sở cai nghiện bắt buộc"
       ],
       "similar": [
-        "lệnh đưa vào trung tâm cai nghiện",
         "quyết định cai nghiện bắt buộc"
+      ]
+    },
+    {
+      "name": "Xử phạt tù nhưng không được hưởng án treo",
+      "meaning": "Hình phạt tù giam được áp dụng bởi Tòa án, và người phạm tội không đáp ứng các điều kiện để được hưởng án treo.",
+      "attrs": [
+        "Hình phạt tù giam",
+        "Không đủ điều kiện hưởng án treo"
+      ],
+      "keyphrases": [
+        "xử phạt tù",
+        "không được hưởng án treo"
+      ],
+      "similar": [
+        "phải chấp hành hình phạt tù"
       ]
     }
   ]
@@ -5051,12 +5106,12 @@
   "concepts": [
     {
       "name": "Quản lý sau cai nghiện ma túy",
-      "meaning": "Hoạt động quản lý, theo dõi, hỗ trợ người đã hoàn thành cai nghiện ma túy nhằm phòng, chống tái nghiện và hòa nhập cộng đồng.",
+      "meaning": "Hoạt động quản lý, tư vấn, hỗ trợ và theo dõi người đã hoàn thành cai nghiện ma túy hoặc chấp hành xong quyết định đưa vào cơ sở cai nghiện bắt buộc, nhằm phòng, chống tái nghiện và hòa nhập cộng đồng.",
       "attrs": [
         "Thời hạn quản lý (1 năm hoặc 2 năm)",
-        "Nội dung quản lý (lập danh sách, tư vấn, theo dõi)",
-        "Hỗ trợ xã hội (học văn hóa, học nghề, vay vốn, tìm việc làm)",
-        "Chủ thể thực hiện (Chủ tịch UBND cấp xã)"
+        "Đối tượng quản lý",
+        "Nội dung quản lý",
+        "Hỗ trợ xã hội"
       ],
       "keyphrases": [
         "quản lý sau cai nghiện ma túy",
@@ -5064,13 +5119,13 @@
         "hỗ trợ xã hội trong thời gian quản lý sau cai nghiện ma túy"
       ],
       "similar": [
-        "quản lý sau điều trị nghiện",
-        "theo dõi sau cai nghiện"
+        "quản lý sau cai",
+        "giám sát sau cai nghiện"
       ]
     },
     {
-      "name": "Người thuộc diện quản lý sau cai nghiện",
-      "meaning": "Các đối tượng phải chịu sự quản lý sau khi hoàn thành quá trình cai nghiện ma túy.",
+      "name": "Đối tượng quản lý sau cai nghiện ma túy",
+      "meaning": "Những người thuộc diện phải chịu sự quản lý sau khi hoàn thành quá trình cai nghiện ma túy hoặc chấp hành quyết định đưa vào cơ sở cai nghiện bắt buộc.",
       "attrs": [
         "Người đã hoàn thành cai nghiện ma túy tự nguyện",
         "Người đã hoàn thành điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế",
@@ -5078,19 +5133,33 @@
         "Người đã chấp hành xong quyết định áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc"
       ],
       "keyphrases": [
-        "người đã hoàn thành cai nghiện ma túy tự nguyện",
+        "Người đã hoàn thành cai nghiện ma túy tự nguyện",
         "người đã hoàn thành điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế",
         "người từ đủ 12 tuổi đến dưới 18 tuổi đã chấp hành xong quyết định đưa vào cơ sở cai nghiện bắt buộc",
         "người đã chấp hành xong quyết định áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc"
       ],
       "similar": [
-        "đối tượng quản lý sau cai nghiện",
         "người bị quản lý sau cai nghiện ma túy"
       ]
     },
     {
-      "name": "Hỗ trợ xã hội sau cai nghiện",
-      "meaning": "Các biện pháp hỗ trợ về giáo dục, nghề nghiệp, tài chính và xã hội nhằm giúp người sau cai nghiện tái hòa nhập cộng đồng.",
+      "name": "Thời hạn quản lý sau cai nghiện ma túy",
+      "meaning": "Khoảng thời gian mà đối tượng phải chịu sự quản lý sau khi hoàn thành cai nghiện hoặc chấp hành quyết định đưa vào cơ sở cai nghiện bắt buộc.",
+      "attrs": [
+        "1 năm",
+        "2 năm"
+      ],
+      "keyphrases": [
+        "thời hạn 01 năm",
+        "thời hạn 02 năm"
+      ],
+      "similar": [
+        "thời gian quản lý sau cai"
+      ]
+    },
+    {
+      "name": "Hỗ trợ xã hội sau cai nghiện ma túy",
+      "meaning": "Các biện pháp hỗ trợ về giáo dục, nghề nghiệp, tài chính và hòa nhập cộng đồng dành cho người đang trong thời gian quản lý sau cai nghiện ma túy.",
       "attrs": [
         "Hỗ trợ học văn hóa",
         "Hỗ trợ học nghề",
@@ -5107,8 +5176,7 @@
         "tham gia các hoạt động xã hội"
       ],
       "similar": [
-        "trợ giúp tái hòa nhập cộng đồng",
-        "hỗ trợ tái hòa nhập xã hội"
+        "trợ giúp tái hòa nhập cộng đồng"
       ]
     },
     {
@@ -5124,13 +5192,11 @@
       "name": "Ủy ban nhân dân cấp xã",
       "meaning": "Cơ quan hành chính nhà nước ở cấp xã, có thẩm quyền ra quyết định và tổ chức quản lý, hỗ trợ xã hội sau cai nghiện ma túy.",
       "attrs": [
-        "Cấp xã",
-        "Ra quyết định quản lý sau cai nghiện",
-        "Tổ chức quản lý sau cai nghiện",
-        "Tổ chức hỗ trợ xã hội sau cai nghiện"
+        "Chủ tịch Ủy ban nhân dân cấp xã"
       ],
       "keyphrases": [
-        "Ủy ban nhân dân cấp xã"
+        "Ủy ban nhân dân cấp xã",
+        "Chủ tịch Ủy ban nhân dân cấp xã"
       ],
       "similar": []
     }
@@ -5145,53 +5211,82 @@
       "name": "Biện pháp can thiệp giảm tác hại",
       "meaning": "Các hành động nhằm giảm thiểu những tác động tiêu cực do việc sử dụng trái phép chất ma túy gây ra cho cá nhân người sử dụng, gia đình và xã hội.",
       "attrs": [
-        "Mục tiêu: giảm tác hại",
-        "Đối tượng: người sử dụng trái phép chất ma túy, người nghiện ma túy",
-        "Phạm vi: bản thân, gia đình, cộng đồng"
+        "Giảm tác hại cho bản thân",
+        "Giảm tác hại cho gia đình",
+        "Giảm tác hại cho cộng đồng",
+        "Liên quan đến hành vi sử dụng trái phép chất ma túy"
       ],
       "keyphrases": [
-        "biện pháp can thiệp giảm tác hại",
+        "Biện pháp can thiệp giảm tác hại",
         "giảm tác hại liên quan đến hành vi sử dụng trái phép chất ma túy",
-        "người sử dụng trái phép chất ma túy",
-        "người nghiện ma túy",
-        "bản thân",
-        "gia đình",
-        "cộng đồng"
+        "gây ra cho bản thân, gia đình và cộng đồng"
       ],
       "similar": [
-        "giảm thiểu tác động tiêu cực",
-        "hạn chế tác hại"
+        "Can thiệp giảm tác hại",
+        "Giảm thiểu tác động tiêu cực của sử dụng ma túy"
+      ]
+    },
+    {
+      "name": "Người sử dụng trái phép chất ma túy",
+      "meaning": "Cá nhân thực hiện hành vi sử dụng các chất ma túy mà không được pháp luật cho phép.",
+      "attrs": [
+        "Sử dụng chất ma túy",
+        "Không được pháp luật cho phép"
+      ],
+      "keyphrases": [
+        "người sử dụng trái phép chất ma túy"
+      ],
+      "similar": [
+        "Người dùng ma túy trái phép",
+        "Người sử dụng ma túy bất hợp pháp"
+      ]
+    },
+    {
+      "name": "Người nghiện ma túy",
+      "meaning": "Cá nhân bị lệ thuộc vào chất ma túy, có nhu cầu sử dụng ma túy liên tục và không thể kiểm soát được hành vi sử dụng.",
+      "attrs": [
+        "Lệ thuộc vào chất ma túy",
+        "Nhu cầu sử dụng liên tục",
+        "Không kiểm soát được hành vi"
+      ],
+      "keyphrases": [
+        "người nghiện ma túy"
+      ],
+      "similar": [
+        "Người lệ thuộc ma túy",
+        "Con nghiện"
       ]
     },
     {
       "name": "Điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế",
-      "meaning": "Một biện pháp can thiệp giảm tác hại cụ thể, sử dụng thuốc để thay thế các chất dạng thuốc phiện mà người nghiện đang sử dụng.",
+      "meaning": "Một biện pháp can thiệp giảm tác hại, sử dụng các loại thuốc để thay thế các chất dạng thuốc phiện mà người nghiện đang sử dụng, nhằm giảm các triệu chứng cai nghiện và nguy cơ tái nghiện.",
       "attrs": [
-        "Loại biện pháp: điều trị nghiện",
-        "Đối tượng: người nghiện các chất dạng thuốc phiện",
-        "Phương pháp: sử dụng thuốc thay thế"
+        "Biện pháp can thiệp giảm tác hại",
+        "Sử dụng thuốc thay thế",
+        "Thay thế chất dạng thuốc phiện"
       ],
       "keyphrases": [
-        "điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế"
+        "Điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế"
       ],
       "similar": [
-        "điều trị thay thế",
-        "sử dụng thuốc thay thế"
+        "Điều trị thay thế nghiện chất dạng thuốc phiện",
+        "Sử dụng thuốc thay thế trong điều trị nghiện"
       ]
     },
     {
-      "name": "Các biện pháp khác (theo quy định của Chính phủ)",
-      "meaning": "Các biện pháp can thiệp giảm tác hại khác, ngoài điều trị nghiện bằng thuốc thay thế, được quy định cụ thể bởi Chính phủ.",
+      "name": "Quy định của Chính phủ",
+      "meaning": "Các văn bản pháp luật do Chính phủ ban hành, quy định chi tiết về các biện pháp can thiệp giảm tác hại khác đối với người sử dụng trái phép chất ma túy và người nghiện ma túy.",
       "attrs": [
-        "Loại biện pháp: can thiệp giảm tác hại",
-        "Nguồn quy định: Chính phủ"
+        "Văn bản pháp luật",
+        "Do Chính phủ ban hành",
+        "Quy định chi tiết"
       ],
       "keyphrases": [
-        "các biện pháp khác",
         "theo quy định của Chính phủ"
       ],
       "similar": [
-        "biện pháp do Chính phủ quy định"
+        "Văn bản quy phạm pháp luật của Chính phủ",
+        "Quy định pháp luật do Chính phủ ban hành"
       ]
     }
   ]
@@ -5306,81 +5401,152 @@
   "text": "Điều 43. Lập danh sách người nghiện ma túy, người bị quản lý sau cai nghiện ma túy\n1. Công an cấp xã giúp Ủy ban nhân dân cùng cấp lập danh sách người nghiện ma túy và người bị quản lý sau cai nghiện ma túy cư trú tại địa phương.\n2. Khi người nghiện ma túy, người bị quản lý sau cai nghiện ma túy thay đổi nơi cư trú thì công an cấp xã nơi chuyển đi có trách nhiệm thông báo cho công an cấp xã nơi chuyển đến trong thời hạn 05 ngày làm việc kể từ ngày người đó chuyển khỏi địa phương để đưa vào danh sách và phối hợp quản lý.\n3. Công an cấp xã giúp Ủy ban nhân dân cùng cấp đưa ra khỏi danh sách người nghiện ma túy, người bị quản lý sau cai nghiện ma túy đối với các trường hợp sau đây:\na) Trong thời hạn quản lý sau cai nghiện ma túy quy định tại khoản 1 và khoản 2",
   "concepts": [
     {
-      "name": "Danh sách người nghiện ma túy",
-      "meaning": "Danh sách bao gồm những cá nhân được xác định là nghiện ma túy và cư trú tại một địa phương cụ thể.",
+      "name": "Người nghiện ma túy",
+      "meaning": "Người sử dụng chất ma túy và bị lệ thuộc vào chất đó, cần được đưa vào danh sách để quản lý và hỗ trợ cai nghiện.",
       "attrs": [
-        "được lập bởi Công an cấp xã giúp Ủy ban nhân dân cùng cấp",
-        "chứa thông tin người nghiện ma túy cư trú tại địa phương"
+        "Sử dụng ma túy",
+        "Lệ thuộc ma túy",
+        "Cư trú tại địa phương"
+      ],
+      "keyphrases": [
+        "người nghiện ma túy"
+      ],
+      "similar": [
+        "người sử dụng ma túy",
+        "đối tượng nghiện ma túy"
+      ]
+    },
+    {
+      "name": "Người bị quản lý sau cai nghiện ma túy",
+      "meaning": "Người đã trải qua quá trình cai nghiện ma túy và đang trong giai đoạn được quản lý, giám sát để đảm bảo không tái nghiện.",
+      "attrs": [
+        "Đã cai nghiện ma túy",
+        "Đang trong thời gian quản lý",
+        "Cư trú tại địa phương"
+      ],
+      "keyphrases": [
+        "người bị quản lý sau cai nghiện ma túy"
+      ],
+      "similar": [
+        "đối tượng sau cai nghiện",
+        "người sau cai nghiện"
+      ]
+    },
+    {
+      "name": "Danh sách người nghiện ma túy, người bị quản lý sau cai nghiện ma túy",
+      "meaning": "Danh sách chính thức ghi nhận thông tin về người nghiện ma túy và người bị quản lý sau cai nghiện ma túy tại một địa phương, phục vụ công tác quản lý, hỗ trợ và phòng ngừa tái nghiện.",
+      "attrs": [
+        "Thông tin người nghiện ma túy",
+        "Thông tin người bị quản lý sau cai nghiện",
+        "Địa phương cư trú",
+        "Mục đích quản lý"
       ],
       "keyphrases": [
         "danh sách người nghiện ma túy",
-        "người nghiện ma túy"
+        "danh sách người bị quản lý sau cai nghiện ma túy"
       ],
-      "similar": []
-    },
-    {
-      "name": "Danh sách người bị quản lý sau cai nghiện ma túy",
-      "meaning": "Danh sách bao gồm những cá nhân đang trong giai đoạn quản lý sau khi cai nghiện ma túy và cư trú tại một địa phương cụ thể.",
-      "attrs": [
-        "được lập bởi Công an cấp xã giúp Ủy ban nhân dân cùng cấp",
-        "chứa thông tin người bị quản lý sau cai nghiện ma túy cư trú tại địa phương"
-      ],
-      "keyphrases": [
-        "danh sách người bị quản lý sau cai nghiện ma túy",
-        "người bị quản lý sau cai nghiện ma túy"
-      ],
-      "similar": []
+      "similar": [
+        "hồ sơ người nghiện",
+        "danh bạ người sau cai nghiện"
+      ]
     },
     {
       "name": "Công an cấp xã",
-      "meaning": "Cơ quan công an tại cấp hành chính xã, có trách nhiệm hỗ trợ Ủy ban nhân dân cùng cấp trong việc quản lý người nghiện ma túy và người bị quản lý sau cai nghiện.",
+      "meaning": "Lực lượng công an hoạt động tại cấp xã, có trách nhiệm hỗ trợ Ủy ban nhân dân cùng cấp trong việc lập danh sách và quản lý người nghiện ma túy, người bị quản lý sau cai nghiện ma túy.",
       "attrs": [
-        "giúp Ủy ban nhân dân cùng cấp lập danh sách",
-        "thông báo khi có thay đổi nơi cư trú",
-        "phối hợp quản lý"
+        "Cấp hành chính: xã",
+        "Chức năng: hỗ trợ UBND",
+        "Nhiệm vụ: lập danh sách, quản lý người nghiện"
       ],
       "keyphrases": [
-        "Công an cấp xã"
+        "công an cấp xã"
       ],
-      "similar": []
+      "similar": [
+        "công an xã",
+        "công an phường, thị trấn"
+      ]
     },
     {
       "name": "Ủy ban nhân dân cấp xã",
-      "meaning": "Cơ quan hành chính nhà nước ở cấp xã, có trách nhiệm quản lý người nghiện ma túy và người bị quản lý sau cai nghiện ma túy trên địa bàn.",
+      "meaning": "Cơ quan hành chính nhà nước ở cấp xã, có trách nhiệm lập danh sách và quản lý người nghiện ma túy, người bị quản lý sau cai nghiện ma túy trên địa bàn.",
       "attrs": [
-        "được Công an cấp xã giúp lập danh sách",
-        "đưa ra khỏi danh sách"
+        "Cấp hành chính: xã",
+        "Chức năng: quản lý hành chính",
+        "Nhiệm vụ: lập danh sách, quản lý người nghiện"
       ],
       "keyphrases": [
         "Ủy ban nhân dân cùng cấp"
       ],
-      "similar": []
+      "similar": [
+        "UBND xã",
+        "UBND phường, thị trấn"
+      ]
     },
     {
       "name": "Thay đổi nơi cư trú",
-      "meaning": "Việc người nghiện ma túy hoặc người bị quản lý sau cai nghiện ma túy chuyển từ địa phương này sang địa phương khác.",
+      "meaning": "Việc người nghiện ma túy hoặc người bị quản lý sau cai nghiện ma túy chuyển đến một địa phương khác.",
       "attrs": [
-        "thông báo cho công an cấp xã nơi chuyển đến",
-        "thời hạn thông báo 05 ngày làm việc"
+        "Chuyển địa điểm sinh sống",
+        "Đối tượng: người nghiện hoặc người sau cai",
+        "Ảnh hưởng đến quản lý"
       ],
       "keyphrases": [
         "thay đổi nơi cư trú",
         "chuyển khỏi địa phương",
         "nơi chuyển đến"
       ],
-      "similar": []
+      "similar": [
+        "di chuyển chỗ ở",
+        "thay đổi địa chỉ"
+      ]
     },
     {
-      "name": "Quản lý sau cai nghiện ma túy",
-      "meaning": "Giai đoạn tiếp theo sau quá trình cai nghiện ma túy, trong đó người đã cai nghiện được theo dõi và hỗ trợ để duy trì trạng thái không sử dụng ma túy.",
+      "name": "Thời hạn thông báo",
+      "meaning": "Khoảng thời gian quy định mà công an cấp xã nơi người nghiện hoặc người bị quản lý sau cai nghiện chuyển đi phải thông báo cho công an cấp xã nơi chuyển đến.",
       "attrs": [
-        "thời hạn quản lý",
-        "đưa ra khỏi danh sách khi hết thời hạn"
+        "Thời gian: 05 ngày làm việc",
+        "Bên thông báo: công an cấp xã nơi chuyển đi",
+        "Bên nhận thông báo: công an cấp xã nơi chuyển đến"
       ],
       "keyphrases": [
-        "quản lý sau cai nghiện ma túy"
+        "thời hạn 05 ngày làm việc"
       ],
-      "similar": []
+      "similar": [
+        "thời gian thông báo",
+        "kỳ hạn thông báo"
+      ]
+    },
+    {
+      "name": "Đưa ra khỏi danh sách",
+      "meaning": "Hành động loại bỏ tên của người nghiện ma túy hoặc người bị quản lý sau cai nghiện ma túy khỏi danh sách quản lý.",
+      "attrs": [
+        "Loại bỏ khỏi danh sách",
+        "Đối tượng: người nghiện hoặc người sau cai",
+        "Căn cứ theo quy định"
+      ],
+      "keyphrases": [
+        "đưa ra khỏi danh sách"
+      ],
+      "similar": [
+        "xóa tên khỏi danh sách",
+        "gạch tên khỏi danh sách"
+      ]
+    },
+    {
+      "name": "Thời hạn quản lý sau cai nghiện ma túy",
+      "meaning": "Khoảng thời gian mà người sau cai nghiện ma túy phải chịu sự quản lý, giám sát của cơ quan chức năng.",
+      "attrs": [
+        "Thời gian quản lý",
+        "Sau quá trình cai nghiện",
+        "Theo quy định pháp luật"
+      ],
+      "keyphrases": [
+        "thời hạn quản lý sau cai nghiện ma túy"
+      ],
+      "similar": [
+        "thời gian quản lý sau cai",
+        "giai đoạn quản lý sau cai"
+      ]
     }
   ]
 },
@@ -5663,39 +5829,37 @@
   "concepts": [
     {
       "name": "Quản lý nhà nước về phòng, chống ma túy",
-      "meaning": "Hoạt động quản lý của Nhà nước nhằm phòng ngừa, ngăn chặn và đấu tranh chống lại tệ nạn ma túy.",
+      "meaning": "Hoạt động quản lý của các cơ quan nhà nước nhằm phòng ngừa, ngăn chặn và đấu tranh chống lại tệ nạn ma túy.",
       "attrs": [
-        "Thống nhất quản lý",
-        "Phạm vi nhiệm vụ, quyền hạn",
-        "Thực hiện và phối hợp"
+        "thống nhất",
+        "đầu mối",
+        "phối hợp",
+        "tại địa phương"
       ],
       "keyphrases": [
         "quản lý nhà nước về phòng, chống ma túy"
       ],
       "similar": [
-        "Công tác phòng, chống ma túy",
-        "Hoạt động phòng, chống ma túy"
+        "hoạt động quản lý phòng, chống ma túy của nhà nước"
       ]
     },
     {
       "name": "Chính phủ",
-      "meaning": "Cơ quan hành chính nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam, thực hiện quyền hành pháp.",
+      "meaning": "Cơ quan hành chính nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
       "attrs": [
-        "Thống nhất quản lý nhà nước về phòng, chống ma túy"
+        "thống nhất quản lý nhà nước"
       ],
       "keyphrases": [
         "Chính phủ"
       ],
-      "similar": [
-        "Cơ quan hành chính nhà nước cao nhất"
-      ]
+      "similar": []
     },
     {
       "name": "Bộ Công an",
       "meaning": "Cơ quan của Chính phủ, thực hiện chức năng quản lý nhà nước về an ninh quốc gia, trật tự, an toàn xã hội.",
       "attrs": [
-        "Cơ quan đầu mối",
-        "Giúp Chính phủ thực hiện quản lý nhà nước về phòng, chống ma túy"
+        "cơ quan đầu mối",
+        "giúp Chính phủ thực hiện quản lý nhà nước"
       ],
       "keyphrases": [
         "Bộ Công an",
@@ -5707,11 +5871,12 @@
       "name": "Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ",
       "meaning": "Các cơ quan thuộc hệ thống hành chính nhà nước, có chức năng quản lý nhà nước theo ngành, lĩnh vực.",
       "attrs": [
-        "Phạm vi nhiệm vụ, quyền hạn",
-        "Thực hiện và phối hợp với cơ quan, tổ chức có liên quan trong phòng, chống ma túy"
+        "phạm vi nhiệm vụ, quyền hạn",
+        "trách nhiệm thực hiện",
+        "phối hợp"
       ],
       "keyphrases": [
-        "Bộ",
+        "Các Bộ",
         "cơ quan ngang Bộ",
         "cơ quan thuộc Chính phủ"
       ],
@@ -5721,14 +5886,26 @@
       "name": "Ủy ban nhân dân các cấp",
       "meaning": "Cơ quan hành chính nhà nước ở địa phương, chịu trách nhiệm quản lý nhà nước trên địa bàn.",
       "attrs": [
-        "Phạm vi nhiệm vụ, quyền hạn",
-        "Thực hiện quản lý nhà nước về phòng, chống ma túy tại địa phương"
+        "phạm vi nhiệm vụ, quyền hạn",
+        "thực hiện quản lý nhà nước tại địa phương"
       ],
       "keyphrases": [
         "Ủy ban nhân dân các cấp",
         "tại địa phương"
       ],
       "similar": []
+    },
+    {
+      "name": "Phòng, chống ma túy",
+      "meaning": "Các hoạt động nhằm ngăn chặn, phòng ngừa và đấu tranh chống lại các hành vi liên quan đến ma túy.",
+      "attrs": [],
+      "keyphrases": [
+        "phòng, chống ma túy"
+      ],
+      "similar": [
+        "đấu tranh với tệ nạn ma túy",
+        "ngăn chặn ma túy"
+      ]
     }
   ]
 },
@@ -5786,23 +5963,8 @@
       ]
     },
     {
-      "name": "Thông tin tội phạm về ma túy",
-      "meaning": "Các dữ liệu, tin tức liên quan đến các hành vi vi phạm pháp luật trong lĩnh vực ma túy.",
-      "attrs": [
-        "Liên quan đến tội phạm ma túy",
-        "Được tiếp nhận và xử lý"
-      ],
-      "keyphrases": [
-        "thông tin tội phạm về ma túy"
-      ],
-      "similar": [
-        "Tin tức về tội phạm ma túy",
-        "Dữ liệu về tội phạm ma túy"
-      ]
-    },
-    {
       "name": "Hoạt động hợp pháp liên quan đến ma túy",
-      "meaning": "Các hoạt động được pháp luật cho phép liên quan đến ma túy, ví dụ như sản xuất, kinh doanh, sử dụng trong y tế, nghiên cứu khoa học.",
+      "meaning": "Các hoạt động được pháp luật cho phép liên quan đến ma túy, ví dụ như sử dụng trong y tế, nghiên cứu khoa học.",
       "attrs": [
         "Được pháp luật cho phép",
         "Liên quan đến ma túy"
@@ -5811,48 +5973,57 @@
         "hoạt động hợp pháp liên quan đến ma túy"
       ],
       "similar": [
+        "Sử dụng ma túy hợp pháp",
         "Hoạt động được phép liên quan đến ma túy"
       ]
     },
     {
       "name": "Giám định chất ma túy và tiền chất",
-      "meaning": "Hoạt động xác định thành phần, hàm lượng của chất ma túy và tiền chất.",
+      "meaning": "Hoạt động xác định thành phần, hàm lượng và tính chất của chất ma túy và tiền chất.",
       "attrs": [
-        "Xác định thành phần, hàm lượng",
-        "Liên quan đến chất ma túy và tiền chất"
+        "Xác định thành phần",
+        "Xác định hàm lượng",
+        "Xác định tính chất",
+        "Chất ma túy",
+        "Tiền chất"
       ],
       "keyphrases": [
         "giám định chất ma túy và tiền chất"
       ],
       "similar": [
-        "Phân tích chất ma túy và tiền chất"
+        "Phân tích chất ma túy",
+        "Kiểm định tiền chất"
       ]
     },
     {
       "name": "Người sử dụng trái phép chất ma túy",
-      "meaning": "Người sử dụng chất ma túy mà không được phép của pháp luật.",
+      "meaning": "Người sử dụng chất ma túy mà không được pháp luật cho phép.",
       "attrs": [
         "Sử dụng chất ma túy",
-        "Không được phép của pháp luật"
+        "Không được pháp luật cho phép"
       ],
       "keyphrases": [
         "người sử dụng trái phép chất ma túy"
       ],
       "similar": [
-        "Người dùng ma túy trái phép"
+        "Người dùng ma túy trái phép",
+        "Người lạm dụng chất ma túy"
       ]
     },
     {
       "name": "Người nghiện ma túy",
-      "meaning": "Người bị lệ thuộc vào chất ma túy về mặt thể chất và/hoặc tinh thần.",
+      "meaning": "Người lệ thuộc vào chất ma túy về mặt thể chất và tinh thần.",
       "attrs": [
-        "Lệ thuộc vào chất ma túy"
+        "Lệ thuộc vào chất ma túy",
+        "Về mặt thể chất",
+        "Về mặt tinh thần"
       ],
       "keyphrases": [
         "người nghiện ma túy"
       ],
       "similar": [
-        "Con nghiện"
+        "Con nghiện",
+        "Người lệ thuộc ma túy"
       ]
     },
     {
@@ -5860,28 +6031,68 @@
       "meaning": "Người đã hoàn thành quá trình cai nghiện ma túy và đang chịu sự quản lý của cơ quan nhà nước.",
       "attrs": [
         "Đã cai nghiện ma túy",
-        "Đang bị quản lý"
+        "Chịu sự quản lý"
       ],
       "keyphrases": [
         "người bị quản lý sau cai nghiện ma túy"
       ],
       "similar": [
-        "Người sau cai nghiện"
+        "Người sau cai nghiện",
+        "Người được quản lý sau cai"
       ]
     },
     {
       "name": "Thống kê nhà nước về phòng, chống ma túy",
       "meaning": "Hoạt động thu thập, xử lý, phân tích và công bố thông tin thống kê về tình hình phòng, chống ma túy trên phạm vi cả nước.",
       "attrs": [
-        "Thu thập, xử lý, phân tích thông tin",
-        "Về phòng, chống ma túy",
-        "Trên phạm vi cả nước"
+        "Thu thập thông tin",
+        "Xử lý thông tin",
+        "Phân tích thông tin",
+        "Công bố thông tin",
+        "Phòng, chống ma túy"
       ],
       "keyphrases": [
         "thống kê nhà nước về phòng, chống ma túy"
       ],
       "similar": [
-        "Báo cáo thống kê về phòng, chống ma túy"
+        "Báo cáo thống kê về ma túy",
+        "Số liệu thống kê về phòng, chống ma túy"
+      ]
+    },
+    {
+      "name": "Thông tin tội phạm về ma túy",
+      "meaning": "Các thông tin liên quan đến hành vi phạm tội về ma túy, bao gồm thông tin về đối tượng, hành vi, phương thức, thủ đoạn phạm tội.",
+      "attrs": [
+        "Liên quan đến tội phạm ma túy",
+        "Đối tượng",
+        "Hành vi",
+        "Phương thức",
+        "Thủ đoạn"
+      ],
+      "keyphrases": [
+        "thông tin tội phạm về ma túy"
+      ],
+      "similar": [
+        "Dữ liệu về tội phạm ma túy",
+        "Tin tức về tội phạm ma túy"
+      ]
+    },
+    {
+      "name": "Hợp tác quốc tế về phòng, chống ma túy",
+      "meaning": "Sự phối hợp và hợp tác giữa Việt Nam với các quốc gia và tổ chức quốc tế trong lĩnh vực phòng, chống ma túy.",
+      "attrs": [
+        "Phối hợp",
+        "Hợp tác",
+        "Quốc gia",
+        "Tổ chức quốc tế",
+        "Phòng, chống ma túy"
+      ],
+      "keyphrases": [
+        "hợp tác quốc tế về phòng, chống ma túy"
+      ],
+      "similar": [
+        "Hợp tác quốc tế về ma túy",
+        "Quan hệ quốc tế trong phòng, chống ma túy"
       ]
     }
   ]
@@ -6250,7 +6461,7 @@
       "meaning": "Cơ quan nhà nước có trách nhiệm chỉ đạo cơ quan Hải quan thực hiện hoạt động phòng, chống ma túy.",
       "attrs": [
         "Cơ quan nhà nước",
-        "Có thẩm quyền chỉ đạo"
+        "Có trách nhiệm chỉ đạo"
       ],
       "keyphrases": [
         "Bộ Tài chính"
@@ -6259,11 +6470,10 @@
     },
     {
       "name": "Cơ quan Hải quan",
-      "meaning": "Cơ quan có trách nhiệm thực hiện hoạt động phòng, chống ma túy dưới sự chỉ đạo của Bộ Tài chính.",
+      "meaning": "Cơ quan trực thuộc Bộ Tài chính, có trách nhiệm thực hiện hoạt động phòng, chống ma túy.",
       "attrs": [
-        "Cơ quan nhà nước",
-        "Chịu sự chỉ đạo của Bộ Tài chính",
-        "Thực hiện phòng, chống ma túy"
+        "Trực thuộc Bộ Tài chính",
+        "Có trách nhiệm thực hiện"
       ],
       "keyphrases": [
         "cơ quan Hải quan"
@@ -6277,19 +6487,19 @@
         "Ngăn chặn",
         "Phát hiện",
         "Điều tra",
-        "Xử lý",
-        "Liên quan đến ma túy"
+        "Xử lý"
       ],
       "keyphrases": [
         "hoạt động phòng, chống ma túy"
       ],
       "similar": [
-        "phòng, chống ma túy"
+        "phòng, chống tội phạm ma túy",
+        "đấu tranh chống ma túy"
       ]
     },
     {
       "name": "Luật này",
-      "meaning": "Luật đang được đề cập đến trong văn bản, quy định về phòng, chống ma túy.",
+      "meaning": "Luật hiện hành đang được viện dẫn, quy định về phòng, chống ma túy.",
       "attrs": [
         "Văn bản luật",
         "Quy định về phòng, chống ma túy"
@@ -6297,36 +6507,23 @@
       "keyphrases": [
         "Luật này"
       ],
-      "similar": []
+      "similar": [
+        "Luật Phòng, chống ma túy"
+      ]
     },
     {
       "name": "Pháp luật có liên quan",
-      "meaning": "Các văn bản pháp luật khác ngoài Luật này, có liên quan đến hoạt động phòng, chống ma túy.",
+      "meaning": "Các văn bản quy phạm pháp luật khác ngoài Luật này, có liên quan đến hoạt động phòng, chống ma túy.",
       "attrs": [
-        "Văn bản pháp luật",
+        "Văn bản quy phạm pháp luật",
         "Liên quan đến phòng, chống ma túy"
       ],
       "keyphrases": [
         "quy định khác của pháp luật có liên quan"
       ],
-      "similar": []
-    },
-    {
-      "name": "Hợp tác quốc tế về phòng, chống ma túy",
-      "meaning": "Sự phối hợp và hợp tác giữa các quốc gia trong việc phòng ngừa, ngăn chặn và đấu tranh chống lại các hoạt động liên quan đến ma túy.",
-      "attrs": [
-        "Phối hợp",
-        "Hợp tác",
-        "Giữa các quốc gia",
-        "Phòng ngừa",
-        "Ngăn chặn",
-        "Đấu tranh",
-        "Liên quan đến ma túy"
-      ],
-      "keyphrases": [
-        "HỢP TÁC QUỐC TẾ VỀ PHÒNG, CHỐNG MA TÚY"
-      ],
-      "similar": []
+      "similar": [
+        "các quy định pháp luật khác"
+      ]
     }
   ]
 },
@@ -6496,11 +6693,11 @@
   "concepts": [
     {
       "name": "Chuyển giao hàng hóa có kiểm soát",
-      "meaning": "Một biện pháp nghiệp vụ được thực hiện để phát hiện và truy cứu trách nhiệm hình sự đối với tội phạm ma túy, dựa trên cơ sở điều ước quốc tế.",
+      "meaning": "Một biện pháp nghiệp vụ được thực hiện để phát hiện và truy cứu trách nhiệm hình sự đối với người phạm tội về ma túy, dựa trên cơ sở điều ước quốc tế.",
       "attrs": [
-        "Mục đích: Phát hiện và truy cứu trách nhiệm hình sự đối với người phạm tội về ma túy",
-        "Cơ sở pháp lý: Điều ước quốc tế mà Việt Nam là thành viên",
-        "Thực hiện: Theo thỏa thuận giữa cơ quan có thẩm quyền của Việt Nam và nước có liên quan"
+        "Thực hiện trên cơ sở điều ước quốc tế",
+        "Mục đích: phát hiện và truy cứu trách nhiệm hình sự đối với tội phạm ma túy",
+        "Thực hiện theo thỏa thuận giữa cơ quan có thẩm quyền của Việt Nam và nước có liên quan"
       ],
       "keyphrases": [
         "chuyển giao hàng hóa có kiểm soát"
@@ -6525,10 +6722,10 @@
     },
     {
       "name": "Truy cứu trách nhiệm hình sự",
-      "meaning": "Quá trình điều tra, truy tố, xét xử và thi hành án đối với người phạm tội.",
+      "meaning": "Hoạt động điều tra, truy tố, xét xử nhằm xác định và xử lý người có hành vi phạm tội theo quy định của pháp luật hình sự.",
       "attrs": [
         "Mục tiêu của chuyển giao hàng hóa có kiểm soát",
-        "Đối tượng: Người phạm tội về ma túy"
+        "Đối tượng: người phạm tội về ma túy"
       ],
       "keyphrases": [
         "truy cứu trách nhiệm hình sự",
@@ -6541,19 +6738,17 @@
     },
     {
       "name": "Cơ quan có thẩm quyền",
-      "meaning": "Cơ quan nhà nước được trao quyền thực hiện các hành vi pháp lý nhất định.",
+      "meaning": "Cơ quan nhà nước được pháp luật trao quyền thực hiện các hoạt động nhất định, trong trường hợp này là quyết định áp dụng và tiến hành biện pháp chuyển giao hàng hóa có kiểm soát.",
       "attrs": [
         "Thực hiện thỏa thuận chuyển giao hàng hóa có kiểm soát",
-        "Của Việt Nam và của nước có liên quan"
+        "Của Việt Nam và nước có liên quan"
       ],
       "keyphrases": [
         "cơ quan có thẩm quyền",
-        "của Việt Nam",
-        "của nước có liên quan"
+        "Việt Nam",
+        "nước có liên quan"
       ],
-      "similar": [
-        "Cơ quan nhà nước có thẩm quyền"
-      ]
+      "similar": []
     }
   ]
 },
@@ -6612,31 +6807,16 @@
     },
     {
       "name": "Luật Phòng, chống ma túy",
-      "meaning": "Luật quy định về phòng ngừa, ngăn chặn, kiểm soát, đấu tranh chống tệ nạn ma túy, kiểm soát các hoạt động hợp pháp liên quan đến ma túy, quản lý người sử dụng trái phép chất ma túy, người nghiện ma túy và trách nhiệm của cá nhân, gia đình, cơ quan, tổ chức trong phòng, chống ma túy.",
+      "meaning": "Luật quy định về phòng ngừa, ngăn chặn, kiểm soát và đấu tranh chống tệ nạn ma túy, kiểm soát các hoạt động hợp pháp liên quan đến ma túy.",
       "attrs": [
         "Số hiệu: 23/2000/QH10",
-        "Đã được sửa đổi, bổ sung"
+        "Sửa đổi, bổ sung: Luật số 16/2008/QH12"
       ],
       "keyphrases": [
         "Luật Phòng, chống ma túy số 23/2000/QH10",
         "Luật số 16/2008/QH12"
       ],
       "similar": []
-    },
-    {
-      "name": "Sửa đổi, bổ sung",
-      "meaning": "Việc thay đổi, thêm bớt nội dung của một văn bản luật hiện hành.",
-      "attrs": [
-        "Mục đích: Hoàn thiện văn bản",
-        "Cơ quan có thẩm quyền: Quốc hội"
-      ],
-      "keyphrases": [
-        "sửa đổi, bổ sung"
-      ],
-      "similar": [
-        "điều chỉnh",
-        "bổ sung"
-      ]
     }
   ]
 },
