@@ -1,0 +1,5173 @@
+[
+  {
+    "article_id": "article_1",
+    "article_number": "1",
+    "relations": [
+      {
+        "Name": "quy định",
+        "ConckeyS": "luật này",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "luật này",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "luật này",
+        "ConckeyO": "cai nghiện"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "luật này",
+        "ConckeyO": "trách nhiệm"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "luật này",
+        "ConckeyO": "nhà nước"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "luật này",
+        "ConckeyO": "quốc tế"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "luật này",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "luật này",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "luật này",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "nhà nước",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "hợp tác",
+        "ConckeyS": "nhà nước",
+        "ConckeyO": "quốc tế"
+      }
+    ]
+  },
+  {
+    "article_id": "article_2",
+    "article_number": "2",
+    "relations": [
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "danh mục chất ma túy"
+      },
+      {
+        "Name": "kích thích",
+        "ConckeyS": "chất",
+        "ConckeyO": "thần kinh"
+      },
+      {
+        "Name": "ức chế",
+        "ConckeyS": "chất",
+        "ConckeyO": "thần kinh"
+      },
+      {
+        "Name": "nghiện",
+        "ConckeyS": "chất",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "kích thích",
+        "ConckeyS": "chất hướng thần",
+        "ConckeyO": "thần kinh"
+      },
+      {
+        "Name": "ức chế",
+        "ConckeyS": "chất hướng thần",
+        "ConckeyO": "thần kinh"
+      },
+      {
+        "Name": "ảo giác",
+        "ConckeyS": "chất hướng thần",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "danh mục tiền chất"
+      },
+      {
+        "Name": "điều chế",
+        "ConckeyS": "hóa chất",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "sản xuất",
+        "ConckeyS": "hóa chất",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "chứa",
+        "ConckeyS": "thuốc thú y",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "chứa",
+        "ConckeyS": "thuốc thú y",
+        "ConckeyO": "tiền chất"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "điều này",
+        "ConckeyO": "các chất"
+      },
+      {
+        "Name": "chứa",
+        "ConckeyS": "cây",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ quy định",
+        "ConckeyO": "các loại cây"
+      },
+      {
+        "Name": "phòng ngừa",
+        "ConckeyS": "phòng",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "phòng",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "đấu tranh",
+        "ConckeyS": "phòng",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "chống",
+        "ConckeyS": "phòng",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "các hành vi",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "truy cứu",
+        "ConckeyS": "các hành vi",
+        "ConckeyO": "trách nhiệm hình sự"
+      },
+      {
+        "Name": "cho phép",
+        "ConckeyS": "kiểm soát",
+        "ConckeyO": "các hoạt động"
+      },
+      {
+        "Name": "theo dõi",
+        "ConckeyS": "kiểm soát",
+        "ConckeyO": "các hoạt động"
+      },
+      {
+        "Name": "kiểm tra",
+        "ConckeyS": "kiểm soát",
+        "ConckeyO": "các hoạt động"
+      },
+      {
+        "Name": "giám sát",
+        "ConckeyS": "kiểm soát",
+        "ConckeyO": "các hoạt động"
+      },
+      {
+        "Name": "phòng ngừa",
+        "ConckeyS": "kiểm soát",
+        "ConckeyO": "các hoạt động đó"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "kiểm soát",
+        "ConckeyO": "các hoạt động đó"
+      },
+      {
+        "Name": "lợi dụng",
+        "ConckeyS": "người",
+        "ConckeyO": "các hoạt động đó"
+      },
+      {
+        "Name": "xét nghiệm",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "thông qua",
+        "ConckeyS": "các kỹ thuật chuyên môn",
+        "ConckeyO": "cơ thể"
+      },
+      {
+        "Name": "xác định",
+        "ConckeyS": "các kỹ thuật chuyên môn",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "lệ thuộc",
+        "ConckeyS": "người",
+        "ConckeyO": "các chất này"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "cai nghiện ma túy",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "giúp",
+        "ConckeyS": "cai nghiện ma túy",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "dừng",
+        "ConckeyS": "cai nghiện ma túy",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "phục hồi",
+        "ConckeyS": "cai nghiện ma túy",
+        "ConckeyO": "thể chất"
+      },
+      {
+        "Name": "phục hồi",
+        "ConckeyS": "cai nghiện ma túy",
+        "ConckeyO": "tinh thần"
+      },
+      {
+        "Name": "nâng",
+        "ConckeyS": "cai nghiện ma túy",
+        "ConckeyO": "nhận thức"
+      },
+      {
+        "Name": "thay đổi",
+        "ConckeyS": "cai nghiện ma túy",
+        "ConckeyO": "hành vi"
+      },
+      {
+        "Name": "chấm dứt",
+        "ConckeyS": "cai nghiện ma túy",
+        "ConckeyO": "các chất này"
+      },
+      {
+        "Name": "thành lập",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "quy trình"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "cơ sở"
+      }
+    ]
+  },
+  {
+    "article_id": "article_3",
+    "article_number": "3",
+    "relations": [
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "kết hợp",
+        "ConckeyS": "các biện pháp",
+        "ConckeyO": "hiv"
+      },
+      {
+        "Name": "kết hợp",
+        "ConckeyS": "các biện pháp",
+        "ConckeyO": "aids"
+      },
+      {
+        "Name": "kết hợp",
+        "ConckeyS": "các biện pháp",
+        "ConckeyO": "các tệ nạn xã hội"
+      },
+      {
+        "Name": "tăng cường",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "tuyên truyền"
+      },
+      {
+        "Name": "tăng cường",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "giáo dục"
+      },
+      {
+        "Name": "tuyên truyền",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "công tác"
+      },
+      {
+        "Name": "tuyên truyền",
+        "ConckeyS": "cá nhân",
+        "ConckeyO": "công tác"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "công tác"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "cá nhân",
+        "ConckeyO": "công tác"
+      },
+      {
+        "Name": "ưu tiên",
+        "ConckeyS": "nguồn lực",
+        "ConckeyO": "vùng đồng bào dân tộc thiểu số"
+      },
+      {
+        "Name": "ưu tiên",
+        "ConckeyS": "nguồn lực",
+        "ConckeyO": "miền núi"
+      },
+      {
+        "Name": "ưu tiên",
+        "ConckeyS": "nguồn lực",
+        "ConckeyO": "vùng sâu"
+      },
+      {
+        "Name": "ưu tiên",
+        "ConckeyS": "nguồn lực",
+        "ConckeyO": "vùng xa"
+      },
+      {
+        "Name": "ưu tiên",
+        "ConckeyS": "nguồn lực",
+        "ConckeyO": "hải đảo"
+      },
+      {
+        "Name": "ưu tiên",
+        "ConckeyS": "nguồn lực",
+        "ConckeyO": "khu vực biên giới"
+      },
+      {
+        "Name": "hưởng",
+        "ConckeyS": "cán bộ",
+        "ConckeyO": "chế độ"
+      },
+      {
+        "Name": "hưởng",
+        "ConckeyS": "chiến sĩ",
+        "ConckeyO": "chế độ"
+      },
+      {
+        "Name": "hưởng",
+        "ConckeyS": "cán bộ",
+        "ConckeyO": "chính sách"
+      },
+      {
+        "Name": "hưởng",
+        "ConckeyS": "chiến sĩ",
+        "ConckeyO": "chính sách"
+      },
+      {
+        "Name": "tham gia",
+        "ConckeyS": "cá nhân",
+        "ConckeyO": "phòng chống ma túy"
+      },
+      {
+        "Name": "tham gia",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "phòng chống ma túy"
+      },
+      {
+        "Name": "tham gia",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "phòng chống ma túy"
+      },
+      {
+        "Name": "tham gia",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "phòng chống ma túy"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "khuyến khích",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      },
+      {
+        "Name": "thay thế",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "thuốc"
+      },
+      {
+        "Name": "khuyến khích",
+        "ConckeyS": "cá nhân",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "khuyến khích",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "khuyến khích",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "khuyến khích",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "bảo đảm",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "kinh phí"
+      },
+      {
+        "Name": "hỗ trợ",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "kinh phí"
+      },
+      {
+        "Name": "đầu tư",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "đầu tư",
+        "ConckeyS": "cá nhân",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "miễn",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "tiền"
+      },
+      {
+        "Name": "miễn",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "thuế thu nhập doanh nghiệp"
+      },
+      {
+        "Name": "giảm",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "tiền"
+      },
+      {
+        "Name": "giảm",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "thuế thu nhập doanh nghiệp"
+      },
+      {
+        "Name": "nghiên cứu",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "khoa học"
+      },
+      {
+        "Name": "phát triển",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "công nghệ"
+      },
+      {
+        "Name": "ứng dụng",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "công nghệ cao"
+      },
+      {
+        "Name": "khen thưởng",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "cá nhân"
+      },
+      {
+        "Name": "khen thưởng",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "tổ chức"
+      },
+      {
+        "Name": "khen thưởng",
+        "ConckeyS": "Nhà nước",
+        "ConckeyO": "cơ quan"
+      }
+    ]
+  },
+  {
+    "article_id": "article_4",
+    "article_number": "4",
+    "relations": [
+      {
+        "Name": "tài trợ",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tài trợ",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "viện trợ"
+      },
+      {
+        "Name": "tài trợ",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tài trợ",
+        "ConckeyS": "người",
+        "ConckeyO": "viện trợ"
+      },
+      {
+        "Name": "đầu tư",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "đầu tư",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "viện trợ"
+      },
+      {
+        "Name": "đầu tư",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "đầu tư",
+        "ConckeyS": "người",
+        "ConckeyO": "viện trợ"
+      },
+      {
+        "Name": "tặng",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tặng",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "viện trợ"
+      },
+      {
+        "Name": "tặng",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tặng",
+        "ConckeyS": "người",
+        "ConckeyO": "viện trợ"
+      },
+      {
+        "Name": "nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      }
+    ]
+  },
+  {
+    "article_id": "article_5",
+    "article_number": "5",
+    "relations": [
+      {
+        "Name": "trồng",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "hướng dẫn",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "nghiên cứu",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "giám định",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "kiểm nghiệm",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "kiểm định",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "sản xuất",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "tàng trữ",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "vận chuyển",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "bảo quản",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "tồn trữ",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "mua bán",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "phân phối",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "xử lý",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "trao đổi",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "xuất khẩu",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "nhập khẩu",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "chiếm đoạt",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "giao nhận",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "lưu giữ",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "cấp phát",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "bảo quản",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "sử dụng",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "cưỡng bức",
+        "ConckeyS": "người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "lôi kéo",
+        "ConckeyS": "người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "chứa chấp",
+        "ConckeyS": "người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "sản xuất",
+        "ConckeyS": "người",
+        "ConckeyO": "phương tiện"
+      },
+      {
+        "Name": "tàng trữ",
+        "ConckeyS": "người",
+        "ConckeyO": "phương tiện"
+      },
+      {
+        "Name": "vận chuyển",
+        "ConckeyS": "người",
+        "ConckeyO": "phương tiện"
+      },
+      {
+        "Name": "mua bán",
+        "ConckeyS": "người",
+        "ConckeyO": "phương tiện"
+      },
+      {
+        "Name": "chống",
+        "ConckeyS": "người",
+        "ConckeyO": "xét nghiệm"
+      },
+      {
+        "Name": "cản trở",
+        "ConckeyS": "người",
+        "ConckeyO": "xét nghiệm"
+      },
+      {
+        "Name": "chống",
+        "ConckeyS": "người",
+        "ConckeyO": "nhiệm vụ"
+      },
+      {
+        "Name": "cản trở",
+        "ConckeyS": "người",
+        "ConckeyO": "nhiệm vụ"
+      },
+      {
+        "Name": "trả thù",
+        "ConckeyS": "người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "cản trở",
+        "ConckeyS": "người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "lợi dụng",
+        "ConckeyS": "chức vụ",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "lợi dụng",
+        "ConckeyS": "quyền hạn",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "lợi dụng",
+        "ConckeyS": "nghề nghiệp",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "chức vụ",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "quyền hạn",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "nghề nghiệp",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "hướng dẫn",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "quảng cáo",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "tiếp thị",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "kỳ thị",
+        "ConckeyS": "người",
+        "ConckeyO": "người"
+      }
+    ]
+  },
+  {
+    "article_id": "article_6",
+    "article_number": "6",
+    "relations": [
+      {
+        "Name": "tuyên truyền",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "tác hại"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "thành viên"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "thành viên"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "gia đình vi phạm pháp luật"
+      },
+      {
+        "Name": "hợp tác",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "cơ quan chức năng"
+      },
+      {
+        "Name": "đấu tranh",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "tham gia",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      },
+      {
+        "Name": "thay thế",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "thuốc"
+      },
+      {
+        "Name": "theo dõi",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "người sau"
+      },
+      {
+        "Name": "giúp đỡ",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "người sau"
+      },
+      {
+        "Name": "hòa nhập",
+        "ConckeyS": "người sau",
+        "ConckeyO": "cộng đồng"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "tái"
+      },
+      {
+        "Name": "cung cấp",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "thông tin"
+      },
+      {
+        "Name": "cung cấp",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "cung cấp",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "tệ nạn ma túy"
+      },
+      {
+        "Name": "tham gia",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "xóa"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "chính quyền địa phương",
+        "ConckeyO": "xóa"
+      }
+    ]
+  },
+  {
+    "article_id": "article_7",
+    "article_number": "7",
+    "relations": [
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "cán bộ"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "công chức"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "viên chức"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "người lao động"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "chiến sĩ"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "cán bộ",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "công chức",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "viên chức",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "người lao động",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "chiến sĩ",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "tuyên truyền",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "nhân dân"
+      },
+      {
+        "Name": "vận động",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "nhân dân"
+      },
+      {
+        "Name": "phát hiện",
+        "ConckeyS": "nhân dân",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "tố giác",
+        "ConckeyS": "nhân dân",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "đấu tranh",
+        "ConckeyS": "nhân dân",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "thay thế",
+        "ConckeyS": "nhà nước",
+        "ConckeyO": "trồng"
+      },
+      {
+        "Name": "trồng",
+        "ConckeyS": "các vùng xóa",
+        "ConckeyO": "chứa chất"
+      }
+    ]
+  },
+  {
+    "article_id": "article_8",
+    "article_number": "8",
+    "relations": [
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "chương trình"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phổ biến",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "học sinh"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "sinh viên"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "học viên"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "học sinh",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "sinh viên",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "học viên",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "học sinh",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "sinh viên",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "học viên",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "học sinh"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "sinh viên"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "học viên"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "gia đình"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "tổ chức"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "chính quyền địa phương"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "học sinh"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "sinh viên"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "học viên"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "học sinh"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "sinh viên"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "học viên"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "tổ chức"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "thẩm quyền"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "cơ sở giáo dục",
+        "ConckeyO": "xét nghiệm"
+      },
+      {
+        "Name": "phát hiện",
+        "ConckeyS": "xét nghiệm",
+        "ConckeyO": "học sinh"
+      },
+      {
+        "Name": "phát hiện",
+        "ConckeyS": "xét nghiệm",
+        "ConckeyO": "sinh viên"
+      },
+      {
+        "Name": "phát hiện",
+        "ConckeyS": "xét nghiệm",
+        "ConckeyO": "học viên"
+      },
+      {
+        "Name": "sử dụng",
+        "ConckeyS": "học sinh",
+        "ConckeyO": "chất"
+      },
+      {
+        "Name": "sử dụng",
+        "ConckeyS": "sinh viên",
+        "ConckeyO": "chất"
+      },
+      {
+        "Name": "sử dụng",
+        "ConckeyS": "học viên",
+        "ConckeyO": "chất"
+      }
+    ]
+  },
+  {
+    "article_id": "article_9",
+    "article_number": "9",
+    "relations": [
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "cơ quan báo chí",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "tuyên truyền",
+        "ConckeyS": "cơ quan báo chí",
+        "ConckeyO": "chủ trương"
+      },
+      {
+        "Name": "tuyên truyền",
+        "ConckeyS": "cơ quan báo chí",
+        "ConckeyO": "chính sách"
+      },
+      {
+        "Name": "tuyên truyền",
+        "ConckeyS": "cơ quan báo chí",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "tuyên truyền",
+        "ConckeyS": "cơ quan báo chí",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "pháp luật",
+        "ConckeyO": "ma túy"
+      }
+    ]
+  },
+  {
+    "article_id": "article_10",
+    "article_number": "10",
+    "relations": [
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "Mặt trận Tổ quốc Việt Nam",
+        "ConckeyO": "tuyên truyền"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "Mặt trận Tổ quốc Việt Nam",
+        "ConckeyO": "phổ biến"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "Mặt trận Tổ quốc Việt Nam",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "tuyên truyền",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "kiến thức"
+      },
+      {
+        "Name": "tuyên truyền",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "vận động",
+        "ConckeyS": "Mặt trận Tổ quốc Việt Nam",
+        "ConckeyO": "nhân dân"
+      },
+      {
+        "Name": "tham gia",
+        "ConckeyS": "nhân dân",
+        "ConckeyO": "các phong trào"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "nhân dân",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng ngừa",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "mọi công dân",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "mọi công dân",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "chính quyền địa phương các cấp",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "vận động",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "người",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      },
+      {
+        "Name": "thay thế",
+        "ConckeyS": "thuốc",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      },
+      {
+        "Name": "tham gia",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "tham gia cảm hóa"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "người sau"
+      },
+      {
+        "Name": "dạy",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "nghề"
+      },
+      {
+        "Name": "tìm",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "việc làm"
+      },
+      {
+        "Name": "giúp đỡ",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "người sau"
+      },
+      {
+        "Name": "hòa nhập",
+        "ConckeyS": "người sau",
+        "ConckeyO": "cộng đồng"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "tái"
+      },
+      {
+        "Name": "nghiện",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "ma túy"
+      }
+    ]
+  },
+  {
+    "article_id": "article_11",
+    "article_number": "11",
+    "relations": [
+      {
+        "Name": "chuyên trách",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "cơ quan chuyên trách phòng, chống tội phạm về ma túy",
+        "ConckeyO": "công an nhân dân"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "cơ quan chuyên trách phòng, chống tội phạm về ma túy",
+        "ConckeyO": "bộ đội biên phòng"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "cơ quan chuyên trách phòng, chống tội phạm về ma túy",
+        "ConckeyO": "cảnh sát biển việt nam"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "cơ quan chuyên trách phòng, chống tội phạm về ma túy",
+        "ConckeyO": "hải quan"
+      },
+      {
+        "Name": "chủ trì",
+        "ConckeyS": "công an nhân dân",
+        "ConckeyO": "các hoạt động"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "công an nhân dân",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "phòng ngừa",
+        "ConckeyS": "công an nhân dân",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "công an nhân dân",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "đấu tranh",
+        "ConckeyS": "công an nhân dân",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "chống",
+        "ConckeyS": "công an nhân dân",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "chủ trì",
+        "ConckeyS": "bộ đội biên phòng",
+        "ConckeyO": "các hoạt động"
+      },
+      {
+        "Name": "chủ trì",
+        "ConckeyS": "cảnh sát biển việt nam",
+        "ConckeyO": "các hoạt động"
+      },
+      {
+        "Name": "chủ trì",
+        "ConckeyS": "hải quan",
+        "ConckeyO": "các hoạt động"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "bộ đội biên phòng",
+        "ConckeyO": "cơ quan công an"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "cảnh sát biển việt nam",
+        "ConckeyO": "cơ quan công an"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "hải quan",
+        "ConckeyO": "cơ quan công an"
+      },
+      {
+        "Name": "phòng ngừa",
+        "ConckeyS": "bộ đội biên phòng",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "phòng ngừa",
+        "ConckeyS": "cảnh sát biển việt nam",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "phòng ngừa",
+        "ConckeyS": "hải quan",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "bộ đội biên phòng",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "cảnh sát biển việt nam",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "hải quan",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "đấu tranh",
+        "ConckeyS": "bộ đội biên phòng",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "đấu tranh",
+        "ConckeyS": "cảnh sát biển việt nam",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "đấu tranh",
+        "ConckeyS": "hải quan",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "chống",
+        "ConckeyS": "bộ đội biên phòng",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "chống",
+        "ConckeyS": "cảnh sát biển việt nam",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "chống",
+        "ConckeyS": "hải quan",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "phát hiện hành vi",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "vi phạm pháp luật"
+      },
+      {
+        "Name": "chuyển giao",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "chuyển giao",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "chuyển giao",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "tang vật"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "việc phối hợp"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "các cơ quan"
+      }
+    ]
+  },
+  {
+    "article_id": "article_12",
+    "article_number": "12",
+    "relations": [
+      {
+        "Name": "cho phép",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "nghiên cứu",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "giám định",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "kiểm nghiệm",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "kiểm định",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "sản xuất",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "vận chuyển",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "bảo quản",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "tồn trữ",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "mua bán",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "phân phối",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "sử dụng",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "trao đổi",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "nhập khẩu",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "xuất khẩu",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "tái xuất",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "tái nhập",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "quá cảnh",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "khoản 1 điều này",
+        "ConckeyO": "luật này"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "khoản 1 điều này",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "quy định"
+      }
+    ]
+  },
+  {
+    "article_id": "article_13",
+    "article_number": "13",
+    "relations": [
+      {
+        "Name": "nghiên cứu",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "giám định",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "sản xuất",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "chất ma túy",
+        "ConckeyO": "chứa chất ma túy"
+      },
+      {
+        "Name": "sản xuất",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "tiền chất"
+      },
+      {
+        "Name": "theo dõi",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "kiểm tra",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "giám sát",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "cho phép",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "trình tự"
+      },
+      {
+        "Name": "cho phép",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "trình tự"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "thủ tục"
+      },
+      {
+        "Name": "cho phép",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "thủ tục"
+      },
+      {
+        "Name": "theo dõi",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "việc"
+      },
+      {
+        "Name": "kiểm tra",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "việc"
+      },
+      {
+        "Name": "giám sát",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "việc"
+      }
+    ]
+  },
+  {
+    "article_id": "article_14",
+    "article_number": "14",
+    "relations": [
+      {
+        "Name": "vận chuyển",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "chất"
+      },
+      {
+        "Name": "vận chuyển",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "tiền chất"
+      },
+      {
+        "Name": "cho phép",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "cho phép",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "tổ chức"
+      },
+      {
+        "Name": "cho phép",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "cá nhân"
+      },
+      {
+        "Name": "đóng gói",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "chất"
+      },
+      {
+        "Name": "đóng gói",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "tiền chất"
+      },
+      {
+        "Name": "niêm phong",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "chất"
+      },
+      {
+        "Name": "niêm phong",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "tiền chất"
+      },
+      {
+        "Name": "bảo vệ",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "chất"
+      },
+      {
+        "Name": "bảo vệ",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "tiền chất"
+      },
+      {
+        "Name": "theo dõi",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "theo dõi",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "tổ chức"
+      },
+      {
+        "Name": "theo dõi",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "cá nhân"
+      },
+      {
+        "Name": "kiểm tra",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "kiểm tra",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "tổ chức"
+      },
+      {
+        "Name": "kiểm tra",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "cá nhân"
+      },
+      {
+        "Name": "giám sát",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "giám sát",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "tổ chức"
+      },
+      {
+        "Name": "giám sát",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "cá nhân"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "chi tiết điều này"
+      }
+    ]
+  },
+  {
+    "article_id": "article_15",
+    "article_number": "15",
+    "relations": [
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "thuốc gây nghiện"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "thuốc hướng thần"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "thuốc tiền chất"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "nguyên liệu làm thuốc"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "trừ",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "b"
+      },
+      {
+        "Name": "trừ",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "khoản 2 điều 17"
+      }
+    ]
+  },
+  {
+    "article_id": "article_17",
+    "article_number": "17",
+    "error": "Lỗi xử lý phản hồi: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "article_id": "article_16",
+    "article_number": "16",
+    "relations": [
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "hoạt động"
+      }
+    ]
+  },
+  {
+    "article_id": "article_17",
+    "article_number": "17",
+    "relations": [
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "cho phép",
+        "ConckeyS": "thẩm quyền",
+        "ConckeyO": "các hoạt động sau đây"
+      },
+      {
+        "Name": "quá cảnh",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "lãnh thổ việt nam"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "chi tiết điều này"
+      },
+      {
+        "Name": "ghi",
+        "ConckeyS": "hành trình",
+        "ConckeyO": "giấy phép quá cảnh"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "thủ tục"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "cơ quan hải quan",
+        "ConckeyO": "thủ tục"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "việt nam",
+        "ConckeyO": "thủ tục"
+      }
+    ]
+  },
+  {
+    "article_id": "article_18",
+    "article_number": "18",
+    "relations": [
+      {
+        "Name": "lập",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "lập",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "lập",
+        "ConckeyS": "cá nhân khi",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "tiến hành",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "tiến hành",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "tiến hành",
+        "ConckeyS": "cá nhân khi",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "khoản 1 điều 12"
+      }
+    ]
+  },
+  {
+    "article_id": "article_12",
+    "article_number": "12",
+    "relations": [
+      {
+        "Name": "quy định",
+        "ConckeyS": "luật này",
+        "ConckeyO": "quy định"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "quy định"
+      }
+    ]
+  },
+  {
+    "article_id": "article_19",
+    "article_number": "19",
+    "relations": [
+      {
+        "Name": "nghiên cứu",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "giám định",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "sản xuất",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "vận chuyển",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tồn trữ",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "bảo quản",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "nhập khẩu",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "xuất khẩu",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "quốc phòng",
+        "ConckeyS": "mục đích",
+        "ConckeyO": "quốc phòng"
+      }
+    ]
+  },
+  {
+    "article_id": "article_20",
+    "article_number": "20",
+    "relations": [
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "thuốc"
+      },
+      {
+        "Name": "sơ cứu",
+        "ConckeyS": "thuốc",
+        "ConckeyO": "cuộc hành trình"
+      },
+      {
+        "Name": "cấp cứu",
+        "ConckeyS": "thuốc",
+        "ConckeyO": "cuộc hành trình"
+      },
+      {
+        "Name": "dự phòng",
+        "ConckeyS": "thuốc",
+        "ConckeyO": "sơ cứu"
+      },
+      {
+        "Name": "dự phòng",
+        "ConckeyS": "thuốc",
+        "ConckeyO": "cấp cứu"
+      },
+      {
+        "Name": "coi",
+        "ConckeyS": "việc mang theo thuốc",
+        "ConckeyO": "hàng"
+      },
+      {
+        "Name": "xuất khẩu",
+        "ConckeyS": "hàng",
+        "ConckeyO": "lãnh thổ việt nam"
+      },
+      {
+        "Name": "nhập khẩu",
+        "ConckeyS": "hàng",
+        "ConckeyO": "lãnh thổ việt nam"
+      },
+      {
+        "Name": "quá cảnh",
+        "ConckeyS": "hàng",
+        "ConckeyO": "lãnh thổ việt nam"
+      },
+      {
+        "Name": "khai báo",
+        "ConckeyS": "người",
+        "ConckeyO": "cơ quan hải quan"
+      },
+      {
+        "Name": "giải trình",
+        "ConckeyS": "người",
+        "ConckeyO": "số lượng thuốc"
+      },
+      {
+        "Name": "áp dụng",
+        "ConckeyS": "người",
+        "ConckeyO": "các biện pháp"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "các biện pháp",
+        "ConckeyO": "mục đích"
+      },
+      {
+        "Name": "vận chuyển",
+        "ConckeyS": "các biện pháp",
+        "ConckeyO": "các thuốc đó"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "các thuốc đó"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "thuốc",
+        "ConckeyO": "bệnh"
+      },
+      {
+        "Name": "nhập cảnh",
+        "ConckeyS": "bản thân người",
+        "ConckeyO": "lãnh thổ việt nam"
+      },
+      {
+        "Name": "xuất cảnh",
+        "ConckeyS": "bản thân người",
+        "ConckeyO": "lãnh thổ việt nam"
+      },
+      {
+        "Name": "quá cảnh",
+        "ConckeyS": "bản thân người",
+        "ConckeyO": "lãnh thổ việt nam"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "thuốc"
+      }
+    ]
+  },
+  {
+    "article_id": "article_21",
+    "article_number": "21",
+    "relations": [
+      {
+        "Name": "thu giữ",
+        "ConckeyS": "chất ma túy",
+        "ConckeyO": "vụ việc"
+      },
+      {
+        "Name": "thu giữ",
+        "ConckeyS": "tiền chất",
+        "ConckeyO": "vụ việc"
+      },
+      {
+        "Name": "thu giữ",
+        "ConckeyS": "thuốc gây nghiện",
+        "ConckeyO": "vụ việc"
+      },
+      {
+        "Name": "thu giữ",
+        "ConckeyS": "thuốc hướng thần",
+        "ConckeyO": "vụ việc"
+      },
+      {
+        "Name": "thu giữ",
+        "ConckeyS": "thuốc tiền chất",
+        "ConckeyO": "vụ việc"
+      },
+      {
+        "Name": "thu giữ",
+        "ConckeyS": "nguyên liệu làm thuốc",
+        "ConckeyO": "vụ việc"
+      },
+      {
+        "Name": "thu giữ",
+        "ConckeyS": "dược chất",
+        "ConckeyO": "vụ việc"
+      },
+      {
+        "Name": "thu giữ",
+        "ConckeyS": "thuốc thú y",
+        "ConckeyO": "vụ việc"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "vụ việc",
+        "ConckeyO": "pháp luật"
+      }
+    ]
+  },
+  {
+    "article_id": "article_22",
+    "article_number": "22",
+    "relations": [
+      {
+        "Name": "xét nghiệm",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "xét nghiệm",
+        "ConckeyS": "chuyên môn",
+        "ConckeyO": "cơ thể"
+      },
+      {
+        "Name": "tiến hành",
+        "ConckeyS": "đầu cơ sở",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "tiến hành",
+        "ConckeyS": "thẩm quyền",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "đề nghị",
+        "ConckeyS": "đầu cơ sở",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "đề nghị",
+        "ConckeyS": "thẩm quyền",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "gửi",
+        "ConckeyS": "kết quả",
+        "ConckeyO": "chủ tịch ủy ban nhân dân cấp xã nơi người"
+      },
+      {
+        "Name": "bảo đảm",
+        "ConckeyS": "nhà nước",
+        "ConckeyO": "kinh phí"
+      },
+      {
+        "Name": "xét nghiệm",
+        "ConckeyS": "nhà nước",
+        "ConckeyO": "cơ thể"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "nhà nước",
+        "ConckeyO": "khoản 1 điều này"
+      }
+    ]
+  },
+  {
+    "article_id": "article_23",
+    "article_number": "23",
+    "relations": [
+      {
+        "Name": "quản lý",
+        "ConckeyS": "chủ tịch ủy ban nhân dân cấp xã",
+        "ConckeyO": "người sử dụng trái phép chất ma túy"
+      },
+      {
+        "Name": "phòng ngừa",
+        "ConckeyS": "biện pháp phòng ngừa",
+        "ConckeyO": "các hành vi"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "chủ tịch ủy ban nhân dân cấp xã",
+        "ConckeyO": "quyết định"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "chủ tịch ủy ban nhân dân cấp xã",
+        "ConckeyO": "quản lý"
+      },
+      {
+        "Name": "tư vấn",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "động viên",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "giúp đỡ",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "xét nghiệm",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "hành vi"
+      },
+      {
+        "Name": "ra quyết định",
+        "ConckeyS": "chủ tịch ủy ban nhân dân cấp xã",
+        "ConckeyO": "quyết định"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "chủ tịch ủy ban nhân dân cấp xã",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "dừng",
+        "ConckeyS": "chủ tịch ủy ban nhân dân cấp xã",
+        "ConckeyO": "quản lý"
+      },
+      {
+        "Name": "xác định",
+        "ConckeyS": "người",
+        "ConckeyO": "người nghiện"
+      },
+      {
+        "Name": "áp dụng",
+        "ConckeyS": "người",
+        "ConckeyO": "biện pháp"
+      },
+      {
+        "Name": "áp dụng",
+        "ConckeyS": "người",
+        "ConckeyO": "biện pháp"
+      },
+      {
+        "Name": "thi hành",
+        "ConckeyS": "người",
+        "ConckeyO": "án phạt tù"
+      },
+      {
+        "Name": "tuyên bố",
+        "ConckeyS": "tòa án",
+        "ConckeyO": "mất tích"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "chi tiết điều này"
+      }
+    ]
+  },
+  {
+    "article_id": "article_24",
+    "article_number": "24",
+    "relations": [
+      {
+        "Name": "cung cấp",
+        "ConckeyS": "hành vi",
+        "ConckeyO": "thông tin"
+      },
+      {
+        "Name": "cung cấp",
+        "ConckeyS": "hành vi",
+        "ConckeyO": "công an cấp xã nơi"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "ủy ban nhân dân",
+        "ConckeyO": "hành vi"
+      },
+      {
+        "Name": "chấp hành",
+        "ConckeyS": "hành vi",
+        "ConckeyO": "ủy ban nhân dân"
+      },
+      {
+        "Name": "cư trú",
+        "ConckeyS": "công an cấp xã nơi",
+        "ConckeyO": "xã"
+      }
+    ]
+  },
+  {
+    "article_id": "article_25",
+    "article_number": "25",
+    "relations": [
+      {
+        "Name": "quản lý",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "hành vi"
+      },
+      {
+        "Name": "cung cấp",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "thông tin"
+      },
+      {
+        "Name": "cung cấp",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "công an cấp xã nơi người đó"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "thẩm quyền"
+      },
+      {
+        "Name": "đi",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "xét nghiệm",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "động viên",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "giúp đỡ",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "hành vi"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "gia đình"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "thẩm quyền"
+      },
+      {
+        "Name": "đi",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "xét nghiệm",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "người"
+      }
+    ]
+  },
+  {
+    "article_id": "article_26",
+    "article_number": "26",
+    "relations": [
+      {
+        "Name": "lập",
+        "ConckeyS": "công an cấp xã",
+        "ConckeyO": "danh sách người"
+      },
+      {
+        "Name": "giúp",
+        "ConckeyS": "công an cấp xã",
+        "ConckeyO": "ủy ban nhân dân"
+      },
+      {
+        "Name": "thông báo",
+        "ConckeyS": "công an cấp xã nơi",
+        "ConckeyO": "công an cấp xã nơi"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "công an cấp xã",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "giúp",
+        "ConckeyS": "công an cấp xã",
+        "ConckeyO": "ủy ban nhân dân"
+      }
+    ]
+  },
+  {
+    "article_id": "article_23",
+    "article_number": "23",
+    "relations": [
+      {
+        "Name": "quản lý",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "dừng",
+        "ConckeyS": "người",
+        "ConckeyO": "quản lý"
+      },
+      {
+        "Name": "chất",
+        "ConckeyS": "chất ma túy",
+        "ConckeyO": "ma túy"
+      }
+    ]
+  },
+  {
+    "article_id": "article_23",
+    "article_number": "23",
+    "relations": [
+      {
+        "Name": "cư trú",
+        "ConckeyS": "người",
+        "ConckeyO": "địa phương"
+      },
+      {
+        "Name": "chất",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "ma túy",
+        "ConckeyS": "cai nghiện ma túy",
+        "ConckeyO": "ma túy"
+      }
+    ]
+  },
+  {
+    "article_id": "article_27",
+    "article_number": "27",
+    "relations": [
+      {
+        "Name": "xác định",
+        "ConckeyS": "cơ sở y tế",
+        "ConckeyO": "tình trạng nghiện ma túy"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "phát hiện",
+        "ConckeyS": "công an cấp xã nơi",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "lập",
+        "ConckeyS": "công an cấp xã nơi",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "đề nghị",
+        "ConckeyS": "hồ sơ",
+        "ConckeyO": "cơ sở y tế"
+      },
+      {
+        "Name": "xác định",
+        "ConckeyS": "cơ sở y tế",
+        "ConckeyO": "tình trạng nghiện ma túy"
+      },
+      {
+        "Name": "phát hiện",
+        "ConckeyS": "công an cấp tỉnh",
+        "ConckeyO": "trường hợp quy định"
+      },
+      {
+        "Name": "điều tra",
+        "ConckeyS": "cơ quan công an",
+        "ConckeyO": "các vụ việc"
+      },
+      {
+        "Name": "thụ lý",
+        "ConckeyS": "cơ quan công an",
+        "ConckeyO": "các vụ việc"
+      },
+      {
+        "Name": "lập",
+        "ConckeyS": "cơ quan công an",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "đề nghị",
+        "ConckeyS": "cơ quan công an",
+        "ConckeyO": "cơ sở y tế"
+      },
+      {
+        "Name": "xác định",
+        "ConckeyS": "cơ sở y tế",
+        "ConckeyO": "tình trạng nghiện ma túy"
+      },
+      {
+        "Name": "gửi",
+        "ConckeyS": "cơ sở y tế",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "gửi",
+        "ConckeyS": "cơ sở y tế",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "bảo đảm",
+        "ConckeyS": "người",
+        "ConckeyO": "danh dự"
+      },
+      {
+        "Name": "bảo đảm",
+        "ConckeyS": "người",
+        "ConckeyO": "nhân phẩm"
+      },
+      {
+        "Name": "đi lại",
+        "ConckeyS": "người",
+        "ConckeyO": "hội chứng"
+      },
+      {
+        "Name": "ăn ở",
+        "ConckeyS": "người",
+        "ConckeyO": "hội chứng"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "người",
+        "ConckeyO": "hội chứng"
+      },
+      {
+        "Name": "chấp hành",
+        "ConckeyS": "người",
+        "ConckeyO": "nội quy"
+      },
+      {
+        "Name": "chấp hành",
+        "ConckeyS": "người",
+        "ConckeyO": "quy chế"
+      },
+      {
+        "Name": "khai báo",
+        "ConckeyS": "người",
+        "ConckeyO": "tiền sử"
+      },
+      {
+        "Name": "sử dụng",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "đăng ký",
+        "ConckeyS": "người",
+        "ConckeyO": "cai nghiện ma túy"
+      }
+    ]
+  },
+  {
+    "article_id": "article_28",
+    "article_number": "28",
+    "error": "Lỗi xử lý phản hồi: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "article_id": "article_28",
+    "article_number": "28",
+    "relations": [
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "biện pháp",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "biện pháp",
+        "ConckeyO": "cai nghiện"
+      },
+      {
+        "Name": "tự nguyện",
+        "ConckeyS": "cai nghiện",
+        "ConckeyO": "gia đình"
+      },
+      {
+        "Name": "tự nguyện",
+        "ConckeyS": "cai nghiện",
+        "ConckeyO": "cộng đồng"
+      },
+      {
+        "Name": "tự nguyện",
+        "ConckeyS": "cai nghiện",
+        "ConckeyO": "cơ sở"
+      },
+      {
+        "Name": "bắt buộc",
+        "ConckeyS": "cai nghiện",
+        "ConckeyO": "cơ sở"
+      },
+      {
+        "Name": "công lập",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "cai nghiện"
+      }
+    ]
+  },
+  {
+    "article_id": "article_29",
+    "article_number": "29",
+    "relations": [
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "quy trình",
+        "ConckeyO": "các giai đoạn sau đây"
+      },
+      {
+        "Name": "tiếp nhận",
+        "ConckeyS": "các giai đoạn",
+        "ConckeyO": "phân loại"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "các giai đoạn",
+        "ConckeyO": "cắt cơn"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "các giai đoạn",
+        "ConckeyO": "giải độc"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "các giai đoạn",
+        "ConckeyO": "các rối loạn tâm thần"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "các giai đoạn",
+        "ConckeyO": "các bệnh lý"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "các giai đoạn",
+        "ConckeyO": "hành vi"
+      },
+      {
+        "Name": "tư vấn",
+        "ConckeyS": "các giai đoạn",
+        "ConckeyO": "hành vi"
+      },
+      {
+        "Name": "phục hồi",
+        "ConckeyS": "các giai đoạn",
+        "ConckeyO": "hành vi"
+      },
+      {
+        "Name": "phục hồi",
+        "ConckeyS": "các giai đoạn",
+        "ConckeyO": "nhân cách"
+      },
+      {
+        "Name": "lao động",
+        "ConckeyS": "các giai đoạn",
+        "ConckeyO": "trị liệu"
+      },
+      {
+        "Name": "học",
+        "ConckeyS": "các giai đoạn",
+        "ConckeyO": "nghề"
+      },
+      {
+        "Name": "tái hòa nhập",
+        "ConckeyS": "các giai đoạn",
+        "ConckeyO": "cộng đồng"
+      },
+      {
+        "Name": "bảo đảm",
+        "ConckeyS": "cai nghiện",
+        "ConckeyO": "các giai đoạn"
+      },
+      {
+        "Name": "hoàn thành",
+        "ConckeyS": "cai nghiện",
+        "ConckeyO": "03 giai đoạn"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "chi tiết điều này"
+      }
+    ]
+  },
+  {
+    "article_id": "article_30",
+    "article_number": "30",
+    "relations": [
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tự nguyện",
+        "ConckeyS": "người",
+        "ConckeyO": "gia đình"
+      },
+      {
+        "Name": "tự nguyện",
+        "ConckeyS": "người",
+        "ConckeyO": "cộng đồng"
+      },
+      {
+        "Name": "cung cấp",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "dịch vụ"
+      },
+      {
+        "Name": "cung cấp",
+        "ConckeyS": "cá nhân",
+        "ConckeyO": "dịch vụ"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "cộng đồng"
+      },
+      {
+        "Name": "trợ giúp",
+        "ConckeyS": "gia đình",
+        "ConckeyO": "cộng đồng"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "ủy ban nhân dân cấp xã",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "thời hạn",
+        "ConckeyO": "cai nghiện"
+      },
+      {
+        "Name": "hoàn thành",
+        "ConckeyS": "người",
+        "ConckeyO": "giai đoạn"
+      }
+    ]
+  },
+  {
+    "article_id": "article_29",
+    "article_number": "29",
+    "relations": []
+  },
+  {
+    "article_id": "article_29",
+    "article_number": "29",
+    "relations": [
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "chi tiết điều này"
+      }
+    ]
+  },
+  {
+    "article_id": "article_31",
+    "article_number": "31",
+    "relations": [
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tự nguyện",
+        "ConckeyS": "người",
+        "ConckeyO": "cơ sở"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "giai đoạn",
+        "ConckeyO": "các điểm"
+      },
+      {
+        "Name": "hoàn thành",
+        "ConckeyS": "người",
+        "ConckeyO": "giai đoạn"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "thời hạn",
+        "ConckeyO": "cơ sở"
+      }
+    ]
+  },
+  {
+    "article_id": "article_29",
+    "article_number": "29",
+    "relations": [
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "chi tiết điều này"
+      }
+    ]
+  },
+  {
+    "article_id": "article_32",
+    "article_number": "32",
+    "relations": [
+      {
+        "Name": "áp dụng",
+        "ConckeyS": "biện pháp",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "bắt buộc"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "luật",
+        "ConckeyO": "hành chính"
+      },
+      {
+        "Name": "đăng ký",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "ma túy",
+        "ConckeyO": "tự nguyện"
+      },
+      {
+        "Name": "chấm dứt",
+        "ConckeyS": "người",
+        "ConckeyO": "cai nghiện"
+      },
+      {
+        "Name": "tự nguyện",
+        "ConckeyS": "cai nghiện",
+        "ConckeyO": "tự nguyện"
+      },
+      {
+        "Name": "phát hiện",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "người",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      },
+      {
+        "Name": "thay thế",
+        "ConckeyS": "thuốc",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "người",
+        "ConckeyO": "quy định"
+      },
+      {
+        "Name": "chấm dứt",
+        "ConckeyS": "người",
+        "ConckeyO": "điều trị"
+      },
+      {
+        "Name": "nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      }
+    ]
+  },
+  {
+    "article_id": "article_33",
+    "article_number": "33",
+    "relations": [
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "bắt buộc"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "ma túy",
+        "ConckeyO": "tự nguyện"
+      },
+      {
+        "Name": "sử dụng",
+        "ConckeyS": "người",
+        "ConckeyO": "chất ma túy"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "người",
+        "ConckeyO": "nghiện"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "thuốc",
+        "ConckeyO": "thay thế"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "người",
+        "ConckeyO": "quy định"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "bắt buộc"
+      },
+      {
+        "Name": "tuân thủ",
+        "ConckeyS": "người",
+        "ConckeyO": "các quy định"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "bắt buộc"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "bắt buộc"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "bắt buộc"
+      },
+      {
+        "Name": "tham gia",
+        "ConckeyS": "người",
+        "ConckeyO": "các hoạt động"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "người",
+        "ConckeyO": "bệnh"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "người",
+        "ConckeyO": "văn hóa"
+      },
+      {
+        "Name": "học",
+        "ConckeyS": "người",
+        "ConckeyO": "văn hóa"
+      },
+      {
+        "Name": "học",
+        "ConckeyS": "người",
+        "ConckeyO": "nghề"
+      },
+      {
+        "Name": "lao động",
+        "ConckeyS": "người",
+        "ConckeyO": "trị liệu"
+      },
+      {
+        "Name": "phục hồi",
+        "ConckeyS": "người",
+        "ConckeyO": "hành vi"
+      },
+      {
+        "Name": "phục hồi",
+        "ConckeyS": "người",
+        "ConckeyO": "nhân cách"
+      },
+      {
+        "Name": "quyết định",
+        "ConckeyS": "tòa án nhân dân",
+        "ConckeyO": "cơ sở"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "ủy ban",
+        "ConckeyO": "trình tự"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "ủy ban",
+        "ConckeyO": "thủ tục tòa án nhân dân"
+      },
+      {
+        "Name": "xem xét",
+        "ConckeyS": "tòa án nhân dân",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "quyết định",
+        "ConckeyS": "tòa án nhân dân",
+        "ConckeyO": "người"
+      }
+    ]
+  },
+  {
+    "article_id": "article_34",
+    "article_number": "34",
+    "relations": [
+      {
+        "Name": "lập",
+        "ConckeyS": "chủ tịch ủy ban nhân dân cấp xã nơi người đó",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "lập",
+        "ConckeyS": "cơ quan công an",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "hồ sơ",
+        "ConckeyO": "biên bản"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "hồ sơ",
+        "ConckeyO": "lý lịch"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "hồ sơ",
+        "ConckeyO": "ma túy hiện tại"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "hồ sơ",
+        "ConckeyO": "tường trình"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "hồ sơ",
+        "ConckeyO": "ý kiến"
+      },
+      {
+        "Name": "giúp",
+        "ConckeyS": "công an cấp xã",
+        "ConckeyO": "chủ tịch ủy ban nhân dân"
+      },
+      {
+        "Name": "thu thập",
+        "ConckeyS": "công an cấp xã",
+        "ConckeyO": "các tài liệu"
+      },
+      {
+        "Name": "lập",
+        "ConckeyS": "công an cấp xã",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "chịu trách nhiệm",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "tính pháp lý"
+      },
+      {
+        "Name": "thông báo",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "đọc",
+        "ConckeyS": "những người này",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "ghi ý kiến",
+        "ConckeyS": "những người này",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "gửi",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "trưởng phòng phòng lao động"
+      },
+      {
+        "Name": "quyết định",
+        "ConckeyS": "trưởng phòng phòng lao động",
+        "ConckeyO": "chuyển hồ sơ"
+      },
+      {
+        "Name": "bổ sung",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "quyết định",
+        "ConckeyS": "trưởng phòng phòng lao động",
+        "ConckeyO": "việc chuyển hồ sơ"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "hồ sơ",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "hồ sơ",
+        "ConckeyO": "văn bản"
+      },
+      {
+        "Name": "nêu",
+        "ConckeyS": "nội dung văn bản",
+        "ConckeyO": "ý kiến"
+      },
+      {
+        "Name": "bảo vệ",
+        "ConckeyS": "nội dung văn bản",
+        "ConckeyO": "quyền trẻ em"
+      },
+      {
+        "Name": "đánh",
+        "ConckeyS": "hồ sơ",
+        "ConckeyO": "bút lục"
+      },
+      {
+        "Name": "lưu trữ",
+        "ConckeyS": "hồ sơ",
+        "ConckeyO": "quy định"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "chi tiết việc"
+      },
+      {
+        "Name": "áp dụng",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "chế độ"
+      }
+    ]
+  },
+  {
+    "article_id": "article_35",
+    "article_number": "35",
+    "relations": [
+      {
+        "Name": "quyết định",
+        "ConckeyS": "chủ tịch ủy ban nhân dân cấp tỉnh",
+        "ConckeyO": "cơ sở cai nghiện ma túy công lập"
+      },
+      {
+        "Name": "bố trí",
+        "ConckeyS": "cơ sở cai nghiện ma túy công lập",
+        "ConckeyO": "các khu sau đây"
+      },
+      {
+        "Name": "bố trí",
+        "ConckeyS": "khoản 2 điều này",
+        "ConckeyO": "khu vực"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "khoản 2 điều này",
+        "ConckeyO": "khu vực"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "tiếp nhận",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "thực hiện",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "xác định",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "tình trạng"
+      },
+      {
+        "Name": "tiếp nhận",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "tư vấn",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "quyền",
+        "ConckeyS": "cơ sở cai nghiện ma túy công lập",
+        "ConckeyO": "quyền sau đây"
+      },
+      {
+        "Name": "tiếp nhận",
+        "ConckeyS": "quyền sau đây",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "quyết định",
+        "ConckeyS": "đầu cơ sở",
+        "ConckeyO": "các biện pháp"
+      },
+      {
+        "Name": "áp dụng",
+        "ConckeyS": "đầu cơ sở",
+        "ConckeyO": "các biện pháp"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "đầu cơ sở",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "đầu cơ sở",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "chữa trị",
+        "ConckeyS": "đầu cơ sở",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "trách nhiệm",
+        "ConckeyS": "cơ sở cai nghiện ma túy công lập",
+        "ConckeyO": "trách nhiệm sau đây"
+      },
+      {
+        "Name": "tuân thủ",
+        "ConckeyS": "trách nhiệm sau đây",
+        "ConckeyO": "các quy định"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "trách nhiệm sau đây",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "trách nhiệm sau đây",
+        "ConckeyO": "tính mạng"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "trách nhiệm sau đây",
+        "ConckeyO": "sức khỏe"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "trách nhiệm sau đây",
+        "ConckeyO": "danh dự"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "trách nhiệm sau đây",
+        "ConckeyO": "nhân phẩm"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "trách nhiệm sau đây",
+        "ConckeyO": "tài sản"
+      },
+      {
+        "Name": "bảo đảm",
+        "ConckeyS": "trách nhiệm sau đây",
+        "ConckeyO": "quyền"
+      },
+      {
+        "Name": "xác nhận",
+        "ConckeyS": "trách nhiệm sau đây",
+        "ConckeyO": "giấy"
+      },
+      {
+        "Name": "bảo đảm",
+        "ConckeyS": "đầu cơ sở",
+        "ConckeyO": "hoạt động"
+      },
+      {
+        "Name": "niêm yết",
+        "ConckeyS": "đầu cơ sở",
+        "ConckeyO": "chi phí"
+      },
+      {
+        "Name": "chống",
+        "ConckeyS": "trách nhiệm sau đây",
+        "ConckeyO": "thẩm lậu"
+      },
+      {
+        "Name": "thông báo",
+        "ConckeyS": "trách nhiệm sau đây",
+        "ConckeyO": "ủy ban nhân dân cấp xã nơi người đó"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "cơ sở vật chất"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "trang thiết bị"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "nhân sự"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "chế độ"
+      }
+    ]
+  },
+  {
+    "article_id": "article_36",
+    "article_number": "36",
+    "relations": [
+      {
+        "Name": "thành lập",
+        "ConckeyS": "cá nhân",
+        "ConckeyO": "cơ sở"
+      },
+      {
+        "Name": "thành lập",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "cơ sở"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "điều kiện"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "thẩm quyền"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "trình tự"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "thủ tục"
+      },
+      {
+        "Name": "thu hồi",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "giấy phép"
+      },
+      {
+        "Name": "tiếp nhận",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "thu",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "các khoản chi phí"
+      },
+      {
+        "Name": "hưởng",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "chế độ"
+      },
+      {
+        "Name": "tuân thủ quy trình",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "quy trình"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "tính mạng"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "sức khỏe"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "danh dự"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "nhân phẩm"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "tài sản"
+      },
+      {
+        "Name": "bảo đảm",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "quyền"
+      },
+      {
+        "Name": "đứng",
+        "ConckeyS": "đầu cơ sở",
+        "ConckeyO": "cơ sở"
+      },
+      {
+        "Name": "bảo đảm",
+        "ConckeyS": "đầu cơ sở",
+        "ConckeyO": "điều kiện"
+      },
+      {
+        "Name": "công khai",
+        "ConckeyS": "đầu cơ sở",
+        "ConckeyO": "chi phí"
+      },
+      {
+        "Name": "chống",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "thẩm lậu"
+      },
+      {
+        "Name": "bố trí",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "các khu"
+      },
+      {
+        "Name": "bố trí",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "phòng"
+      },
+      {
+        "Name": "tiếp nhận",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "các đối tượng"
+      },
+      {
+        "Name": "thông báo",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "ủy ban nhân dân cấp xã nơi người đó"
+      }
+    ]
+  },
+  {
+    "article_id": "article_37",
+    "article_number": "37",
+    "relations": [
+      {
+        "Name": "trục xuất",
+        "ConckeyS": "nước ngoài",
+        "ConckeyO": "người việt nam"
+      },
+      {
+        "Name": "tiến hành",
+        "ConckeyS": "người việt nam",
+        "ConckeyO": "xác định"
+      },
+      {
+        "Name": "xác định",
+        "ConckeyS": "người việt nam",
+        "ConckeyO": "tình trạng"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "người đó",
+        "ConckeyO": "các biện pháp"
+      },
+      {
+        "Name": "đăng ký",
+        "ConckeyS": "người nước ngoài",
+        "ConckeyO": "cai nghiện"
+      },
+      {
+        "Name": "tự nguyện",
+        "ConckeyS": "người nước ngoài",
+        "ConckeyO": "cai nghiện"
+      },
+      {
+        "Name": "chi trả",
+        "ConckeyS": "người nước ngoài",
+        "ConckeyO": "toàn bộ các khoản chi phí"
+      }
+    ]
+  },
+  {
+    "article_id": "article_38",
+    "article_number": "38",
+    "relations": [
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "nhà nước",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "áp dụng",
+        "ConckeyS": "nhà nước",
+        "ConckeyO": "biện pháp"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "biện pháp",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "giám thị trại giam",
+        "ConckeyO": "cơ sở y tế"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "giám đốc cơ sở giáo dục",
+        "ConckeyO": "cơ sở y tế"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "hiệu trưởng trường giáo dưỡng",
+        "ConckeyO": "cơ sở y tế"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "trưởng nhà",
+        "ConckeyO": "cơ sở y tế"
+      },
+      {
+        "Name": "thực hiện",
+        "ConckeyS": "cơ sở y tế",
+        "ConckeyO": "quy định"
+      }
+    ]
+  },
+  {
+    "article_id": "article_39",
+    "article_number": "39",
+    "relations": [
+      {
+        "Name": "chấp hành",
+        "ConckeyS": "người",
+        "ConckeyO": "quyết định"
+      },
+      {
+        "Name": "thực hiện hành vi",
+        "ConckeyS": "người",
+        "ConckeyO": "phạm tội trước"
+      },
+      {
+        "Name": "miễn chấp hành",
+        "ConckeyS": "tòa án",
+        "ConckeyO": "quyết định"
+      },
+      {
+        "Name": "hưởng",
+        "ConckeyS": "người",
+        "ConckeyO": "án treo"
+      }
+    ]
+  },
+  {
+    "article_id": "article_40",
+    "article_number": "40",
+    "relations": [
+      {
+        "Name": "quản lý",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "hoàn thành",
+        "ConckeyS": "người",
+        "ConckeyO": "cai nghiện"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "người",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      },
+      {
+        "Name": "thay thế",
+        "ConckeyS": "thuốc",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      },
+      {
+        "Name": "chấp hành",
+        "ConckeyS": "người",
+        "ConckeyO": "quyết định"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "chấp hành",
+        "ConckeyS": "người",
+        "ConckeyO": "quyết định"
+      },
+      {
+        "Name": "áp dụng",
+        "ConckeyS": "biện pháp",
+        "ConckeyO": "hành chính"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "danh sách người"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "tư vấn"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "giúp đỡ"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "phòng chống"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "theo dõi"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "phát hiện"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "nội dung",
+        "ConckeyO": "ngăn chặn"
+      },
+      {
+        "Name": "học",
+        "ConckeyS": "xã hội",
+        "ConckeyO": "văn hóa"
+      },
+      {
+        "Name": "học",
+        "ConckeyS": "xã hội",
+        "ConckeyO": "nghề"
+      },
+      {
+        "Name": "vay",
+        "ConckeyS": "xã hội",
+        "ConckeyO": "vốn"
+      },
+      {
+        "Name": "tham gia",
+        "ConckeyS": "xã hội",
+        "ConckeyO": "các hoạt động xã hội"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "chủ tịch ủy ban nhân dân",
+        "ConckeyO": "xã hội sau"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "chủ tịch ủy ban nhân dân",
+        "ConckeyO": "xã hội sau"
+      },
+      {
+        "Name": "quyết định",
+        "ConckeyS": "chủ tịch ủy ban nhân dân",
+        "ConckeyO": "quyết định"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "trình tự"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "thủ tục"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "chế độ"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "chính sách"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "người"
+      }
+    ]
+  },
+  {
+    "article_id": "article_41",
+    "article_number": "41",
+    "relations": [
+      {
+        "Name": "can thiệp",
+        "ConckeyS": "biện pháp",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "tác hại",
+        "ConckeyS": "biện pháp",
+        "ConckeyO": "tác hại"
+      },
+      {
+        "Name": "bao gồm",
+        "ConckeyS": "biện pháp",
+        "ConckeyO": "thuốc"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "biện pháp",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      },
+      {
+        "Name": "thay thế",
+        "ConckeyS": "thuốc",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "các biện pháp"
+      }
+    ]
+  },
+  {
+    "article_id": "article_42",
+    "article_number": "42",
+    "relations": [
+      {
+        "Name": "trách nhiệm sau đây",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "lập",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "hồ sơ"
+      },
+      {
+        "Name": "áp dụng",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "biện pháp"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "hòa nhập",
+        "ConckeyS": "gia đình người",
+        "ConckeyO": "cộng đồng"
+      },
+      {
+        "Name": "trách nhiệm sau đây",
+        "ConckeyS": "cộng đồng nơi người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "động viên",
+        "ConckeyS": "cộng đồng nơi người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "giúp đỡ",
+        "ConckeyS": "cộng đồng nơi người",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "cộng đồng nơi người",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "cộng đồng nơi người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "cộng đồng nơi người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "hòa nhập",
+        "ConckeyS": "cộng đồng nơi người",
+        "ConckeyO": "cộng đồng"
+      }
+    ]
+  },
+  {
+    "article_id": "article_43",
+    "article_number": "43",
+    "relations": [
+      {
+        "Name": "giúp",
+        "ConckeyS": "công an cấp xã",
+        "ConckeyO": "ủy ban nhân dân"
+      },
+      {
+        "Name": "lập",
+        "ConckeyS": "ủy ban nhân dân",
+        "ConckeyO": "danh sách người"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "ủy ban nhân dân",
+        "ConckeyO": "danh sách người"
+      },
+      {
+        "Name": "thông báo",
+        "ConckeyS": "công an cấp xã nơi",
+        "ConckeyO": "công an cấp xã"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "công an cấp xã nơi",
+        "ConckeyO": "quản lý"
+      },
+      {
+        "Name": "giúp",
+        "ConckeyS": "công an cấp xã",
+        "ConckeyO": "ủy ban nhân dân"
+      }
+    ]
+  },
+  {
+    "article_id": "article_40",
+    "article_number": "40",
+    "relations": [
+      {
+        "Name": "phát hiện",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "người",
+        "ConckeyO": "cai nghiện"
+      }
+    ]
+  },
+  {
+    "article_id": "article_44",
+    "article_number": "44",
+    "relations": [
+      {
+        "Name": "xây dựng",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "chiến lược"
+      },
+      {
+        "Name": "xây dựng",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "chủ trương"
+      },
+      {
+        "Name": "xây dựng",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "chính sách"
+      },
+      {
+        "Name": "xây dựng",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "kế hoạch"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "chiến lược"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "chủ trương"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "chính sách"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "kế hoạch"
+      },
+      {
+        "Name": "ban hành",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "các văn bản"
+      },
+      {
+        "Name": "quy phạm pháp luật",
+        "ConckeyS": "các văn bản",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "các văn bản",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "bộ máy"
+      },
+      {
+        "Name": "đào tạo",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "bồi dưỡng",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "các hoạt động"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "công tác"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "công tác"
+      },
+      {
+        "Name": "đấu tranh",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "phòng chống"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "thống kê nhà nước",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "thống kê nhà nước"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "thống kê nhà nước",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "nghiên cứu"
+      },
+      {
+        "Name": "nghiên cứu",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "khoa học"
+      },
+      {
+        "Name": "ứng dụng",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "ứng dụng"
+      },
+      {
+        "Name": "tiến bộ",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "khoa học"
+      },
+      {
+        "Name": "tiến bộ",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "công nghệ"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "khoa học",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "công nghệ",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "tuyên truyền"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "tuyên truyền"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "tuyên truyền",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "hợp tác"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "hợp tác",
+        "ConckeyO": "ma túy"
+      }
+    ]
+  },
+  {
+    "article_id": "article_45",
+    "article_number": "45",
+    "relations": [
+      {
+        "Name": "quản lý",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "nhà nước"
+      },
+      {
+        "Name": "thống nhất",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "quản lý"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "chính phủ",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "giúp",
+        "ConckeyS": "bộ công an",
+        "ConckeyO": "chính phủ"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "bộ công an",
+        "ConckeyO": "nhà nước"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "bộ công an",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "các bộ",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "các bộ",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "ủy ban nhân dân các cấp",
+        "ConckeyO": "nhà nước"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "ủy ban nhân dân các cấp",
+        "ConckeyO": "ma túy"
+      }
+    ]
+  },
+  {
+    "article_id": "article_46",
+    "article_number": "46",
+    "relations": [
+      {
+        "Name": "ban hành",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "văn bản"
+      },
+      {
+        "Name": "trình",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "cơ quan nhà nước"
+      },
+      {
+        "Name": "ban hành",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "văn bản"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "tổ chức"
+      },
+      {
+        "Name": "tiếp nhận",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "thông tin tội phạm"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "các hoạt động"
+      },
+      {
+        "Name": "giám định",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "chất"
+      },
+      {
+        "Name": "giám định",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "tiền"
+      },
+      {
+        "Name": "đào tạo",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "bồi dưỡng",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "hướng dẫn",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "danh sách người"
+      },
+      {
+        "Name": "lập",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "danh sách người"
+      },
+      {
+        "Name": "thống kê nhà nước",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "thống kê nhà nước"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "thông tin tội phạm"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "danh sách người"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "kết quả"
+      },
+      {
+        "Name": "hợp tác",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "hợp tác"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "Bộ Công an",
+        "ConckeyO": "ma túy"
+      }
+    ]
+  },
+  {
+    "article_id": "article_47",
+    "article_number": "47",
+    "relations": [
+      {
+        "Name": "ban hành",
+        "ConckeyS": "Bộ Lao động - Thương binh và Xã hội",
+        "ConckeyO": "văn bản"
+      },
+      {
+        "Name": "trình",
+        "ConckeyS": "Bộ Lao động - Thương binh và Xã hội",
+        "ConckeyO": "cơ quan nhà nước"
+      },
+      {
+        "Name": "quy phạm pháp luật",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "văn bản"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "Bộ Lao động - Thương binh và Xã hội",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "Bộ Lao động - Thương binh và Xã hội",
+        "ConckeyO": "chính quyền địa phương"
+      },
+      {
+        "Name": "hướng dẫn",
+        "ConckeyS": "Bộ Lao động - Thương binh và Xã hội",
+        "ConckeyO": "tổ chức"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tự nguyện",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "gia đình"
+      },
+      {
+        "Name": "tự nguyện",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "cộng đồng"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "cơ sở"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "hướng dẫn",
+        "ConckeyS": "Bộ Lao động - Thương binh và Xã hội",
+        "ConckeyO": "thành lập"
+      },
+      {
+        "Name": "hướng dẫn",
+        "ConckeyS": "Bộ Lao động - Thương binh và Xã hội",
+        "ConckeyO": "giải thể"
+      },
+      {
+        "Name": "hoạt động",
+        "ConckeyS": "tổ chức",
+        "ConckeyO": "cơ sở"
+      },
+      {
+        "Name": "công lập",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "cơ sở"
+      },
+      {
+        "Name": "đào tạo",
+        "ConckeyS": "Bộ Lao động - Thương binh và Xã hội",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "bồi dưỡng",
+        "ConckeyS": "Bộ Lao động - Thương binh và Xã hội",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "công tác",
+        "ConckeyS": "người",
+        "ConckeyO": "công tác"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "hướng dẫn",
+        "ConckeyS": "Bộ Lao động - Thương binh và Xã hội",
+        "ConckeyO": "chỉ đạo"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "chỉ đạo",
+        "ConckeyO": "tuyên truyền"
+      },
+      {
+        "Name": "giáo dục",
+        "ConckeyS": "tuyên truyền",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "tuyên truyền",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "hệ thống cơ sở",
+        "ConckeyS": "tuyên truyền",
+        "ConckeyO": "hệ thống cơ sở"
+      },
+      {
+        "Name": "nghề nghiệp",
+        "ConckeyS": "hệ thống cơ sở",
+        "ConckeyO": "nghề nghiệp"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "Bộ Lao động - Thương binh và Xã hội",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "thống kê người",
+        "ConckeyS": "Bộ Lao động - Thương binh và Xã hội",
+        "ConckeyO": "thống kê người"
+      },
+      {
+        "Name": "nghiện",
+        "ConckeyS": "thống kê người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "thống kê người",
+        "ConckeyO": "gia đình"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "thống kê người",
+        "ConckeyO": "cộng đồng"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "thống kê người",
+        "ConckeyO": "cơ sở"
+      }
+    ]
+  },
+  {
+    "article_id": "article_48",
+    "article_number": "48",
+    "relations": [
+      {
+        "Name": "ban hành",
+        "ConckeyS": "bộ quốc phòng",
+        "ConckeyO": "văn bản"
+      },
+      {
+        "Name": "trình",
+        "ConckeyS": "bộ quốc phòng",
+        "ConckeyO": "cơ quan nhà nước"
+      },
+      {
+        "Name": "quy phạm pháp luật",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "văn bản"
+      },
+      {
+        "Name": "tổ chức",
+        "ConckeyS": "bộ quốc phòng",
+        "ConckeyO": "kế hoạch"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "kế hoạch",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "chỉ đạo",
+        "ConckeyS": "bộ quốc phòng",
+        "ConckeyO": "lực lượng bộ đội biên phòng"
+      },
+      {
+        "Name": "chỉ đạo",
+        "ConckeyS": "bộ quốc phòng",
+        "ConckeyO": "cảnh sát biển việt nam"
+      },
+      {
+        "Name": "chủ trì",
+        "ConckeyS": "lực lượng bộ đội biên phòng",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "chủ trì",
+        "ConckeyS": "lực lượng bộ đội biên phòng",
+        "ConckeyO": "tổ chức"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "lực lượng bộ đội biên phòng",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "phối hợp",
+        "ConckeyS": "lực lượng bộ đội biên phòng",
+        "ConckeyO": "tổ chức"
+      },
+      {
+        "Name": "tiếp nhận",
+        "ConckeyS": "lực lượng bộ đội biên phòng",
+        "ConckeyO": "thông tin tội phạm"
+      },
+      {
+        "Name": "xử lý",
+        "ConckeyS": "lực lượng bộ đội biên phòng",
+        "ConckeyO": "thông tin tội phạm"
+      },
+      {
+        "Name": "phát hiện",
+        "ConckeyS": "lực lượng bộ đội biên phòng",
+        "ConckeyO": "các hành vi"
+      },
+      {
+        "Name": "ngăn chặn",
+        "ConckeyS": "lực lượng bộ đội biên phòng",
+        "ConckeyO": "các hành vi"
+      },
+      {
+        "Name": "đấu tranh",
+        "ConckeyS": "lực lượng bộ đội biên phòng",
+        "ConckeyO": "các hành vi"
+      },
+      {
+        "Name": "vi phạm",
+        "ConckeyS": "các hành vi",
+        "ConckeyO": "pháp luật"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "lực lượng bộ đội biên phòng",
+        "ConckeyO": "các hoạt động"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "các hoạt động",
+        "ConckeyO": "khoản 2 điều này"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "các hoạt động",
+        "ConckeyO": "luật này"
+      },
+      {
+        "Name": "đào tạo",
+        "ConckeyS": "bộ quốc phòng",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "bồi dưỡng",
+        "ConckeyS": "bộ quốc phòng",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "chuyên trách",
+        "ConckeyS": "công tác",
+        "ConckeyO": "tội phạm"
+      },
+      {
+        "Name": "thống kê người",
+        "ConckeyS": "bộ quốc phòng",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "bộ quốc phòng",
+        "ConckeyO": "trại giam"
+      },
+      {
+        "Name": "giam",
+        "ConckeyS": "trại giam",
+        "ConckeyO": "người"
+      }
+    ]
+  },
+  {
+    "article_id": "article_49",
+    "article_number": "49",
+    "relations": [
+      {
+        "Name": "ban hành",
+        "ConckeyS": "Bộ Y tế",
+        "ConckeyO": "văn bản"
+      },
+      {
+        "Name": "quy phạm pháp luật",
+        "ConckeyS": "văn bản",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "văn bản",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "trình",
+        "ConckeyS": "Bộ Y tế",
+        "ConckeyO": "cơ quan nhà nước"
+      },
+      {
+        "Name": "ban hành",
+        "ConckeyS": "cơ quan nhà nước",
+        "ConckeyO": "văn bản"
+      },
+      {
+        "Name": "nghiên cứu",
+        "ConckeyS": "Bộ Y tế",
+        "ConckeyO": "thuốc"
+      },
+      {
+        "Name": "nghiên cứu",
+        "ConckeyS": "Bộ Y tế",
+        "ConckeyO": "phương pháp"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "Bộ Y tế",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "cấp",
+        "ConckeyS": "Bộ Y tế",
+        "ConckeyO": "giấy phép"
+      },
+      {
+        "Name": "lưu hành",
+        "ConckeyS": "giấy phép",
+        "ConckeyO": "thuốc"
+      },
+      {
+        "Name": "thu hồi",
+        "ConckeyS": "Bộ Y tế",
+        "ConckeyO": "giấy phép"
+      },
+      {
+        "Name": "lưu hành",
+        "ConckeyS": "giấy phép",
+        "ConckeyO": "phương pháp"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "giấy phép",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "chuyên môn kỹ thuật y tế",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "thống kê",
+        "ConckeyS": "Bộ Y tế",
+        "ConckeyO": "thống kê người"
+      },
+      {
+        "Name": "tham gia",
+        "ConckeyS": "người",
+        "ConckeyO": "điều trị"
+      },
+      {
+        "Name": "điều trị",
+        "ConckeyS": "người",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      },
+      {
+        "Name": "thay thế",
+        "ConckeyS": "thuốc",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      },
+      {
+        "Name": "nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "các chất dạng thuốc phiện"
+      }
+    ]
+  },
+  {
+    "article_id": "article_50",
+    "article_number": "50",
+    "relations": [
+      {
+        "Name": "chỉ đạo",
+        "ConckeyS": "bộ tài chính",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "hoạt động",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "phòng chống"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "luật này"
+      },
+      {
+        "Name": "quy định",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "pháp luật"
+      }
+    ]
+  },
+  {
+    "article_id": "article_51",
+    "article_number": "51",
+    "relations": [
+      {
+        "Name": "hợp tác",
+        "ConckeyS": "nhà nước việt nam",
+        "ConckeyO": "các nước"
+      },
+      {
+        "Name": "hợp tác",
+        "ConckeyS": "nhà nước việt nam",
+        "ConckeyO": "tổ chức quốc tế"
+      },
+      {
+        "Name": "hợp tác",
+        "ConckeyS": "nhà nước việt nam",
+        "ConckeyO": "cá nhân nước ngoài"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "nhà nước việt nam",
+        "ConckeyO": "độc lập"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "nhà nước việt nam",
+        "ConckeyO": "chủ quyền"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "nhà nước việt nam",
+        "ConckeyO": "toàn vẹn"
+      },
+      {
+        "Name": "hợp tác",
+        "ConckeyS": "thẩm quyền",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "hợp tác",
+        "ConckeyS": "thẩm quyền",
+        "ConckeyO": "các nước"
+      },
+      {
+        "Name": "hợp tác",
+        "ConckeyS": "thẩm quyền",
+        "ConckeyO": "tổ chức quốc tế"
+      },
+      {
+        "Name": "hợp tác",
+        "ConckeyS": "thẩm quyền",
+        "ConckeyO": "cá nhân nước ngoài"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "điều ước quốc tế",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "chương trình",
+        "ConckeyO": "ma túy"
+      }
+    ]
+  },
+  {
+    "article_id": "article_52",
+    "article_number": "52",
+    "relations": [
+      {
+        "Name": "hợp tác",
+        "ConckeyS": "nhà nước việt nam",
+        "ConckeyO": "các nước"
+      },
+      {
+        "Name": "tôn trọng",
+        "ConckeyS": "nhà nước việt nam",
+        "ConckeyO": "chủ quyền quốc gia"
+      },
+      {
+        "Name": "khuyến khích",
+        "ConckeyS": "nhà nước việt nam",
+        "ConckeyO": "cá nhân nước ngoài"
+      },
+      {
+        "Name": "hợp tác",
+        "ConckeyS": "cá nhân nước ngoài",
+        "ConckeyO": "cơ quan"
+      },
+      {
+        "Name": "phòng chống",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "tăng cường",
+        "ConckeyS": "cá nhân nước ngoài",
+        "ConckeyO": "năng lực pháp luật"
+      },
+      {
+        "Name": "tăng cường",
+        "ConckeyS": "cá nhân nước ngoài",
+        "ConckeyO": "thông tin"
+      },
+      {
+        "Name": "tăng cường",
+        "ConckeyS": "cá nhân nước ngoài",
+        "ConckeyO": "công nghệ"
+      },
+      {
+        "Name": "tăng cường",
+        "ConckeyS": "cá nhân nước ngoài",
+        "ConckeyO": "đào tạo"
+      },
+      {
+        "Name": "tăng cường",
+        "ConckeyS": "cá nhân nước ngoài",
+        "ConckeyO": "y tế"
+      }
+    ]
+  },
+  {
+    "article_id": "article_53",
+    "article_number": "53",
+    "relations": [
+      {
+        "Name": "chuyển giao",
+        "ConckeyS": "nhà nước việt nam",
+        "ConckeyO": "hàng hóa"
+      },
+      {
+        "Name": "kiểm soát",
+        "ConckeyS": "hàng hóa",
+        "ConckeyO": "kiểm soát"
+      },
+      {
+        "Name": "phát hiện",
+        "ConckeyS": "nước cộng hòa xã hội chủ nghĩa việt nam",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "truy cứu trách nhiệm hình sự",
+        "ConckeyS": "nước cộng hòa xã hội chủ nghĩa việt nam",
+        "ConckeyO": "người"
+      },
+      {
+        "Name": "quyết định",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "biện pháp này"
+      },
+      {
+        "Name": "áp dụng",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "biện pháp này"
+      },
+      {
+        "Name": "tiến hành",
+        "ConckeyS": "cơ quan",
+        "ConckeyO": "biện pháp này"
+      },
+      {
+        "Name": "phạm tội",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      }
+    ]
+  },
+  {
+    "article_id": "article_54",
+    "article_number": "54",
+    "relations": [
+      {
+        "Name": "thi hành",
+        "ConckeyS": "luật này",
+        "ConckeyO": "hiệu lực"
+      },
+      {
+        "Name": "sửa đổi",
+        "ConckeyS": "luật phòng",
+        "ConckeyO": "ma túy số 23/2000"
+      },
+      {
+        "Name": "bổ sung",
+        "ConckeyS": "luật phòng",
+        "ConckeyO": "ma túy số 23/2000"
+      }
+    ]
+  },
+  {
+    "article_id": "article_55",
+    "article_number": "55",
+    "relations": [
+      {
+        "Name": "thi hành",
+        "ConckeyS": "luật này",
+        "ConckeyO": "hiệu lực"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "gia đình"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "cộng đồng"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "cơ sở"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "chấp hành",
+        "ConckeyS": "người",
+        "ConckeyO": "quyết định"
+      },
+      {
+        "Name": "quản lý",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "áp dụng",
+        "ConckeyS": "biện pháp",
+        "ConckeyO": "trường hợp người"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "cộng đồng"
+      },
+      {
+        "Name": "đăng ký",
+        "ConckeyS": "người",
+        "ConckeyO": "cai nghiện"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "cơ sở"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "người",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "hoạt động",
+        "ConckeyS": "hoạt động",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "ghi",
+        "ConckeyS": "thời hạn",
+        "ConckeyO": "giấy phép"
+      },
+      {
+        "Name": "thi hành",
+        "ConckeyS": "luật này",
+        "ConckeyO": "hiệu lực"
+      },
+      {
+        "Name": "thành lập",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "luật phòng"
+      },
+      {
+        "Name": "đáp ứng",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "điều kiện"
+      },
+      {
+        "Name": "cai nghiện",
+        "ConckeyS": "cơ sở",
+        "ConckeyO": "ma túy"
+      },
+      {
+        "Name": "hoạt động",
+        "ConckeyS": "các cơ sở",
+        "ConckeyO": "giấy phép"
+      },
+      {
+        "Name": "thông qua",
+        "ConckeyS": "quốc hội",
+        "ConckeyO": "luật này"
+      }
+    ]
+  }
+]
